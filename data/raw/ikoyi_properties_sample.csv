@@ -1,16 +1,16 @@
-price_raw,title,status,availability,property_type,location,detail_url
-"NGN35,000,000",2 Bedroom Maisonette + BQ in Ikoyi,For Rent,Available for rent,Maisonette,Ikoyi,https://cwlagos.com/property/2-bedroom-maisonette-bq-in-ikoyi/
-"#35,000,000",4 Bedroom Furnished Apartment + BQ,For Rent,Available for rent,Apartment,"Ikoyi, Lagos.",https://cwlagos.com/property/4-bedroom-furnished-apartment-bq/
-"#900,000,000",Luxury 3 Bedroom Maisonette with BQ,For Sale,Available for sale,Maisonette,"Ikoyi, Lagos.",https://cwlagos.com/property/luxury-3-bedroom-maisonette-with-bq/
-"N100,000,000",Luxury 5 Bedroom Detached House,For Rent,Available for sale,Detached,"Banana Island, Ikoyi, Lagos.",https://cwlagos.com/property/luxury-5-bedroom-detached-house-with-en-suite-bq/
-"$1,100,000",Exclusive 4 Bedroom Maisonette with Swimming Pool,For Sale,Available for sale,Maisonette,"Ikoyi, Lagos.",https://cwlagos.com/property/exclusive-4-bedroom-maisonette-with-swimming-pool-2/
-"#950,000,000",2 units of 4 Bedroom Terrace with a BQ Each,For Sale,Available for sale,Terraced,"Ikoyi, Lagos.",https://cwlagos.com/property/2-units-of-4-bedroom-terrace-with-a-bq-each/
-"#1,500,000,000",Luxury 4 Bedroom Terrace with Private Rooftop Swimming Pool,For Sale,Available for sale,Terraced,"Old Ikoyi, Ikoyi, Lagos.",https://cwlagos.com/property/luxury-4-bedroom-terrace-with-private-rooftop-swimming-pool/
-"NGN3,000,000",Land Measuring 1000sqm in Ikoyi,For Sale,Available for sale,,Ikoyi,https://cwlagos.com/property/land-measuring-1000sqm-in-ikoyi-5/
-"NGN100,000,000","Five-Bed Duplex in Banana Island, Ikoyi",For Rent,Available for rent,,Ikoyi,https://cwlagos.com/property/five-bed-duplex-in-banana-island-ikoyi/
-"NGN250,000",Commercial Lease145 SQM Office Space in Ikoyi,commercial,Available for rent,Commercial Space,Ikoyi,https://cwlagos.com/property/commercial-lease145-sqm-office-space-in-ikoyi/
-"NGN80,000,000",4Bed Maisonette Penthouse+2BQs in Old Ikoyi,For Rent,Available for rent,Maisonette,Old Ikoyi,https://cwlagos.com/property/4bed-maisonette-penthouse2bqs-in-old-ikoyi/
-$1000000,Luxury Units at Ikoyi,For Sale,Available for sale,Penthouse,Ikoyi,https://cwlagos.com/property/luxury-units-at-ikoyi/
-"NGN13,000,000",1-Bedroom Penthouse in Old Ikoyi,For Rent,Available for rent,Penthouse,Old Ikoyi,https://cwlagos.com/property/1-bedroom-penthouse-in-old-ikoyi/
-"NGN18,000,000",3-Bedroom Terrace Duplex in Old Ikoyi,For Rent,Available for rent,Terraced,Ikoyi,https://cwlagos.com/property/3-bedroom-terrace-duplex-in-old-ikoyi/
-"NGN70,000,000",3-Bedroom Penthouse in Ikoyi,For Rent,Available for rent,Penthouse,Ikoyi,https://cwlagos.com/property/3-bedroom-penthouse-in-ikoyi/
+price_raw,title,status,availability,property_type,beds,baths,location,author,detail_url,area(sqm)
+"NGN35,000,000",2 Bedroom Maisonette + BQ in Ikoyi,For Rent,Available for rent,Maisonette,2,2,Ikoyi,admin-cw,https://cwlagos.com/property/2-bedroom-maisonette-bq-in-ikoyi/,
+"#35,000,000",4 Bedroom Furnished Apartment + BQ,For Rent,Available for rent,Apartment,4,4,"Ikoyi, Lagos.",admin-cw,https://cwlagos.com/property/4-bedroom-furnished-apartment-bq/,
+"#900,000,000",Luxury 3 Bedroom Maisonette with BQ,For Sale,Available for sale,Maisonette,3,3,"Ikoyi, Lagos.",Adeyemi Fowosire,https://cwlagos.com/property/luxury-3-bedroom-maisonette-with-bq/,
+"N100,000,000",Luxury 5 Bedroom Detached House,For Rent,Available for sale,Detached,5,5,"Banana Island, Ikoyi, Lagos.",Adeyemi Fowosire,https://cwlagos.com/property/luxury-5-bedroom-detached-house-with-en-suite-bq/,
+"$1,100,000",Exclusive 4 Bedroom Maisonette with Swimming Pool,For Sale,Available for sale,Maisonette,4,4,"Ikoyi, Lagos.",Adaeze Ajomiwe,https://cwlagos.com/property/exclusive-4-bedroom-maisonette-with-swimming-pool-2/,
+"#950,000,000",2 units of 4 Bedroom Terrace with a BQ Each,For Sale,Available for sale,Terraced,4,4,"Ikoyi, Lagos.",Adeyemi Fowosire,https://cwlagos.com/property/2-units-of-4-bedroom-terrace-with-a-bq-each/,
+"#1,500,000,000",Luxury 4 Bedroom Terrace with Private Rooftop Swimming Pool,For Sale,Available for sale,Terraced,4,4,"Old Ikoyi, Ikoyi, Lagos.",Rose,https://cwlagos.com/property/luxury-4-bedroom-terrace-with-private-rooftop-swimming-pool/,
+"NGN950,000,000",NEW DEVELOPMENTS IN IKOYI,For Sale,Available for sale,Maisonette,4,4,Ikoyi,admin-cw,https://cwlagos.com/property/new-developments-in-ikoyi/,
+"NGN4,300,000,000",Prime Land in Banana Island,For Sale,Available for sale,,,,Ikoyi,admin-cw,https://cwlagos.com/property/prime-land-in-banana-island/,852
+"NGN3,700,000",Residential Land- Banana Island,For Sale,Available for sale,,,,Ikoyi,admin-cw,https://cwlagos.com/property/residential-land-banana-island/,1000
+"NGN3,500,000",Land Measuring 3300sqm- Ikoyi,For Sale,Available for sale,,,,Ikoyi,admin-cw,https://cwlagos.com/property/land-measuring-3300sqm-ikoyi/,3300
+"NGN3,000,000",Waterfront Land in Ikoyi,For Sale,Available for sale,,,,Ikoyi,admin-cw,https://cwlagos.com/property/waterfront-land-in-ikoyi-2/,
+"NGN3,500,000,000",Land Measuring 750sqm- Ikoyi,For Sale,Available for sale,,,,Ikoyi,admin-cw,https://cwlagos.com/property/land-measuring-750sqm-ikoyi-2/,750
+"NGN4,500,000,000",Land Measuring 875sqm- Ikoyi,For Sale,Available for sale,,,,Ikoyi,admin-cw,https://cwlagos.com/property/land-measuring-875sqm-ikoyi/,875
+"NGN4,000,000",Prime Land in Ikoyi,For Sale,Available for sale,,,,Ikoyi,admin-cw,https://cwlagos.com/property/prime-land-in-ikoyi/,
