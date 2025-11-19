@@ -156,7 +156,7 @@ def lagos_house_scraping(url):
     
     print(f"Attempting to save {len(main_rows)} records to CSV...")
     
-    listings.to_csv('../data/raw/lagos_housing_data.csv', index=False)
+    listings.to_csv('lagos_housing_data.csv', index=False)
     
     print("CSV saved successfully.")
     
@@ -165,7 +165,4 @@ def lagos_house_scraping(url):
 
 if __name__ == "__main__":
     url = "https://www.cwlagos.com"
-    if not os.path.exists('../data/raw/'):
-        os.makedirs('../data/raw/')
-        print("Created directory: ../data/raw/")
     lagos_house_scraping(url)
