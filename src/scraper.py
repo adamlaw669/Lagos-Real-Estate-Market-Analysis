@@ -160,7 +160,7 @@ def lagos_house_scraping(url):
     
     print("CSV saved successfully.")
     
-    print("--- lagos_house_scraping function finished. ---")
+    print("lagos_house_scraping function finished.")
 
 
 if __name__ == "__main__":
