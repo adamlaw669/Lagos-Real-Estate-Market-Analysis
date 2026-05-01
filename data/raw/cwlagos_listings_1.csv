@@ -1,0 +1,653 @@
+type,kind,price,title,location,beds,baths,agent,contact
+For Rent,Apartment,"₦20,000,000",4 Units of 3 Bedroom Apartments in Lekki phase 1,Lekki Phase 1,3,3,Chinenye,+234 816 911 2079
+For sale,Detached Duplex,"₦1,500,000,000",Luxury 5 Bedroom Fully Detached House in Lekki phase 1,Lekki Phase 1,5,5,Chinenye,+234 816 911 2079
+For Rent,Apartment,"₦45,000,000",Furnished 3 Bedroom Apartment in Ikoyi,Banana Island,3,3,Adaeze,+234 816 631 5298
+For Rent,Apartment,"₦89,408,528",Luxury 3-Bedroom Apartment in Ikoyi,Banana Island,3,3,Adaeze,+234 816 631 5298
+For Rent,Commercial,"₦30,000,000",4 Bedroom Apartment for Commercial Use in VI,Victoria Island,,,Nadi,+2349062511345
+For sale,Detached Duplex,"₦370,000,000",5 Bedroom Detached Duplex with BQ in Lekki,Ikota,5,5,Teni,+234 704 816 4812
+For Rent,Apartment,"₦35,000,000",2-Bedroom Apartment in Ikoyi,Old Ikoyi,2,2,Adaeze,+234 816 631 5298
+For Sale,Maisonette,"₦930,000,000",4 Bedroom Townhouse with BQ in Ikoyi,Ikoyi,4,4,Titi,+234 707 886 6245
+For Rent,Apartment,"₦61,500,000",Luxury 3-Bedroom Apartment in Ikoyi,Old Ikoyi,3,3,Adaeze,+234 816 631 5298
+For Rent,Maisonette,"₦450,000,000",Furnished 3-Bedroom Maisonette in Lekki,Lekki Phase 1,3,3,Adaeze,+234 816 631 5298
+For Rent,Apartment,"₦40,000,000",3 Bedroom Furnished Apartment in Ikoyi,Ikoyi,3,3,Titi,+234 707 886 6245
+For Rent,Apartment,"₦40,000,000",3-Bedroom Apartment in Ikoyi,Ikoyi,3,3,Adaeze,+234 816 631 5298
+For Rent,Apartment,"₦16,000,000",2-Bedroom Apartment in Ikoyi,Ikoyi,2,2,Adaeze,+234 816 631 5298
+For Rent,Commercial,"₦300,000",Ground Floor Office Space (230 sqm)- Lekki phase 1,Lekki Phase 1,,,Nadi,+2349062511345
+For sale,Apartment,"₦260,000,000",2 Bedroom Apartment with BQ in Lekki,Lekki Phase 1,2,2,Jennifer,+234 704 808 9361
+For Sale,Detached Duplex,"₦400,000,000",5 Bedroom Fully Detached House with BQ in Lekki,Ikota,5,5,Teni,+234 704 816 4812
+For sale,Apartment,"₦140,000,000",2-Bedroom Apartment,Ikate,2,2,Peter,+234 906 251 1344
+For Rent,Commercial,"₦30,000,000",4 Bedroom Townhouse for Commercial Use in VI,Victoria Island,4,4,Nadi,+2349062511345
+For Rent,Apartment,"₦35,000,000",Fully Furnished 3 Bedroom Apartment with BQ in Ikoyi,Ikoyi,3,3,Titi,+234 707 886 6245
+For sale,Terrace,"₦250,000,000",5-Bedroom Terrace Duplex,"Orchid, Lekki",5,5,Peter,+234 906 251 1344
+For Sale,Maisonette,"₦900,000,000",New Development Apartments in Ikoyi,Ikoyi,4,4,Ifunanya,+234 706 399 0727
+For Sale,Detached Duplex,"₦300,000,000",4 Bedroom Detached Duplex with BQ in Lekki,Ikota,4,4,Teni,+234 704 816 4812
+For sale,Detached Duplex,"₦850,000,000",5 Bedroom Detached Duplex,Osapa,5,5,Peter,+234 906 251 1344
+For Sale,Terrace,"₦180,000,000",4 Bedroom Terrace Duplex with Bq in Chevron,Chevron,4,4,Ebunoluwa,+234 704 808 9358
+For Sale,Apartment,"₦2,475,928,473",Luxury Development Rising in Ikoyi,Ikoyi,4,4,Ifunanya,+234 706 399 0727
+For Rent,Maisonette,"₦45,000,000",Luxury 4 Bedroom Maisonette with BQ in Ikoyi,Ikoyi,4,4,Ifunanya,+234 706 399 0727
+For Rent,Apartment,"₦40,000,000",4 Bedroom Apartment with BQ in Ikoyi,Ikoyi,4,4,Ifunanya,+234 706 399 0727
+For Sale,Semi Detached,"₦250,000,000",4 Bedroom Semi-Detached Duplex with BQ in Chevron,Chevron,4,4,Ebunoluwa,+234 704 808 9358
+For Sale,Detached Duplex,"₦800,000,000",Contemporary 4-Bedroom Detached Duplex,Osapa,4,4,Peter,+234 906 251 1344
+For sale,Detached Duplex,"₦320,000,000",5-Bedroom Fully Detached Duplex,Ologolo,5,5,Peter,+234 906 251 1344
+For sale,Detached Duplex,"₦1,100,000,000",Luxury 5-Bedroom Fully Detached Duplex,Lekki,5,5,Peter,+234 906 251 1344
+For Sale,Detached Duplex,"₦800,000,000",Luxury 5-Bedroom Detached Duplex,Osapa,5,5,Peter,+234 906 251 1344
+For Rent,Semi Detached,"₦40,000,000",5 Bedroom Semi-Detached House + 2 BQ in Lekki phase 1,Lekki Phase 1,5,5,Nadi,+2349062511345
+For Sale,Detached Duplex,"₦480,000,000",5 Bedroom Detached Duplex with BQ in Chevron,Chevron,5,5,Ebunoluwa,+234 704 808 9358
+For sale,Detached Duplex,"₦400,000,000",5-Bedroom Fully Detached Duplex,Lekki county,5,5,Peter,+234 906 251 1344
+For Sale,Terrace,"₦180,000,000",3 Bedroom Terraced Duplex with Bq in Chevron,Chevron,3,3,Ebunoluwa,+234 704 808 9358
+For Rent,Apartment,"₦60,000,000",Luxury Furnished 4 Bedroom Apartment in Ikoyi,Ikoyi,4,4,Ifunanya,+234 706 399 0727
+For Rent,Commercial,"₦100,000,000",Commercial Building with Warehouse In VI,Victoria Island,,,Nadi,+2349062511345
+For Sale,Detached Duplex,"₦200,000,000",2 Bedroom Detached Duplex in Lekki Phase 1,Lekki Phase 1,2,2,Nadi,+2349062511345
+For Sale,Detached Duplex,"₦210,000,000",4 Bedroom Detached Duplex with BQ in Agungi,Lekki,4,4,Teni,+234 704 816 4812
+For Rent,Apartment,"₦70,000,000",Beautifully Furnished 3 Bedroom Apartment in Ikoyi,Ikoyi,3,3,Adaeze,+234 816 631 5298
+For Rent,Apartment,"₦2,500,000",1 Room Studio Apartment in Chevron,Chevron,1,1,Teni,+234 704 816 4812
+Land,Apartment,"₦4,000,000",Prime Land in Ikoyi,Ikoyi,,,Rose,+234 814 922 6187
+For Rent,Detached Duplex,"₦206,327,373",Luxury 6 Bedroom Fully Detached House in Ikoyi,Banana Island,6,6,Rose,+234 814 922 6187
+For Rent,Terrace,"₦50,000,000",4 Bedroom Terrace House in Ikoyi,Banana Island,4,4,Adaeze,+234 816 631 5298
+For Rent,Apartment,"₦40,000,000",Fully Furnished 3 Bedroom Apartment in Ikoyi,Old Ikoyi,3,3,Adaeze,+234 816 631 5298
+For Sale,Detached Duplex,"₦3,500,000,000",Luxury 5 Bedroom Fully Detached House in Ikoyi,Parkview,5,5,Adaeze,+234 816 631 5298
+Land,Apartment,"₦4,700,000",Land Measuring 4876sqm in Ikoyi,Ikoyi,,,Rose,+234 814 922 6187
+For Sale,Semi Detached,"₦1,400,000,000",5 Bedroom Semi-Detached Duplex with BQ in Lekki,Lekki,5,5,Ebunoluwa,+234 704 808 9358
+For Rent,Apartment,"₦10,000,000",2 Bedroom Apartment in Ikate,Ikate,2,2,Ebunoluwa,+234 704 808 9358
+For Sale,Apartment,"₦260,000,000",1 Unit of 3-Bedroom Apartment,Ikate,3,3,Chinenye,+234 816 911 2079
+For Sale,Apartment,"₦550,000,000",Furnished 4 Bedroom Apartment in Ikate,Ikate,4,4,Ebunoluwa,+234 704 808 9358
+Land,Apartment,"₦4,000,000",Prime Land in Ikoyi,Ikoyi,,,Rose,+234 814 922 6187
+For Sale,Detached Duplex,"₦270,000,000",5 Bedroom Detached Duplex in Chevron,Chevron,5,5,Teni,+234 704 816 4812
+For Sale,Apartment,"₦125,000,000",2 Bedroom Apartment in Lekki,Lekki,2,2,Teni,+234 704 816 4812
+For Rent,Detached Duplex,"₦15,000,000",5 Bedroom Detached Duplex in Chevron,Chevron,5,5,Teni,+234 704 816 4812
+For Sale,Apartment,"₦220,000,000",8 Units of 2-Bedroom Apartments,Ikate,2,2,Chinenye,+234 816 911 2079
+For Rent,Apartment,"₦6,000,000",2 Bedroom Apartment in Lekki,Ikate,2,2,Ebunoluwa,+234 704 808 9358
+Land,Apartment,"₦4,500,000",Direct Land – Ikoyi,Ikoyi,,,Rose,+234 814 922 6187
+For Rent,Terrace,"₦50,000,000",4 Bedroom Terrace in Ikoyi,Banana Island,4,4,Sophia,+234 814 497 6677
+For Sale,Commercial,"₦4,500,000,000",Premium Hotel for Sale in ikoyi,Ikoyi,49,49,Jennifer,+234 704 808 9361
+For Sale,Apartment,"₦180,000,000",1-Bedroom Apartment,Lekki Phase 1,1,1,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦11,000,000",2 Bedroom Apartment in Lekki phase 1,Lekki Phase 1,2,2,Olade,+234 810 875 5286
+For Sale,Detached Duplex,"₦1,500,000,000",Luxury 6 Bedroom Detached House in Lekki phase 1,Lekki Phase 1,6,6,Olade,+234 810 875 5286
+For Sale,Apartment,"₦180,000,000",2 Units of 2-Bedroom Apartments,Ikate,2,2,Chinenye,+234 816 911 2079
+For Sale,Semi Detached,"₦700,000,000",4 Bedroom Semi-Detached Duplex in Lekki,Lekki Phase 1,4,4,Esther,+234 814 640 1276
+For Sale,Apartment,"₦220,000,000",2 Units of 2-Bedroom Apartments,Ikate,2,2,Chinenye,+234 816 911 2079
+For Rent,Terrace,"₦137,551,582",5 Bedroom Townhouse in Ikoyi,Banana Island,5,5,Sophia,+234 814 497 6677
+For Sale,Apartment,"₦300,000,000",Modern 2 Bedroom Apartment,Lekki Phase 1,2,2,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦55,000,000",Luxury 3 Bedroom Apartment in Ikoyi,Ikoyi,3,3,Olade,+234 810 875 5286
+For Sale,Apartment,"₦250,000,000",Cozy 1 Bedroom Apartment,Lekki Phase 1,1,1,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦4,000,000",2 Bedroom Apartment in Chevron,Chevron,2,2,Esther,+234 814 640 1276
+For Sale,Detached Duplex,"₦250,000,000",5 Bedroom Detached Duplex in Chevron,Chevron,5,5,Esther,+234 814 640 1276
+For Rent,Apartment,"₦40,000,000",Luxury 3 Bedroom Apartment in Ikoyi,Ikoyi,3,3,Olade,+234 810 875 5286
+For Sale,Apartment,"₦280,000,000",1-Bedroom Apartment,Lekki Phase 1,1,1,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦40,000,000",3 Bedroom Apartment in Ikoyi,Old Ikoyi,3,3,Adaeze,+234 816 631 5298
+For Rent,Apartment,"₦55,000,000",Luxury 3 Bedroom Apartment in Ikoyi,Ikoyi,3,3,Olade,+234 810 875 5286
+For Rent,Apartment,"₦20,000,000",3 Bedroom Apartment in Lekki,Lekki Phase 1,3,3,Chinenye,+234 816 911 2079
+For Sale,Apartment,"₦250,000,000",2 Bedroom Apartment in Lekki,Lekki Phase 1,2,2,Chinenye,+234 816 911 2079
+For Sale,Maisonette,"₦650,000,000",5 Bedroom Penthouse Maisonette in Lekki,Lekki Phase 1,5,5,Chinenye,+234 816 911 2079
+For Rent,Apartment,"₦23,000,000",3 Bedroom Apartment in Lekki,Lekki Phase 1,3,3,Chinenye,+234 816 911 2079
+For Rent,Apartment,"₦25,000,000",6 Units of 3 Bedroom Apartments in VI,Victoria Island,3,3,Seun,+234 704 808 9360
+For Rent,Penthouse,"₦80,000,000",4 Bedroom Penthouse Apartment in VI,Victoria Island,4,4,Seun,+234 704 808 9360
+For Rent,Commercial,"₦7,000,000",Commercial Space in Victoria Island,Victoria Island,,,Jennifer,+234 704 808 9361
+For Rent,Maisonette,"₦45,000,000",Fully Furnished 4 Bedroom Maisonette in Ikoyi,Ikoyi,4,4,Titi,+234 707 886 6245
+Land,Mixed-Use Land,"₦8,500,000,000",Land Measuring 3334sqm in VI,Victoria Island,,,Seun,+234 704 808 9360
+For Rent,Apartment,"₦14,000,000",2 Bedroom Apartment in Lekki,Lekki Phase 1,2,2,Chinenye,+234 816 911 2079
+For Rent,Terrace,"₦7,500,000",3 Bedroom Terrace with Bq Lekki,Lekki,3,3,Teni,+234 704 816 4812
+For Rent,Terrace,"₦25,000,000",3 Bedroom Terrace in Lekki,Lekki Phase 1,3,3,Chinenye,+234 816 911 2079
+For Rent,Detached Duplex,"₦80,000,000",9 Bedroom Detached House with 3-Room Bq in Vi,Victoria Island,9,9,Jennifer,+234 704 808 9361
+For Sale,Terrace,"₦650,000,000",4 Bedroom Townhouse in VI,Oniru,4,4,Seun,+234 704 808 9360
+For Sale,Apartment,"₦300,000,000",3 Bedroom Apartment in VI,Oniru,3,3,Seun,+234 704 808 9360
+For Rent,Detached Duplex,"₦45,000,000",5 Bedroom Semi-Detached House with BQ in Lekki,Lekki Phase 1,5,5,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦35,000,000",3 Bedroom Apartment in Ikoyi,Ikoyi,3,3,Olade,+234 810 875 5286
+For Rent,Apartment,"₦30,000,000",Fully Furnished 3 Bedroom Apartment in Ikoyi,Lekki,3,3,Titi,+234 707 886 6245
+For Sale,Apartment,"₦290,000,000",2 Bedroom Apartment in Lekki phase 1,Lekki Phase 1,2,2,Titi,+234 707 886 6245
+For Sale,Semi Detached,"₦500,000,000",4 Bedroom Semi-Detached in Ikoyi,Ikoyi,4,4,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦5,000,000",1 Bedroom Apartment  in Lekki,Chevron,1,1,Teni,+234 704 816 4812
+For Rent,Semi Detached,"₦35,000,000",4 Bedroom Semi-Detached House in VI,Oniru,4,4,Seun,+234 704 808 9360
+For Sale,Apartment,"₦120,000,000",2 Bedroom Apartment in Lekki,Lekki,2,2,Teni,+234 704 816 4812
+For Sale,Apartment,"₦180,000,000",2 Bedroom Apartment with BQ in Ikate,Ikate,2,2,Teni,+234 704 816 4812
+For Sale,Apartment,"₦350,000,000",Fully Furnished 2 Bedroom Apartment in Lekki phase 1,Lekki Phase 1,2,2,Titi,+234 707 886 6245
+For Rent,Penthouse,"₦150,000,000",6 Bedroom Furnished Penthouse in Victoria Island,Victoria Island,6,6,Jennifer,+234 704 808 9361
+For Rent,Detached Duplex,"₦25,000,000",5 Bedroom Detached with 2 Room Bq in Lekki,Lekki Phase 1,5,5,Jennifer,+234 704 808 9361
+For Sale,Apartment,"₦280,000,000",2 Bedroom Apartment  in Lekki Phase 1,Lekki Phase 1,2,2,Titi,+234 707 886 6245
+For Rent,Apartment,"₦2,200,000,000",3 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,3,3,Jennifer,+234 704 808 9361
+For Rent,Detached Duplex,"₦660,000,000","5 Bedroom Detached Duplex in Megamound Estate, Lekki",Lekki,6,6,Peter,+234 906 251 1344
+Land,Mixed-Use Land,"₦300,000,000","Prime Commercial Land in Ajah, Lekki",Ajah,,,Emmanuel,+234 908 807 2106
+For Rent,Apartment,"₦25,000,000",2 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,2,2,Jennifer,+234 704 808 9361
+For Sale,Detached Duplex,"₦4,126,547,455",6 Bedroom Fully Detached Luxury Duplex with 2 BQs in Ikoyi,Ikoyi,6,6,Ifunanya,+234 706 399 0727
+For Rent,Detached Duplex,₦35000000,5 Bedroom Duplex with Gym in Oniru,Oniru,5,5,Wunmi,+234 908 807 2107
+For Rent,Apartment,"₦130,000,000","1 Bedroom Serviced Apartment in Freedom Way, Lekki",Lekki,1,1,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦15,000,000",3 Bedroom Apartment in Lekki,Lekki Phase 1,3,3,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦150,000,000","2 Bedroom Fully Furnished Apartment in Ologolo, Lekki",Lekki,2,2,Teni,+234 704 816 4812
+For Rent,Apartment,"₦15,000,000",2 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,2,2,Jennifer,+234 704 808 9361
+For Sale,Commercial,"₦160,000,000",Commercial Space in Lekki Phase 1,Lekki Phase 1,,,Jennifer,+234 704 808 9361
+For Sale,Detached Duplex,"₦1,375,515,818",5 Bedroom Detached Duplex in Lekki Phase 1,Lekki Phase 1,5,5,Jennifer,+234 704 808 9361
+For Sale,Detached Duplex,"₦530,000,000","5 Bedroom Detached Duplex in Royal Garden Estate, Ajah",Ajah,5,5,Peter,+234 906 251 1344
+For Sale,Apartment,"₦14,000,000",3 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,3,3,Jennifer,+234 704 808 9361
+For Sale,Detached Duplex,"₦1,375,515,818",5 Bedroom Detached House in Lekki Phase 1,Lekki Phase 1,5,5,Jennifer,+234 704 808 9361
+Land,Mixed-Use Land,"₦2,800,000",Prime Land in Victoria Island,Victoria Island,,,Emmanuel,+234 908 807 2106
+For Sale,Apartment,"₦380,000,000",3 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,3,3,Jennifer,+234 704 808 9361
+For Sale,Terrace,₦600000000,4 Bedroom Townhouse with BQ in Oniru,Oniru,4,4,Wunmi,+234 908 807 2107
+For Sale,Apartment,"₦550,206,327",Luxury Residences in Ikoyi,Ikoyi,2,2,Ifunanya,+234 706 399 0727
+For Sale,Apartment,₦500000000,2 Bedroom Luxury Apartment in Victoria Island,Victoria Island,2,2,Ifunanya,+234 706 399 0727
+For Rent,Detached Duplex,"₦1,500,000,000",5 Bedroom Detached Duplex in Lekki Phase 1,Lekki Phase 1,6,6,Jennifer,+234 704 808 9361
+For Sale,Detached Duplex,"₦660,000,000","5 Bedroom Detached Duplex in Megamound Estate, Lekki",Lekki,5,5,Peter,+234 906 251 1344
+For Sale,Apartment,"₦130,000,000",1 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,1,1,Jennifer,+234 704 808 9361
+Land,Mixed-Use Land,"₦2,500,000,000",Prime Land in Victoria Island,Victoria Island,,,Emmanuel,+234 908 807 2106
+For Rent,Penthouse,"₦20,000,000",4 Bedroom Penthouse in Lekki Phase 1,Lekki,4,4,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦300,000,000",2 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,5,5,Jennifer,+234 704 808 9361
+For Rent,Detached Duplex,"₦12,000,000",5 Bedroom Detached Duplex in Lekki Phase 1,Lekki,5,5,Jennifer,+234 704 808 9361
+For Sale,Apartment,"₦20,000,000",2 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,5,5,Jennifer,+234 704 808 9361
+For Sale,Detached Duplex,"₦650,000,000","5 Bedroom Detached Duplex in Regional View Estate, Osapa",Osapa,5,5,Peter,+234 906 251 1344
+For Rent,Penthouse,₦80000000,4-Bedroom Maisonette Penthouse in Victoria Island,Victoria Island,4,4,Wunmi,+234 908 807 2107
+Land,Mixed-Use Land,"₦250,000,000","Prime Land in Ajah, Lekki",Ajah,,,Emmanuel,+234 908 807 2106
+For Rent,Detached Duplex,"₦950,000,000",5 Bedroom Detached Duplex in Lekki Phase 1,Lekki Phase 1,6,6,Jennifer,+234 704 808 9361
+For Rent,Apartment,₦15000000,3 Bedroom Apartment with BQ in Oniru,Oniru,3,3,Wunmi,+234 908 807 2107
+For Sale,Apartment,"₦650,000,000 / ₦1,500,000,000","4 Bedroom Flat & 5 Bedroom Penthouse Maisonette in Oniru, Victoria Island",Victoria Island,4,4,Ifunanya,+234 706 399 0727
+For Sale,Detached Duplex,"₦450,000,000","5 Bedroom Detached Duplex in Hampton Lake Estate, Chevron",Chevron,5,5,Peter,+234 906 251 1344
+Land,Mixed-Use Land,"₦550,000,000","Prime Land in Ajah, Lekki",Ajah,,,Emmanuel,+234 908 807 2106
+Land,Mixed-Use Land,"₦650,000,000",Prime Land in Ikate Lekki,Lekki,,,Emmanuel,+234 908 807 2106
+Land,Mixed-Use Land,"₦550,000,000",Prime Land in Lekki (Close to Expressway),Lekki,,,Emmanuel,+234 908 807 2106
+For Sale,Detached Duplex,"₦550,000,000","5 Bedroom Detached Duplex in Megamound Estate, Ikota, Lekki",Ikota,5,5,Peter,+234 906 251 1344
+For Rent,Apartment,"₦3,000,000",1 Bedroom Apartment in Lekki,Lekki,1,1,Teni,+234 704 816 4812
+For Sale,Detached Duplex,"₦1,375,515,818",5 Bedroom Detached Duplex in Lekki Phase 1,Lekki Phase 1,5,5,Jennifer,+234 704 808 9361
+For Sale,Apartment,₦550000000,Luxury Apartments in Ikoyi,Ikoyi,2,2,Ifunanya,+234 706 399 0727
+For Sale,Semi Detached,"₦550,000,000",5 Bedroom Semi-Detached Duplex with BQ in Lekki,Lekki,5,5,Ebunoluwa,+234 704 808 9358
+For Sale,Detached Duplex,"₦500,000,000",4 Bedroom Fully Detached Duplex with BQ in Lekki,Lekki,4,4,Ebunoluwa,+234 704 808 9358
+For Sale,Detached Duplex,"₦500,000,000",4 Bedroom Fully Detached Duplex with BQ in Lekki,Lekki,4,4,Ebunoluwa,+234 704 808 9358
+For Sale,Penthouse,"₦350,000,000",3 Bedroom Penthouse in Lekki,Ikate,3,3,Teni,+234 704 816 4812
+For Sale,Detached Duplex,"₦480,000,000",5 Bedroom Fully Detached Duplex with BQ in Lekki,Lekki,5,5,Ebunoluwa,+234 704 808 9358
+For Rent,Penthouse,"₦35,000,000",4 Bedroom Penthouse in Oniru,Oniru,4,4,Titi,+234 707 886 6245
+For Rent,Detached Duplex,"₦120,000,000",5 Bedroom Detached House with Bq in VI,Victoria Island,5,5,Nadi,+2349062511345
+For Sale,Apartment,"₦110,000,000",1-Bedroom Apartment in Ikate,Ikate,1,1,Teni,+234 704 816 4812
+For Rent,Detached Duplex,"₦16,000,000","4 Bedroom Duplex in Regional View Residences, Lekki",Lekki,4,4,Ebunoluwa,+234 704 808 9358
+For Rent,Semi Detached,"₦30,000,000",4-Bedroom Semi-Detached Duplex + BQ in Lekki,Lekki,4,4,Jennifer,+234 704 808 9361
+For Rent,Semi Detached,"₦35,000,000",5-Bedroom Semi-Detached Duplex with BQ in Lekki,Lekki Phase 1,5,5,Jennifer,+234 704 808 9361
+For Rent,Terrace,"₦45,000,000",Luxury 4-Bedroom Terrace in  Ikoyi,Ikoyi,4,4,Adaeze,+234 816 631 5298
+For Sale,Semi Detached,"₦300,000,000",4 Bedroom Semi-Detached Duplex with BQ in Lekki,Lekki,4,4,Ebunoluwa,+234 704 808 9358
+For Sale,Apartment,"₦650,000,000",Luxury 3-Bedroom Apartment in Ikoyi,Ikoyi,3,3,Adaeze,+234 816 631 5298
+For Rent,Semi Detached,"₦25,000,000",4-Bedroom Semi-Detached Duplex in Lekki,Lekki,4,4,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦18,000,000",2 Bedroom Apartment with BQ in Victoria Island,Victoria Island,2,2,Wunmi,+234 908 807 2107
+For Sale,Semi Detached,"₦150,000,000",4 Bedroom Semi Detached Duplex in Osapa,Osapa,4,4,Esther,+234 814 640 1276
+For Rent,Apartment,"₦8,500,000",2 Bedroom Apartment in Ikate,Ikate,2,2,Esther,+234 814 640 1276
+For Sale,Apartment,"₦160,000,000",2 Bedroom Apartment in Ikate,Ikate,2,2,Esther,+234 814 640 1276
+For Rent,Apartment,"₦25,000,000",3-Bedroom Apartment- VI,Oniru,3,3,Seun,+234 704 808 9360
+For Rent,Terrace,"₦40,000,000",4-Bedroom Terrace Duplex + BQ- VI,Victoria Island,4,4,Wunmi,+234 908 807 2107
+For Rent,Apartment,"₦20,000,000",2-BEDROOM APARTMENT – ONIRU VI,Oniru,2,2,Ifunanya,+234 706 399 0727
+For Rent,Apartment,"₦30,000,000",Fully Serviced 4-Bedroom Office Space in VI,Victoria Island,,,Jennifer,+234 704 808 9361
+For Sale,Detached Duplex,"₦450,000,000",5 Bedroom Fully Detached Duplex in Lekki,Ikate,5,5,Peter,+234 906 251 1344
+For Rent,Apartment,"₦45,000,000",Furnished 3-Bedroom Apartment +BQ in Victoria Island,Victoria Island,3,3,Wunmi,+234 908 807 2107
+For Rent,Apartment,"₦20,000,000",3-Bedroom Apartment- Ikoyi,Parkview,3,3,Ifunanya,+234 706 399 0727
+For Rent,Apartment,"₦3,500,000",Modern 1-Bedroom Apartments In Ikate,Ikate,1,1,Esther,+234 814 640 1276
+For Rent,Apartment,"₦7,000,000",Two Units of 2 Bedroom Apartments,Ologolo,2,2,Esther,+234 814 640 1276
+For Sale,Detached Duplex,"₦360,000,000",5-Bedroom Detached House + BQ- Lekki,Ikota,5,5,Teni,+234 704 816 4812
+For Rent,Semi Detached,"₦96,286,107",5-Bedroom Semi-Detached Houses- Ikoyi,Ikoyi,5,5,Rose,+234 814 922 6187
+For Rent,Commercial,"₦412,655",Premium Office Spaces in a 24-Hour Service Complex,Victoria Island,,,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦45,000,000",3-Bedroom Apartment – Ikoyi,Banana Island,3,3,Rose,+234 814 922 6187
+For Sale,Apartment,"₦850,000,000",5-Bedroom Duplex in Lekki Phase 1,Lekki Phase 1,5,5,Faith,+234 702 602 4170
+For Sale,Apartment,"₦750,000,000",3-Bedroom Apartment + BQ- VI,Victoria Island,3,3,Wunmi,+234 908 807 2107
+For Rent,Commercial,"₦200,000",340 sqm Office Space- VI,Victoria Island,,,Nadi,+2349062511345
+For Sale,Apartment,"₦400,000,000",2 Bedroom Luxury Apartment in Lekki,Lekki Phase 1,2,2,Peter,+234 906 251 1344
+For Sale,Apartment,"₦600,000,000",4-Bedroom Apartment – Old Ikoyi,Old Ikoyi,4,4,Rose,+234 814 922 6187
+For Rent,Apartment,"₦50,000,000",3-Bedroom Waterfront Apartment + BQ– Ikoyi,Banana Island,3,3,Ifunanya,+234 706 399 0727
+For Sale,Apartment,"₦370,000,000",3 Bedroom Apartment with BQ,Lekki,3,3,Faith,+234 702 602 4170
+For Sale,Apartment,"₦225,000,000",2-Bedroom Apartment – Ikoyi,Ikoyi,2,2,Ifunanya,+234 706 399 0727
+Land,Mixed-Use Land,"₦4,000,000,000",Land Measuring 2394sqm- Lekki phase 1,Lekki Phase 1,,,Emmanuel,+234 908 807 2106
+For Rent,Terrace,"₦20,000,000",Four-Bedroom Terrace – Lekki,Ikate,4,4,Titi,+234 707 886 6245
+For Rent,Apartment,"₦35,000,000",4-Bedroom Residence +Bq in Lekki,Lekki Phase 1,4,4,Jennifer,+234 704 808 9361
+For Rent,Maisonette,"₦80,000,000",4-Bedroom Maisonette in ikoyi,Banana Island,4,4,Titi,+234 707 886 6245
+For Sale,Apartment,"₦280,000,000",fully serviced 2-bedroom apartment in Lekki,Lekki Phase 1,2,2,Jennifer,+234 704 808 9361
+For Sale,Terrace,"₦630,000,000",5 Bedroom Fully Detached House in Lekki,Ikota,5,5,Peter,+234 906 251 1344
+For Rent,Semi Detached,"₦8,000,000",4-Bedroom Semi-Detached House,Ologolo,4,4,Esther,+234 814 640 1276
+For Rent,Apartment,"₦25,000,000",2-Bedroom Apartment- Ikoyi,Old Ikoyi,2,2,Ifunanya,+234 706 399 0727
+For Rent,Maisonette,"₦35,000,000",4-Bedroom Maisonette + BQ- VI,Victoria Island,4,4,Wunmi,+234 908 807 2107
+For Rent,Detached Duplex,"₦60,000,000",4-Bedroom Fully Detached House– Old Ikoyi,Old Ikoyi,4,4,Adaeze,+234 816 631 5298
+For Sale,Detached Duplex,"₦450,000,000",5-Bedroom Detached Duplex in Lekki,Osapa,5,5,Esther,+234 814 640 1276
+For Sale,Apartment,"₦480,000,000",3 Bedroom Apartment +BQ in Ikoyi,Ikoyi,3,3,Adaeze,+234 816 631 5298
+For Rent,Apartment,"₦10,000,000",1 BEDROOM APARTMENT – LEKKI,Ikate,,,Ebunoluwa,+234 704 808 9358
+For Sale,Detached Duplex,"₦270,000,000",4-Bedroom Detached House +BQ In Lekki,Orchid,4,4,Teni,+234 704 816 4812
+For Sale,Detached Duplex,"₦190,000,000",4 Bedroom Semi-Detached Duplex in Lekki,Ikota,4,4,Peter,+234 906 251 1344
+For Sale,Detached Duplex,"₦480,000,000",5-Bedroom Fully Detached Duplex +BQ in Chevron,Chevron,5,5,Ebunoluwa,+234 704 808 9358
+For Rent,Apartment,"₦7,500,000",2 BEDROOM APARTMENT –LEKKI,Osapa,2,2,Ebunoluwa,+234 704 808 9358
+For Sale,Detached Duplex,"₦660,000,000",5 Bedroom Fully Detached Duplex with BQ in Lekki,Ikota,5,5,Peter,+234 906 251 1344
+For Sale,Apartment,"₦230,000,000",Fully Furnished 2 Bedroom Apartment,Ikate,2,2,Esther,+234 814 640 1276
+For Rent,Apartment,"₦30,000,000",3-Bedroom Apartment- Ikoyi,Ikoyi,3,3,Olade,+234 810 875 5286
+For Rent,Apartment,"₦20,000,000",3-Bedroom Apartment with BQ - VI,Oniru,3,3,Wunmi,+234 908 807 2107
+For Sale,Terrace,"₦1,700,000,000",4-Bedroom Terrace with Water View in Ikoyi,Ikoyi,4,4,Ifunanya,+234 706 399 0727
+For Sale,Detached Duplex,"₦11,004,126,547",5-Bedroom Waterfront Duplex in Ikoyi,Banana Island,5,5,Titi,+234 707 886 6245
+For Rent,Maisonette,"₦3,000,000",5-Bedroom Penthouse Maisonette + 2BQ- Ikoyi,Ikoyi,5,5,Ifunanya,+234 706 399 0727
+For Rent,Commercial,"₦2,700,000",Commercial Building in VI,Victoria Island,,,Nadi,+2349062511345
+For Rent,Penthouse,"₦80,000,000",4-Bedroom Penthouse- VI,Oniru,4,4,Wunmi,+234 908 807 2107
+For Sale,Terrace,"₦150,000,000",3 Bedroom Terrace Duplex in lekki,Ikota,3,3,Esther,+234 814 640 1276
+For Rent,Penthouse,"₦101,250,000",4-Bed Penthouse with BQ & Study– Victoria Island,Victoria Island,4,4,Wunmi,+234 908 807 2107
+For Rent,Terrace,"₦20,000,000",4-Bedroom Townhouse with Study & BQ – VI,Oniru,4,4,Wunmi,+234 908 807 2107
+For Sale,Semi Detached,"₦520,000,000",5 Bedroom Semi-Detached House with 2 BQs in Lekki,Lekki,5,5,Peter,+234 906 251 1344
+For Rent,Detached Duplex,"₦20,000,000",5 Bedroom Fully Detached Duplex,Osapa,5,5,Esther,+234 814 640 1276
+For Rent,Detached Duplex,"₦13,000,000",4-Bedroom Duplex with BQ in Lekki,Ajah,4,4,Esther,+234 814 640 1276
+For Sale,Detached Duplex,"₦800,000,000",5 Bedroom Fully Detached House in Lekki,Lekki Phase 1,5,5,Peter,+234 906 251 1344
+For Sale,Detached Duplex,"₦700,000,000",5 Bedroom Detached House in Lekki,Ikate,5,5,Peter,+234 906 251 1344
+For Rent,Maisonette,"₦25,000,000",3-Bedroom Maisonette Duplex- Ikoyi,Ikoyi,3,3,Rose,+234 814 922 6187
+For Sale,Detached Duplex,"₦350,000,000",5-Bedroom Detached House + BQ- Lekki,Ikota,5,5,Teni,+234 704 816 4812
+For Sale,Apartment,"₦1,685,006,878",4 Bedroom Apartment | Ikoyi,Ikoyi,4,4,Ifunanya,+234 706 399 0727
+For Rent,Commercial,"₦20,000,000",5 Bed Semi-Detached Duplex with 2 Rooms BQ- Lekki phase 1,Lekki Phase 1,,,Nadi,+2349062511345
+Land,Mixed-Use Land,"₦3,700,000",Land Measuring 1000 sqm- Ikoyi,Banana Island,,,Emmanuel,+234 908 807 2106
+For Sale,Terrace,"₦1,100,000,000",4-Bedroom Terrace – Old Ikoyi,Ikoyi,4,4,Adaeze,+234 816 631 5298
+For Sale,Apartment,"₦1,300,000,000",Block of Apartments in Lekki Phase 1,Lekki Phase 1,2,2,Faith,+234 702 602 4170
+For Sale,Apartment,"₦350,000,000",3 Bedroom Apartment with BQ,Lekki Phase 1,3,3,Faith,+234 702 602 4170
+For Rent,Apartment,"₦12,000,000",3-Bedroom Apartment- VI,Victoria Island,3,3,Seun,+234 704 808 9360
+For Rent,Apartment,"₦30,000,000",4-Bedroom Apartment- VI,Oniru,4,4,Wunmi,+234 908 807 2107
+For Rent,Maisonette,"₦450,000,000",2 Bedroom Maisonette- Ikoyi,Ikoyi,2,2,Ifunanya,+234 706 399 0727
+Land,Joint Venture,"₦4,000,000",Joint Venture Opportunity – Ikoyi,Ikoyi,,,Emmanuel,+234 908 807 2106
+For Rent,Apartment,"₦30,000,000",3-Bedroom Apartment with BQ– Victoria Island,Victoria Island,3,3,Seun,+234 704 808 9360
+For Rent,Apartment,"₦340,000,000",Off-Plan 2 Bedroom Apartment – Lekki Phase 1,Lekki Phase 1,2,2,Nadi,+2349062511345
+For Rent,Apartment,"₦4,500,000",Mini Flat in Ikoyi,Ikoyi,1,1,Ifunanya,+234 706 399 0727
+For Rent,Apartment,"₦72,902,338",3 Bedroom Apartments | Ikoyi,Ikoyi,3,3,Ifunanya,+234 706 399 0727
+For Sale,Detached Duplex,"₦1,200,000,000",5-Bedroom Fully Detached Duplex + BQ In Osapa,Osapa,5,5,Teni,+234 704 816 4812
+For Sale,Detached Duplex,"₦580,000,000",5 Bedroom Fully Detached House in Lekki,Ikota,5,5,Peter,+234 906 251 1344
+For Rent,Detached Duplex,"₦55,000,000",5-Bedroom Fully Detached Duplex +Bq in Lekki,Osapa,5,5,Ebunoluwa,+234 704 808 9358
+For Sale,Detached Duplex,"₦720,000,000",5-Bedroom Fully Detached in Lekki,Chevron,5,5,Ebunoluwa,+234 704 808 9358
+For Rent,Terrace,"₦15,000,000",4-Bedroom Townhouse in Ikate,Ikate,4,4,Ebunoluwa,+234 704 808 9358
+Land,Commercial Land,"₦1,100,000",Land Measuring 3376sqm- Ikoyi,Ikoyi,,,Emmanuel,+234 908 807 2106
+For Rent,Apartment,"₦75,653,370",1-Bedroom Apartment with BQ- Ikoyi,Banana Island,1,1,Rose,+234 814 922 6187
+For Sale,Terrace,"₦950,000,000",4-Bedroom Terrace in Osborne,Ikoyi,4,4,Adaeze,+234 816 631 5298
+For Sale,Detached Duplex,"₦1,500,000,000",Luxury 5-Bedroom Detached House in Lekki,Lekki Phase 1,5,5,Jennifer,+234 704 808 9361
+For Sale,Apartment,"₦850,000",4-Bedroom Apartment in Victoria Island,Victoria Island,4,4,Seun,+234 704 808 9360
+For Sale,Detached Duplex,"₦1,500,000,000",5-Bedroom Detached Duplex + BQ in Osapa,Osapa,5,5,Teni,+234 704 816 4812
+For Sale,Apartment,"₦650,000,000",3-Bedroom Apartments- VI,Victoria Island,3,3,Seun,+234 704 808 9360
+For Rent,Semi Detached,"₦25,000,000",4 Bedroom Semi-Detached Duplex,Lekki Phase 1,4,4,Faith,+234 702 602 4170
+For Sale,Terrace,"₦900,000,000",4-Bedroom Terrace Duplex- VI,Victoria Island,4,4,Ifunanya,+234 706 399 0727
+For Sale,Detached Duplex,"₦350,000,000",5 Bedroom Fully Detached House with BQ in Lekki,Ikota,5,5,Peter,+234 906 251 1344
+For Sale,Detached Duplex,"₦320,000,000",5-Bedroom Fully Detached Duplex with BQ,Ologolo,5,5,Esther,+234 814 640 1276
+For Rent,Apartment,"₦70,000,000",3 Bedroom Apartment + BQ in Ikoyi,Banana Island,3,3,Sophia,+234 814 497 6677
+For Rent,Apartment,"₦20,000,000",2 Bedroom Apartment,Lekki Phase 1,2,2,Jennifer,+234 704 808 9361
+For Sale,Apartment,"₦160,000,000","Prime Multi-Unit Property in Chevron, Lekki",Chevron,4,4,Ebunoluwa,+234 704 808 9358
+For Sale,Apartment,"₦1,107,290,234",3 Bedroom Apartments | Ikoyi,Ikoyi,3,3,Ifunanya,+234 706 399 0727
+For Sale,Detached Duplex,"₦400,000,000",5 Bedroom Fully Detached Duplex in Lekki,Idado,5,5,Peter,+234 906 251 1344
+Land,Mixed-Use Land,"₦15,000,000",Land Measuring 700sqm- Lekki,Lekki,,,Emmanuel,+234 908 807 2106
+For Sale,Terrace,"₦720,000,000",6 Bedroom Detached Duplex in Lekki,Ikota,6,6,Peter,+234 906 251 1344
+For Sale,Terrace,"₦490,000,000",3 Bedroom Terrace House in Lekki,Lekki Phase 1,3,3,Peter,+234 906 251 1344
+Land,Mixed-Use Land,"₦600,000,000",Land Measuring 3600sqm- in Ajah,Ajah,,,Emmanuel,+234 908 807 2106
+For Rent,Commercial,"₦150,000",Corporate Office Space in Victoria Island,Victoria Island,,,Jennifer,+234 704 808 9361
+For Rent,Detached Duplex,"₦290,000,000",5-Bedroom Detached Duplex +BQ in Ajah,Ajah,5,5,Ebunoluwa,+234 704 808 9358
+For Rent,Apartment,"₦60,000,000",3-Bedroom Apartment + BQ– Old Ikoyi,Old Ikoyi,3,3,Emmanuel,+234 908 807 2106
+For Rent,Semi Detached,"₦50,000,000",4 Bedroom Semi-Detached Duplex with BQ in Victoria Island,Oniru,4,4,Seun,+234 704 808 9360
+For Rent,Apartment,"₦20,000,000",Furnished 2-Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,2,2,Jennifer,+234 704 808 9361
+For Sale,Detached Duplex,"₦260,000,000",5-Bedroom Detached Duplex +BQ & Pool in Lekki,Ajah,5,5,Esther,+234 814 640 1276
+For Rent,Apartment,"₦18,000,000",4-Bedroom Semi-Detached Duplex in Lekki,Osapa,4,4,Esther,+234 814 640 1276
+Land,Residential Land,"₦5,400,000,000",Land Measuring 1200sqm- Ikoyi,Ikoyi,,,Emmanuel,+234 908 807 2106
+For Sale,Detached Duplex,"₦450,000,000",4 Bedroom Detached Duplex + Bq in Ikate,Ikate,4,4,Ebunoluwa,+234 704 808 9358
+For Rent,Commercial,"₦150,000",Corporate Office Space in Vi,Victoria Island,,,Jennifer,+234 704 808 9361
+For Sale,Apartment,"₦300,000,000",2-Bedroom Apartments in Lekki Phase 1,Lekki Phase 1,2,2,Faith,+234 702 602 4170
+For Sale,Detached Duplex,"₦420,000,000",5 Bedroom Fully Detached House with BQ in Lekki,Ikota,5,5,Peter,+234 906 251 1344
+For Rent,Apartment,"₦12,000,000",2-Bedroom Apartment,Ologolo,2,2,Esther,+234 814 640 1276
+For Rent,Apartment,"₦15,000,000",2-Bedroom Apartment- VI,Oniru,2,2,Wunmi,+234 908 807 2107
+For Rent,Commercial,"₦40,000,000",Fully Detached Commercial Property+2BQ in VI,Victoria Island,,,Nadi,+2349062511345
+For Sale,Detached Duplex,"₦380,000,000",5 Bedroom Fully Detached House in Lekki,Ikota,5,5,Peter,+234 906 251 1344
+For Sale,Apartment,"₦330,000,000",2-Bedroom Apartment in Lekki,Lekki Phase 1,2,2,Nadi,+2349062511345
+For Sale,Detached Duplex,"₦250,000,000",4-Bedroom Fully Detached House with BQ in Lekki,Orchid,4,4,Peter,+234 906 251 1344
+For Sale,Apartment,"₦600,000,000",3 -Bedroom Apartment + BQ – Ikoyi,Parkview,3,3,Ifunanya,+234 706 399 0727
+For Sale,Apartment,"₦320,000,000",3-Bedroom Apartment- Lekki,Ikate,3,3,Ifunanya,+234 706 399 0727
+For Rent,Detached Duplex,"₦7,000,000",4 Bedroom Detached Duplex +Bq in Ajah,Ajah,4,4,Ebunoluwa,+234 704 808 9358
+For Rent,Apartment,"₦35,000,000",3-Bedroom Ocean-View Apartment- VI,Oniru,3,3,Seun,+234 704 808 9360
+For Rent,Maisonette,"₦22,000,000",2 Bedroom Maisonette in Lekki,Lekki Phase 1,2,2,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦30,000,000",3-Bedroom Apartment with Study & BQ- Ikoyi,Ikoyi,3,3,Titi,+234 707 886 6245
+For Sale,Penthouse,"₦500,000,000",2 Bedroom Penthouse with BQ,Lekki Phase 1,2,2,Faith,+234 702 602 4170
+For Sale,Apartment,"₦260,000,000",3 Bedroom Apartment with BQ in Lekki,Lekki Phase 1,3,3,Peter,+234 906 251 1344
+For Sale,Apartment,"₦850,000,000",3-Bedroom Apartments in Victoria Island,Victoria Island,3,3,Seun,+234 704 808 9360
+For Rent,Semi Detached,"₦65,000,000",4-Bedroom Semi-Detached House with Study- Ikoyi,Ikoyi,4,4,Titi,+234 707 886 6245
+For Rent,Terrace,"₦50,000,000",4-Bedroom Semi-Detached Terrace- Ikoyi,Ikoyi,4,4,Titi,+234 707 886 6245
+For Rent,Semi Detached,"₦60,000,000",Luxury 4-Bedroom Semi-Detached Duplex in Ikoyi,Osborne Foreshore,4,4,Adaeze,+234 816 631 5298
+For Sale,Apartment,"₦320,000,000",2 Bedroom Apartment with BQ,Lekki Phase 1,2,2,Faith,+234 702 602 4170
+For Sale,Semi Detached,"₦280,000,000",4-Bedroom Semi-Detached Duplex,Ikota,4,4,Esther,+234 814 640 1276
+For Rent,Apartment,"₦20,000,000",3-Bedroom Apartment with Bq- Ikoyi,Parkview,3,3,Titi,+234 707 886 6245
+For Sale,Penthouse,"₦2,500,000,000",4-Bedroom Penthouse- VI,Victoria Island,4,4,Seun,+234 704 808 9360
+For Sale,Apartment,"₦170,000,000",2-Bedroom Apartment in Lekki,Ikate,2,2,Ebunoluwa,+234 704 808 9358
+For Sale,Apartment,"₦550,000,000",2 Bedroom Apartment in Victoria Island,Victoria Island,2,2,Seun,+234 704 808 9360
+Land,Mixed-Use Land,"₦3,600,000",Land Measuring 1558 sqm- Ikoyi,Ikoyi,,,Rose,+234 814 922 6187
+For Rent,Maisonette,"₦2,200,825,309",Luxury Maisonette Development- Ikoyi,Ikoyi,4,4,Ifunanya,+234 706 399 0727
+For Rent,Maisonette,"₦60,000,000",4-Bedroom Maisonette Penthouse- VI,Oniru,4,4,Seun,+234 704 808 9360
+For Rent,Commercial,"₦45,000,000",4-Bed Duplex+ 2 BQs – Commercial Use- Lekki phase 1,Lekki Phase 1,,,Nadi,+2349062511345
+For Sale,Detached Duplex,"₦1,800,000,000",6 Units of 6-Bed Detached Homes – Victoria Island,Victoria Island,6,6,Wunmi,+234 908 807 2107
+For Rent,Maisonette,"₦400,000,000",2-Bedroom Maisonette Apartment – Lekki Phase 1,Lekki Phase 1,2,2,Ifunanya,+234 706 399 0727
+For Rent,Maisonette,"₦750,000,000",4-Bedroom Penthouse Maisonette in Victoria Island,Victoria Island,4,4,Seun,+234 704 808 9360
+For Rent,Apartment,"₦30,000,000",3-Bedroom Apartment with BQ- VI,Victoria Island,3,3,Seun,+234 704 808 9360
+For Rent,Commercial,"₦250,000",Prime 250sqm Ground Floor Commercial Space,Victoria Island,,,Nadi,+2349062511345
+For Rent,Semi Detached,"₦30,000,000",4-Bedroom Semi-Detached Duplex +Study & BQ in Oniru,Oniru,4,4,Wunmi,+234 908 807 2107
+For Rent,Apartment,"₦20,000,000",Luxury 3-Bedroom Apartment in Lekki,Lekki,3,3,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦8,000,000",2-Bedroom Apartment in Lekki,Ologolo,2,2,Esther,+234 814 640 1276
+For Sale,Apartment,"₦750,000,000",3-Bedroom Apartment in Victoria Island,Victoria Island,3,3,Seun,+234 704 808 9360
+For Rent,Detached Duplex,"₦80,000,000",6-Bedroom Detached House in Ikoyi,Ikoyi,6,6,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦40,000,000",3-Bedroom Apartment +BQ in Ikoyi,Ikoyi,3,3,Adaeze,+234 816 631 5298
+For Sale,Detached Duplex,"₦380,000,000",5-Bedroom Detached House + BQ- Lekki,Ikota,5,5,Teni,+234 704 816 4812
+For Rent,Apartment,"₦18,000,000",3-Bedroom Apartment +BQ in Lekki,Lekki Phase 1,3,3,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦18,000,000",2-Bedroom Apartment with BQ in VI,Victoria Island,2,2,Wunmi,+234 908 807 2107
+For Sale,Penthouse,"₦3,000,000,000",6-Bedroom Penthouse +Private Pool in Osborne,Ikoyi,6,6,Adaeze,+234 816 631 5298
+For Sale,Terrace,"₦350,000,000",4-Bedroom Terrace Duplex with BQ in Osapa,Osapa,4,4,Esther,+234 814 640 1276
+Land,Mixed-Use Land,"₦15,000,000,000",Land Measuring 16300sqm- Ajah,Ajah,,,Emmanuel,+234 908 807 2106
+For Rent,Apartment,"₦30,000,000",2-Bedroom Apartment +BQ in Victoria Island,Victoria Island,2,2,Wunmi,+234 908 807 2107
+For Rent,Apartment,"₦20,000,000",3-Bedroom Apartment + BQ – Old Ikoyi,Old Ikoyi,3,3,Ifunanya,+234 706 399 0727
+For Rent,Apartment,"₦400,000,000",New Development Apartment- VI,Victoria Island,2,2,Ifunanya,+234 706 399 0727
+For Sale,Apartment,"₦150,000,000",2-Bedroom Apartment in Lekki,Ikate,2,2,Esther,+234 814 640 1276
+For Rent,Apartment,"₦35,000,000",2 & 3 Bedroom Apartment in Victoria Island,Victoria Island,3,3,Seun,+234 704 808 9360
+For Sale,Detached Duplex,"₦300,000,000",5-Bedroom Detached Duplex +BQ in Ikate,Ikate,5,5,Ebunoluwa,+234 704 808 9358
+For Rent,Terrace,"₦50,000,000",4-Bedroom Terrace –Ikoyi,Old Ikoyi,4,4,Adaeze,+234 816 631 5298
+For Rent,Apartment,"₦30,000,000",3 Bedroom Apartment in Lekki,Lekki Phase 1,3,3,Jennifer,+234 704 808 9361
+For Sale,Apartment,"₦750,000,000",2-Bedroom Apartment- VI,Eko Atlantic,2,2,Wunmi,+234 908 807 2107
+For Rent,Detached Duplex,"₦60,000,000",6-Bedroom Fully Detached Duplex + 2 BQ in Osapa,Osapa,6,6,Ebunoluwa,+234 704 808 9358
+For Rent,Apartment,"₦11,000,000",3-Bedroom Apartment with BQ in Lekki,Ikate,3,3,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦20,000,000",3-Bedroom Apartment with BQ –VI,Oniru,3,3,Wunmi,+234 908 807 2107
+For Sale,Terrace,"₦1,000,000,000",4-Bedroom Terrace Houses- VI,Victoria Island,4,4,Wunmi,+234 908 807 2107
+For Sale,Detached Duplex,"₦450,000,000",5 Bedroom Fully Detached Duplex,Osapa,5,5,Esther,+234 814 640 1276
+For Sale,Semi Detached,"₦300,000,000",4-Bedroom Semi-Detached Duplex with BQ,Ologolo,4,4,Esther,+234 814 640 1276
+For Sale,Semi Detached,"₦200,000,000",4-Bedroom Semi-Detached Duplex with BQ,Ologolo,4,4,Esther,+234 814 640 1276
+Land,Joint Venture,"₦3,500,000",JOINT VENTURE OPPORTUNITY – OLD IKOYI,Old Ikoyi,,,Rose,+234 814 922 6187
+For Sale,Apartment,"₦1,788,170,564",3-Bedroom Apartment in Ikoyi,Ikoyi,3,3,Adaeze,+234 816 631 5298
+For Rent,Terrace,"₦50,000,000",Luxury 4-Bedroom Terrace Duplex in Ikoyi,Ikoyi,4,4,Adaeze,+234 816 631 5298
+For Rent,Apartment,"₦32,000,000",3-Bedroom Apartment + BQ – Old Ikoyi,Old Ikoyi,3,3,Ifunanya,+234 706 399 0727
+For Rent,Apartment,"₦12,000,000",2 BEDROOM APARTMENT –LEKKI,Ikate,2,2,Ebunoluwa,+234 704 808 9358
+For Sale,Detached Duplex,"₦4,814,305,365",5-Bedroom Detached Duplex in Ikoyi,Banana Island,5,5,Adaeze,+234 816 631 5298
+For Rent,Apartment,"₦8,500,000",2-Bedroom Apartment,Ologolo,2,2,Esther,+234 814 640 1276
+For Sale,Terrace,"₦500,000,000",4 Bedroom Fully Detached Duplex in Lekki,Ajah,4,4,Peter,+234 906 251 1344
+For Rent,Apartment,"₦15,000,000",3 Bedroom Apartment,Lekki Phase 1,3,3,Faith,+234 702 602 4170
+For Rent,Penthouse,"₦20,000,000",3-Bedroom Penthouse Terrace Detached Duplex in Lekki Phase 1,Lekki Phase 1,3,3,Jennifer,+234 704 808 9361
+For Sale,Apartment,"₦120,000,000",2 Bedroom Apartment in Lekki,Ikate,2,2,Peter,+234 906 251 1344
+For Rent,Commercial,"₦9,000,000",Commercial Space in Lekki Phase 1,Lekki Phase 1,,,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦7,000,000",1-Bedroom Mini Flat Apartment in Lekki,Lekki Phase 1,1,1,Esther,+234 814 640 1276
+For Rent,Apartment,"₦15,000,000",2 Bedroom Apartment in Victoria Island,Oniru,2,2,Seun,+234 704 808 9360
+For Rent,Terrace,"₦20,000,000",4-Bedroom Terrace Duplex +BQ in Osapa,Osapa,4,4,Ebunoluwa,+234 704 808 9358
+For Rent,Terrace,"₦35,000,000",4-Bedroom Terrace Duplex in Ikoyi,Ikoyi,4,4,Adaeze,+234 816 631 5298
+For Rent,Apartment,"₦30,000,000",3-Bedroom Apartment in Ikoyi,Banana Island,3,3,Sophia,+234 814 497 6677
+For Sale,Detached Duplex,"₦350,000,000",5 Bedroom Fully Detached Duplex + BQ in Ajah,Ajah,5,5,Esther,+234 814 640 1276
+For Sale,Apartment,"₦450,000,000",5-Bedroom Apartment +BQ in Ikate,Ikate,5,5,Esther,+234 814 640 1276
+For Sale,Apartment,"₦400,000,000","3-Bedroom Penthouse in, Lekki",Ikate,3,3,Peter,+234 906 251 1344
+For Rent,Commercial,"₦150,000,000",5-Bedroom Duplex with 2-Room BQ- Victoria Island,Victoria Island,,,Jennifer,+234 704 808 9361
+For Sale,Apartment,"₦150,000,000",2 Bedroom Apartment in Lekki,Ikate,2,2,Peter,+234 906 251 1344
+For Rent,Commercial,"₦23,000,000",85sqm Lower Unit Commercial Space,Lekki Phase 1,,,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦45,000,000",Luxury 3-Bedroom Apartment +BQ in VI,Victoria Island,3,3,Seun,+234 704 808 9360
+For Sale,Penthouse,"₦650,000,000",3-Bedroom Penthouse – VI,Victoria Island,3,3,Seun,+234 704 808 9360
+Land,Mixed-Use Land,"₦2,500,000",Bare Land Measuring 4300sqm– Victoria Island,Victoria Island,,,Rose,+234 814 922 6187
+For Rent,Penthouse,"₦25,000,000",2-Bedroom Penthouse- Ikoyi,Parkview,2,2,Ifunanya,+234 706 399 0727
+Land,Residential Land,"₦750,000",Residential Bare Land – Lekki Phase 1,Lekki Phase 1,,,Rose,+234 814 922 6187
+For Rent,Apartment,"₦35,000,000",2-Bedroom Apartment with BQ Living- VI,Victoria Island,2,2,Wunmi,+234 908 807 2107
+Land,Joint Venture,"₦4,000,000",JOINT VENTURE OPPORTUNITY – OLD IKOYI,Old Ikoyi,,,Emmanuel,+234 908 807 2106
+Land,Mixed-Use Land,"₦2,200,000",Prime Waterfront Land In Ikoyi,Ikoyi,,,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦1,513,067,400",4 Bedroom Apartments- Ikoyi,Ikoyi,4,4,Ifunanya,+234 706 399 0727
+For Sale,Apartment,"₦17,000,000",1-Bedroom Apartment – Ikoyi,Ikoyi,1,1,Ifunanya,+234 706 399 0727
+For Rent,Apartment,"₦12,000,000",2 Bedroom Apartment,Lekki Phase 1,2,2,Jennifer,+234 704 808 9361
+For Sale,Terrace,"₦130,000,000",4-Bedroom Terrace Duplex + BQ in Lekki,Orchid,4,4,Teni,+234 704 816 4812
+For Rent,Apartment,"₦30,000,000",3 Bedroom Apartment with Bq in Victoria Island,Oniru,3,3,Seun,+234 704 808 9360
+Land,Commercial Land,"₦2,500,000",Commercial Bare Land- Lekki Phase 1,Lekki Phase 1,,,Rose,+234 814 922 6187
+For Rent,Apartment,"₦25,000,000",4-Bedroom Residence +Bq in Ikate,Ikate,4,4,Jennifer,+234 704 808 9361
+For Sale,Apartment,"₦190,000,000",2 Bedroom Apartment in Lekki,,2,2,Peter,+234 906 251 1344
+For Sale,Detached Duplex,"₦700,000,000",5 Bedroom Detached House in Lekki,Lekki,5,5,Peter,+234 906 251 1344
+For Sale,Apartment,"₦14,000,000",2-Bedroom Apartment- VI,Oniru,2,2,Wunmi,+234 908 807 2107
+For Rent,Commercial,"₦800,000,000",PRIME COMMERCIAL BUILDING -LEKKI PHASE 1,Lekki Phase 1,,,Nadi,+2349062511345
+For Sale,Apartment,"₦400,000,000",2-Bedroom Apartment in Victoria Island,Victoria Island,2,2,Wunmi,+234 908 807 2107
+For Rent,Apartment,"₦20,000,000",2 Bedroom Apartment- Lekki phase 1,Lekki Phase 1,2,2,Jennifer,+234 704 808 9361
+For Rent,Detached Duplex,"₦195,000,000",4 Bedroom Semi-Detached House in Lekki,Chevron,4,4,Peter,+234 906 251 1344
+For Sale,Apartment,"₦270,000,000",2-Bedroom Apartments in Ikoyi,Ikoyi,2,2,Sophia,+234 814 497 6677
+For Sale,Detached Duplex,"₦4,800,000,000",5-Bedroom Detached Residence- Ikoyi,Ikoyi,5,5,Adaeze,+234 816 631 5298
+Land,Mixed-Use Land,"₦2,063,274",Land Measuring 1203sqm- VI,Eko Atlantic,,,Emmanuel,+234 908 807 2106
+For Rent,Apartment,"₦16,500,000",3-Bedroom Apartment in Lekki,Lekki Phase 1,3,3,Jennifer,+234 704 808 9361
+For Rent,Commercial,"₦20,000,000",Office Space in Ikoyi,Ikoyi,,,Nadi,+2349062511345
+For Sale,Terrace,"₦250,000,000",4 Bedroom Fully Detached House in Orchid Road,Orchid,4,4,Peter,+234 906 251 1344
+For Rent,Commercial,"₦85,000,000",Massive Commercial Property – Victoria Island,Victoria Island,,,Nadi,+2349062511345
+For Rent,Apartment,"₦40,000,000",Luxury 4 Bedroom Apartment in Ikoyi,Ikoyi,4,4,Titi,+234 707 886 6245
+For Rent,Apartment,"₦19,500,000",4 Bedroom Semi-Detached House with BQ in Lekki,Orchid,4,4,Peter,+234 906 251 1344
+For Sale,Detached Duplex,"₦360,000,000",5 Bedroom Fully Detached House with BQ in Lekki,Lekki,5,5,Peter,+234 906 251 1344
+For Rent,Apartment,"₦6,500,000",Spacious 2 Bedroom Apartment in Osapa,Osapa,2,2,Ebunoluwa,+234 704 808 9358
+For Sale,Terrace,"₦700,000,000",4-Bedroom Terrace –Victoria Island,Oniru,4,4,Seun,+234 704 808 9360
+For Sale,Apartment,"₦350,000,000",4-Bedroom Terrace in Ikate,Ikate,4,4,Jennifer,+234 704 808 9361
+For Rent,Terrace,"₦10,000,000",4 Bedroom Terrace Duplex,Ologolo,4,4,Esther,+234 814 640 1276
+For Rent,Apartment,"₦50,000,000",4-Bedroom Apartment In Ikoyi,Ikoyi,4,4,Titi,+234 707 886 6245
+For Rent,Apartment,"₦68,775,791",2 Bedroom Apartment | Ikoyi,Ikoyi,2,2,Ifunanya,+234 706 399 0727
+For Rent,Commercial,"₦5,000,000",Brand New 348sqm commercial Office Space,Victoria Island,,,Nadi,+2349062511345
+For Rent,Apartment,"₦40,000,000",3 Bedroom En-Suite Apartment- Ikoyi,Ikoyi,3,3,Olade,+234 810 875 5286
+For Rent,Apartment,"₦40,000,000",4-Bedroom Apartment- Ikoyi,Ikoyi,4,4,Olade,+234 810 875 5286
+For Rent,Apartment,"₦30,000,000",4 Bedroom Terrace Duplex with BQ in Ikoyi,Ikoyi,4,4,Sophia,+234 814 497 6677
+For Rent,Apartment,"₦4,500,000",2-Bedroom Apartment- Lekki,Orchid,2,2,Teni,+234 704 816 4812
+For Sale,Apartment,"₦450,000,000",Ocean-View 2-Bedroom Apartment- VI,Oniru,2,2,Wunmi,+234 908 807 2107
+For Rent,Detached Duplex,"₦50,000,000",5 Bedroom Detached Duplex in Lekki,Lekki Phase 1,5,5,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦38,000,000",4-Bedroom Apartment- Ikoyi,Ikoyi,4,4,Adaeze,+234 816 631 5298
+For Sale,Apartment,"₦150,000,000",2-Bedroom Apartment in Lekki,Lekki,2,2,Teni,+234 704 816 4812
+For Rent,Apartment,"₦4,800,000",2-Bedroom Apartment,Ikate,2,2,Esther,+234 814 640 1276
+Land,Mixed-Use Land,"₦2,000,000",Land Measuring 2500sqm- in VI,Victoria Island,,,Jennifer,+234 704 808 9361
+For Sale,Apartment,"₦400,000,000",2-Bedroom Terrace Duplex + BQ in Lekki Phase 1,Lekki Phase 1,2,2,Faith,+234 702 602 4170
+For Sale,Detached Duplex,"₦385,000,000",5 Bedroom Fully Detached Duplex +Bq in Lekki,Orchid,5,5,Ebunoluwa,+234 704 808 9358
+Land,Residential Land,"₦4,200,000",Bare Land Measuring 600sqm – Ikoyi,Ikoyi,,,Rose,+234 814 922 6187
+Land,Mixed-Use Land,"₦2,500,000,000",Land Measuring 1340sqm- VI,Victoria Island,,,Emmanuel,+234 908 807 2106
+For Rent,Apartment,"₦10,000,000",1 Bedroom Apartment in Lekki,Lekki Phase 1,1,1,Jennifer,+234 704 808 9361
+For Sale,Apartment,"₦600,000,000",3-Bedroom Apartment- VI,Victoria Island,3,3,Seun,+234 704 808 9360
+For Sale,Detached Duplex,"₦11,004,126,547",5-bedroom detached mansion +2Bq in Ikoyi,Ikoyi,5,5,Adaeze,+234 816 631 5298
+For Rent,Maisonette,"₦2,063,273,728",Luxury Maisonettes & Penthouse- Ikoyi,Ikoyi,3,3,Ifunanya,+234 706 399 0727
+For Rent,Semi Detached,"₦17,000,000",4-Bedroom Semi-Detached Duplex +BQ in Lekki,Ologolo,4,4,Esther,+234 814 640 1276
+For Rent,Apartment,"₦60,000,000",4-Bedroom Apartment +Bq in VI,Victoria Island,4,4,Wunmi,+234 908 807 2107
+For Sale,Apartment,"₦280,000,000",3 Bedroom Apartments +BQ in Lekki,Ikate,3,3,Esther,+234 814 640 1276
+For Rent,Apartment,"₦18,000,000",1-Bedroom Apartment in Ikoyi,Ikoyi,1,1,Titi,+234 707 886 6245
+For Sale,Detached Duplex,"₦300,000,000",4 Bedroom Fully Detached Duplex +BQ in Ajah,Ajah,4,4,Esther,+234 814 640 1276
+For Sale,Terrace,"₦180,000,000",3 & 4 Bedroom Terrace Duplexes in Lekki,Chevron,3,3,Peter,+234 906 251 1344
+For Sale,Semi Detached,"₦400,000,000",4-Bedroom Semi-Detached Duplex+BQ in Ikate,Ikate,4,4,Ebunoluwa,+234 704 808 9358
+For Rent,Apartment,"₦14,000,000",2-Bedroom Maisonette - VI,Oniru,2,2,Wunmi,+234 908 807 2107
+For Rent,Apartment,"₦30,000,000",2-Bedroom Apartment in Ikoyi,Ikoyi,2,2,Sophia,+234 814 497 6677
+For Sale,Terrace,"₦180,000,000",4-Bedroom Terrace Duplex,Ikota,4,4,Esther,+234 814 640 1276
+For Sale,Terrace,"₦5,000,000",Land Measuring 401sqm- Ikoyi,Old Ikoyi,,,Emmanuel,+234 908 807 2106
+For Sale,Terrace,"₦4,500,000,000",Mixed-Use Commercial Building in Lekki,Ikate,1,1,Jennifer,+234 704 808 9361
+For Rent,Semi Detached,"₦55,000,000",7-Bedroom Semi-Detached +BQ in Vi,Victoria Island,7,7,Nadi,+2349062511345
+For Sale,Detached Duplex,"₦4,000,000,000",5-Bedroom Detached Duplex – Ikoyi,Banana Island,5,5,Rose,+234 814 922 6187
+For Rent,Apartment,"₦38,000,000",4-Bedroom Apartment +BQ in Ikoyi,Ikoyi,4,4,Sophia,+234 814 497 6677
+Land,Commercial Land,"₦800,000",Land measuring 3275 sqm- Lekki,Lekki,,,Emmanuel,+234 908 807 2106
+For Rent,Terrace,"₦35,000,000",4 Bedroom Terrace Duplex in Oniru,Oniru,4,4,Nadi,+2349062511345
+For Rent,Apartment,"₦5,500,000",3 Bedroom Apartment- Lekki,Orchid,3,3,Teni,+234 704 816 4812
+For Sale,Apartment,"₦320,000,000",1 & 2 Bedroom Apartments,Lekki Phase 1,2,2,Faith,+234 702 602 4170
+For Rent,Apartment,"₦7,500,000",2-Bedroom Apartment in Lekki,Lekki,2,2,Esther,+234 814 640 1276
+For Sale,Detached Duplex,"₦380,000,000",5 Bedroom Detached House in Lekki,Chevron,5,5,Peter,+234 906 251 1344
+For Sale,Apartment,"₦20,000,000",3-Bedroom Apartment with BQ in Ikoyi,Parkview,3,3,Adaeze,+234 816 631 5298
+For Rent,Apartment,"₦8,000,000",1 Bedroom Apartment,Lekki Phase 1,1,1,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦300,000,000",Off-Plan 3 Bedroom Apartment– Lekki Phase 1,Lekki Phase 1,3,3,Nadi,+2349062511345
+For Rent,Apartment,"₦70,000,000",3-Bedroom Furnished Apartment in Old Ikoyi,Old Ikoyi,3,3,Adaeze,+234 816 631 5298
+For Rent,Apartment,"₦550,000,000",3-Bedroom Penthouse Apartment + BQ- Ikoyi,Ikoyi,3,3,Ifunanya,+234 706 399 0727
+For Sale,Detached Duplex,"₦400,000,000",5-Bedroom Detached Duplex with BQ,Ikota,5,5,Esther,+234 814 640 1276
+For Rent,Terrace,"₦25,000,000",4-Bedroom Terrace In Oniru,Oniru,4,4,Titi,+234 707 886 6245
+For Sale,Terrace,"₦180,000,000",4-Bedroom Duplex,Ikota,4,4,Esther,+234 814 640 1276
+For Rent,Apartment,"₦19,000,000",4 Bedroom Semi-Detached Duplex with BQ in Lekki,Ikate,4,4,Peter,+234 906 251 1344
+For Rent,Apartment,"₦15,000,000",3-Bedroom Apartment in Ikate,Ikate,3,3,Esther,+234 814 640 1276
+Land,Residential Land,"₦15,000,000",600SQM Land in an Estate- Ibeju Lekki,,,,Emmanuel,+234 908 807 2106
+For Rent,Apartment,"₦24,000,000",2 & 3 Bedroom Apartment with BQ,Lekki Phase 1,3,3,Faith,+234 702 602 4170
+For Rent,Apartment,"₦8,500,000",1-Bedroom Apartment in Lekki,Lekki Phase 1,1,1,Jennifer,+234 704 808 9361
+For Sale,Terrace,"₦600,000,000",4-Bedroom Semi-Detached Townhouse –Victoria Island,Oniru,4,4,Rose,+234 814 922 6187
+For Sale,Apartment,"₦180,000,000",2 Bedroom Apartment in Lekki,Ikate,2,2,Peter,+234 906 251 1344
+For Rent,Apartment,"₦30,000,000",2 Bedroom Furnished Apartment in Lekki Phase 1,Lekki Phase 1,2,2,Jennifer,+234 704 808 9361
+For Sale,Detached Duplex,"₦180,000,000",4 Bedroom Fully Detached Duplex +Bq in Lekki,Orchid,4,4,Teni,+234 704 816 4812
+For Sale,Detached Duplex,"₦190,000,000",4 Bedroom Semi-Detached Duplex in Lekki,Ikota,4,4,Peter,+234 906 251 1344
+For Sale,Terrace,"₦400,000,000",4-Bedroom Terrace Duplex with Bq in Ikate,Ikate,4,4,Ebunoluwa,+234 704 808 9358
+For Sale,Terrace,"₦1,200,000,000",4-Bedroom Terrace +2 BQ  in VI,Victoria Island,4,4,Seun,+234 704 808 9360
+For Sale,Apartment,"₦1,093,535,076",2 Bedroom Apartment | Ikoyi,Ikoyi,2,2,Ifunanya,+234 706 399 0727
+For Rent,Apartment,"₦250,000,000",3 Bedroom Apartment in Lekki,Ikate,3,3,Peter,+234 906 251 1344
+For Rent,Apartment,"₦70,000,000",Waterfront 4-Bedroom Apartment in Ikoyi,Banana Island,4,4,Adaeze,+234 816 631 5298
+For Sale,Detached Duplex,"₦760,000,000",5 Bedroom Fully Detached House in Lekki,Lekki Phase 1,5,5,Peter,+234 906 251 1344
+For Sale,Detached Duplex,"₦1,925,722,146",4-Bedroom Detached House in Old Ikoyi,Old Ikoyi,4,4,Adaeze,+234 816 631 5298
+For Sale,Apartment,"₦290,000,000",2 Bedroom Apartment with BQ in Lekki,Lekki Phase 1,2,2,Peter,+234 906 251 1344
+For Rent,Apartment,"₦40,000,000",3-Bedroom Apartment + BQ- Ikoyi,Banana Island,3,3,Ifunanya,+234 706 399 0727
+For Sale,Detached Duplex,"₦2,132,049,519",6-Bedroom Fully Detached Mansion +2 BQ in Ikoyi,Ikoyi,6,6,Titi,+234 707 886 6245
+Land,Mixed-Use Land,"₦3,500,000",Land Measuring 1609sqm- Ikoyi,Ikoyi,,,Emmanuel,+234 908 807 2106
+For Sale,Terrace,"₦1,100,412,655",4-Bedroom Townhouses + BQ- VI,Victoria Island,4,4,Ifunanya,+234 706 399 0727
+For Rent,Commercial,"₦50,000,000",Premium Industrial Warehouse in Oniru,Oniru,,,Nadi,+2349062511345
+For Rent,Commercial,"₦275,103",Commercial Space in Victoria Island,Victoria Island,,,Nadi,+2349062511345
+For Rent,Apartment,"₦89,408,528",Luxury 3-Bedroom Apartment in Ikoyi,Ikoyi,3,3,Titi,+234 707 886 6245
+For Rent,Apartment,"₦40,000,000",Furnished 3 Bedroom Apartment- Ikoyi,Ikoyi,3,3,Adaeze,+234 816 631 5298
+For Rent,Apartment,"₦30,000,000",3-Bedroom Apartment - Ikoyi,Ikoyi,3,3,Titi,+234 707 886 6245
+For Rent,Commercial,"₦45,000,000",4 BEDROOM TERRACE –FOR OFFICE USE- IKOYI,Ikoyi,4,4,Nadi,+2349062511345
+For Rent,Commercial,"₦25,000,000",Upper-Floor Commercial Space,Lekki Phase 1,,,Jennifer,+234 704 808 9361
+For Sale,Detached Duplex,"₦550,000,000",5 Bedroom Fully Detached House in Lekki,Lekki,5,5,Peter,+234 906 251 1344
+Land,Mixed-Use Land,"₦3,600,000",Land Measuring 1041sqm- Ikoyi,Ikoyi,,,Emmanuel,+234 908 807 2106
+For Sale,Apartment,"₦500,000,000",Luxury 2-Bedroom Apartment in Ikoyi,Ikoyi,2,2,Adaeze,+234 816 631 5298
+For Rent,Apartment,"₦20,000,000",4-Bedroom Terrace Duplex in Lekki,Osapa,4,4,Esther,+234 814 640 1276
+For Rent,Apartment,"₦20,000,000",2 Bedroom Apartment in Lekki,Lekki Phase 1,2,2,Jennifer,+234 704 808 9361
+For Sale,Apartment,"₦150,000,000",1 & 2-Bedroom Apartments,Ologolo,2,2,Esther,+234 814 640 1276
+For Rent,Apartment,"₦25,000,000",3-Bedroom Apartment with Study & BQ– Victoria Island,Victoria Island,3,3,Wunmi,+234 908 807 2107
+For Rent,Terrace,"₦25,000,000",4-Bedroom Terrace +BQ in Oniru,Oniru,4,4,Wunmi,+234 908 807 2107
+Land,Mixed-Use Land,"₦4,000,000",Land Measuring 849sqm- Ikoyi,Ikoyi,,,Emmanuel,+234 908 807 2106
+For Sale,Terrace,"₦400,000,000",4 Bedroom Fully Detached Duplex in Lekki,Orchid,4,4,Peter,+234 906 251 1344
+For Rent,Apartment,"₦15,000,000",3 BEDROOM APARTMENT –LEKKI,Ikate,3,3,Ebunoluwa,+234 704 808 9358
+For Sale,Detached Duplex,"₦550,000,000",5 Bedroom Detached House in Lekki,Chevron,5,5,Peter,+234 906 251 1344
+For Rent,Semi Detached,"₦50,000,000",4-Bedroom Semi-Detached Duplex with BQ- VI,Victoria Island,4,4,Seun,+234 704 808 9360
+For Sale,Terrace,"₦650,000,000",5 Bedroom Fully Detached Duplex in Lekki,Ikota,5,5,Peter,+234 906 251 1344
+For Rent,Apartment,"₦18,000,000",2-Bedroom Maisonette Apartment,Lekki,2,2,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦12,000,000",Fully Furnished 2 Bedroom Flat,Ikate,2,2,Esther,+234 814 640 1276
+For Rent,Apartment,"₦14,000,000",Fully Furnished & Serviced 1-Bedroom Apartment in Lekki,Lekki Phase 1,1,1,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦33,000,000",3-Bedroom Maisonette with Home Office in Victoria Island,Victoria Island,3,3,Sophia,+234 814 497 6677
+For Sale,Terrace,"₦260,000,000",4-Bedroom Terrace Duplex with BQ in Ikate,Ikate,4,4,Esther,+234 814 640 1276
+For Rent,Commercial,"₦350,000",Office Space in Lekki Phase 1,Lekki Phase 1,,,Jennifer,+234 704 808 9361
+For Sale,Semi Detached,"₦450,000,000",4 Bedroom Semi-Detached Duplex in Lekki Phase 1,Lekki Phase 1,4,4,Jennifer,+234 704 808 9361
+For Sale,Detached Duplex,"₦5,000,000",6 Bedroom Waterfront Mansion +2 BQs in Ikoyi,Banana Island,6,6,Adaeze,+234 816 631 5298
+For Rent,Detached Duplex,"₦190,000,000",4-Bedroom Detached Duplex +BQ in Ajah,Ajah,4,4,Ebunoluwa,+234 704 808 9358
+For Sale,Apartment,"₦550,000,000",3 Bedroom Apartment- Ikoyi,Ikoyi,3,3,Ifunanya,+234 706 399 0727
+For Rent,Apartment,"₦2,063,273,728",4 Bedroom Apartments- Ikoyi,Banana Island,4,4,Ifunanya,+234 706 399 0727
+For Sale,Detached Duplex,"₦450,000,000",4-Bedroom Fully Detached Duplex in ikate,Ikate,4,4,Ebunoluwa,+234 704 808 9358
+For Sale,Apartment,"₦350,000,000",1-Bedroom Loft Apartment- Lekki Right,Victoria Island,1,1,Seun,+234 704 808 9360
+For Rent,Apartment,"₦40,000,000",3-Bedroom Apartment with BQ- Ikoyi,Ikoyi,3,3,Rose,+234 814 922 6187
+For Rent,Terrace,"₦40,000,000",4-Bedroom Townhouse in Victoria Island,Victoria Island,4,4,Nadi,+2349062511345
+For Sale,Detached Duplex,"₦400,000,000",5-Bedroom Detached Duplex with BQ,Ikota,5,5,Esther,+234 814 640 1276
+For Rent,Apartment,"₦110,041,265",3-Bedroom Apartment with BQ- Ikoyi,Banana Island,3,3,Rose,+234 814 922 6187
+For Sale,Apartment,"₦950,000,000",3-Bedroom Apartment in Ikoyi,Banana Island,3,3,Sophia,+234 814 497 6677
+For Rent,Apartment,"₦25,000,000",1-Bedroom Apartments in Lekki Phase 1,Lekki Phase 1,1,1,Emmanuel,+234 908 807 2106
+For Rent,Apartment,"₦40,000,000",Furnished 3-Bedroom Apartment in VI,Victoria Island,3,3,Seun,+234 704 808 9360
+For Rent,Apartment,"₦25,000,000",3 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,3,3,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦25,000,000",2-Bedroom Apartment- Ikoyi,Ikoyi,2,2,Adaeze,+234 816 631 5298
+For Rent,Apartment,"₦50,000,000",3-Bedroom Apartment with BQ Living- VI,Victoria Island,3,3,Wunmi,+234 908 807 2107
+For Sale,Detached Duplex,"₦410,000,000",5 Bedroom Fully Detached House in Lekki,Lekki,5,5,Peter,+234 906 251 1344
+For Rent,Apartment,"₦9,000,000","2-Bedroom Apartment in Ikate, Lekki",Ikate,2,2,Peter,+234 906 251 1344
+For Sale,Apartment,"₦1,500,000,000",4-Bedroom Apartment with Bq in Vi,Victoria Island,,,Wunmi,+234 908 807 2107
+For Sale,Terrace,"₦680,000,000",5 Bedroom Fully Detached House in Lekki,Lekki,,,Peter,+234 906 251 1344
+For Sale,Terrace,"₦350,000,000",5-Bedroom Detached Duplex in Lekki,Chevron,5,5,Peter,+234 906 251 1344
+For Rent,Apartment,"₦100,412,655",4 Bedroom Apartment | Ikoyi,Ikoyi,4,4,Ifunanya,+234 706 399 0727
+For Sale,Terrace,"₦700,000,000",4-Bedroom Terrace +Bq in Vi,Oniru,4,4,Jennifer,+234 704 808 9361
+For Sale,Apartment,"₦450,000,000",2-Bedroom Apartment with BQ in Victoria Island,Victoria Island,2,2,Sophia,+234 814 497 6677
+For Rent,Apartment,"₦35,000,000",3-Bedroom Apartment in Ikoyi,Ikoyi,3,3,Adaeze,+234 816 631 5298
+For Rent,Commercial,"₦55,000,000",250sqm Commercial Space with 60sqm Penthouse (Upper Floor),Lekki Phase 1,,,Jennifer,+234 704 808 9361
+Land,Mixed-Use Land,"₦4,500,000",Land Measuring 2025 sqm- Ikoyi,Banana Island,,,Emmanuel,+234 908 807 2106
+For Rent,Maisonette,"₦450,000,000",Two Units of 3-Bedroom Maisonettes with BQ- VI,Victoria Island,3,3,Wunmi,+234 908 807 2107
+For Rent,Apartment,"₦20,000,000",3-Bedroom Apartment +BQ in Oniru,Oniru,3,3,Wunmi,+234 908 807 2107
+For Sale,Detached Duplex,"₦600,000,000",5-Bedroom Detached House + BQ- Lekki,Ikota,5,5,Teni,+234 704 816 4812
+For Sale,Detached Duplex,"₦1,400,000,000",Luxury 5 Bedroom Detached Duplex in Lekki,Lekki Phase 1,5,5,Jennifer,+234 704 808 9361
+For Sale,Terrace,"₦160,000,000",5 Bedroom Terrace Duplex,Ologolo,5,5,Esther,+234 814 640 1276
+Land,Mixed-Use Land,"₦650,000,000",Land Measuring 500sqm- Lekki phase 1,Lekki Phase 1,,,Emmanuel,+234 908 807 2106
+For Sale,Detached Duplex,"₦350,000,000",5 Bedroom Fully Detached House with BQ in Lekki,Ikota,5,5,Peter,+234 906 251 1344
+For Sale,Semi Detached,"₦190,000,000",4 Bedroom Semi-Detached Duplex in Lekki,Ikota,4,4,Peter,+234 906 251 1344
+For Sale,Detached Duplex,"₦850,000,000",7 Bedroom Detached House in Lekki,Pinnock Beach Estate,7,7,Peter,+234 906 251 1344
+For Sale,Detached Duplex,"₦350,000,000",5 Bedroom Fully Detached Duplex in Lekki,Ikota,5,5,Peter,+234 906 251 1344
+For Sale,Terrace,"₦1,100,000,000",3 Bedroom Terrace Duplex +BQ Ikoyi,Ikoyi,3,3,Sophia,+234 814 497 6677
+For Sale,Apartment,"₦250,000,000",2-Bedroom Apartments in Lekki Phase 1,Lekki Phase 1,2,2,Jennifer,+234 704 808 9361
+For Sale,Apartment,"₦160,000,000",2-Bedroom Apartment in Lekki,Ikate,2,2,Ebunoluwa,+234 704 808 9358
+Land,Residential Land,"₦260,000,000",Land Measuring 1280sqm- Lekki,Ajah,,,Emmanuel,+234 908 807 2106
+For Rent,Detached Duplex,"₦40,000,000",5 Bedroom Fully Detached Houses + BQ in Lekkki,Lekki Phase 1,5,5,Jennifer,+234 704 808 9361
+Land,Mixed-Use Land,"₦1,800,000,000",Land Measuring 1180sq- Lekki phase 1,Lekki Phase 1,,,Emmanuel,+234 908 807 2106
+For Sale,Detached Duplex,"₦600,000,000",5 Bedroom Fully Detached House in Lekki,Ikota,5,5,Peter,+234 906 251 1344
+For Rent,Apartment,"₦9,500,000",Studio Apartment in Lekki,Chevron,1,1,Esther,+234 814 640 1276
+Land,Mixed-Use Land,"₦1,090,000",Land Measuring 4600sqm- VI,Oniru,,,Emmanuel,+234 908 807 2106
+For Sale,Detached Duplex,"₦500,000,000","5-Bedroom Duplex +BQ,Pool & Cinema in Lekki",Orchid,5,5,Teni,+234 704 816 4812
+For Rent,Terrace,"₦35,000,000",4-Bedroom Terrace Duplex with BQ- VI,Oniru,4,4,Wunmi,+234 908 807 2107
+For Sale,Terrace,"₦125,000,000",4-Bedroom Terrace Duplex- Lekki,Orchid,4,4,Teni,+234 704 816 4812
+For Sale,Semi Detached,"₦1,200,000,000",4 Bedroom Semi-Detached Duplex in Ikoyi,Parkview,4,4,Adaeze,+234 816 631 5298
+For Rent,Maisonette,"₦35,000,000",4-Bedroom Maisonette in Lekki Phase 1,Lekki Phase 1,4,4,Jennifer,+234 704 808 9361
+For Sale,Detached Duplex,"₦450,000,000",6 Bedroom Fully Detached Duplex in Lekki,Ikota,6,6,Peter,+234 906 251 1344
+For Rent,Apartment,"₦8,000,000",2-Bedroom Apartment in Lekki,Ologolo,2,2,Esther,+234 814 640 1276
+For Sale,Terrace,"₦1,600,000,000",4-Bedroom Terrace Duplex with BQ – Ikoyi,Banana Island,4,4,Rose,+234 814 922 6187
+For Rent,Semi Detached,"₦15,000,000",4-Bedroom Semi-Detached Duplex +Bq in Lekki,Osapa,4,4,Esther,+234 814 640 1276
+For Sale,Terrace,"₦200,000,000",4-Bedroom Terrace Duplex,Ologolo,4,4,Esther,+234 814 640 1276
+For Rent,Commercial,"₦2,000,000,000",Prime Commercial Property – Lekki Phase One,Lekki Phase 1,,,Nadi,+2349062511345
+For Rent,Apartment,"₦20,000,000",2-Bedroom Apartment in Lekki,Lekki,2,2,Jennifer,+234 704 808 9361
+For Sale,Semi Detached,"₦1,600,000,000",4-Bedroom Semi-Detached Duplex +BQ in Ikoyi,Ikoyi,4,4,Titi,+234 707 886 6245
+For Sale,Apartment,"₦180,000,000",2-Bedroom Apartments +BQ in Lekki,Ikate,2,2,Esther,+234 814 640 1276
+For Rent,Terrace,"₦40,000,000",4-Bedroom Terrace Duplex with BQ in Oniru,Oniru,4,4,Titi,+234 707 886 6245
+,Mixed-Use Land,"₦3,438,790",2245sqm Development Land- VI,,,,Emmanuel,+234 908 807 2106
+For Rent,Terrace,"₦35,000,000",4-Bedroom Terrace with BQ- VI,Victoria Island,,,Wunmi,+234 908 807 2107
+For Rent,Apartment,"₦18,500,000",2 Bedroom Apartment for Rent in Lekki,Lekki,,,Peter,+234 906 251 1344
+For Rent,Detached Duplex,"₦25,000,000",5-Bedroom Fully Detached Duplex with BQ & Pool in Lekki,Lekki,,,Esther,+234 814 640 1276
+For Sale,Terrace,"₦850,000,000",4-Bedroom Terrace Duplex in Victoria Island,Victoria Island,4,4,Wunmi,+234 908 807 2107
+For Sale,Apartment,"₦1,100,412,655",3-Bedroom Apartments - Ikoyi,Ikoyi,3,3,Rose,+234 814 922 6187
+Land,Mixed-Use Land,"₦5,000,000",Land Measuring 2245sqm- Ikoyi,Ikoyi,,,Emmanuel,+234 908 807 2106
+For Sale,Detached Duplex,"₦460,000,000",5-Bedroom Detached Duplex with BQ,Ikota,5,5,Esther,+234 814 640 1276
+For Rent,Apartment,"₦10,000,000",2-Bedroom Apartment,Ologolo,2,2,Esther,+234 814 640 1276
+For Rent,Apartment,"₦15,000,000",3 BEDROOM MAISONETTE –LEKKI,Ikate,3,3,Ebunoluwa,+234 704 808 9358
+For Sale,Detached Duplex,"₦400,000,000",5 Bedroom Fully Detached House with BQ in Lekki,Ikota,5,5,Peter,+234 906 251 1344
+For Sale,Apartment,"₦285,000,000",2-Bedroom Apartment in Lekki Phase I,Lekki Phase 1,2,2,Peter,+234 906 251 1344
+For Rent,Terrace,"₦30,000,000",4 bedroom terrace with BQ Lekki Phase 1,Lekki Phase 1,4,4,Jennifer,+234 704 808 9361
+Land,Mixed-Use Land,"₦2,500,000",Land Measuring 7060sqm- VI,Victoria Island,,,Emmanuel,+234 908 807 2106
+For Rent,Terrace,"₦25,000,000",4-Bedroom Terrace with Bq in Old Ikoyi,Old Ikoyi,4,4,Sophia,+234 814 497 6677
+Land,Mixed-Use Land,"₦2,500,000",Land Measuring 2000sqm- VI,Victoria Island,,,Rose,+234 814 922 6187
+For Rent,Apartment,"₦150,000,000",5-Bedroom Fully Detached House -Ikoyi,Parkview,5,5,Rose,+234 814 922 6187
+For Rent,Apartment,"₦45,000,000",3-Bedroom Apartment in Victoria Island,Victoria Island,3,3,Seun,+234 704 808 9360
+For Rent,Apartment,"₦25,000,000",3-Bedroom Apartment in Lekki,Lekki Phase 1,3,3,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦20,000,000",3-Bedroom Apartment with BQ– Lekki (Right Side),Oniru,3,3,Wunmi,+234 908 807 2107
+For Sale,Apartment,"₦195,000,000",New Development Apartment- VI,Victoria Island,1,1,Ifunanya,+234 706 399 0727
+For Rent,Apartment,"₦17,000,000",2-Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,2,2,Jennifer,+234 704 808 9361
+For Rent,Terrace,"₦45,000,000",4- Bedroom Terrace Duplex in Ikoyi,Ikoyi,4,4,Titi,+234 707 886 6245
+For Sale,Detached Duplex,"₦950,000,000",5-Bedroom Detached Duplex +2 BQ in Lekki,Lekki Phase 1,5,5,Jennifer,+234 704 808 9361
+For Rent,Penthouse,"₦151,306,740",5 Bedroom Apartment | Ikoyi,Ikoyi,5,5,Ifunanya,+234 706 399 0727
+Land,Mixed-Use Land,"₦3,500,000",Lands measuring 1000sqm and 2000sqm- Ikoyi,Banana Island,,,Emmanuel,+234 908 807 2106
+For Rent,Maisonette,"₦1,500,000,000",4-Bedroom Maisonette + BQ – Old Ikoyi,Ikoyi,4,4,Ifunanya,+234 706 399 0727
+Land,Residential Land,"₦3,500,000,000",Prime Land Measuring 850sqm – Ikoyi,Ikoyi,,,Rose,+234 814 922 6187
+For Sale,Semi Detached,"₦1,300,000,000",5-Bedroom Semi-Detached in Ikoyi,Ikoyi,5,5,Titi,+234 707 886 6245
+For Rent,Terrace,"₦50,000,000",4-Bedroom Terrace with BQ- Ikoyi,Old Ikoyi,4,4,Ifunanya,+234 706 399 0727
+For Sale,Detached Duplex,"₦190,000,000",4-Bedroom Detached Duplex with Bq in Ajah,Ajah,4,4,Ebunoluwa,+234 704 808 9358
+For Sale,Terrace,"₦150,000,000",4-Bedroom Terrace Duplex,Ikota,4,4,Esther,+234 814 640 1276
+For Sale,Apartment,"₦260,000,000",2-Bedroom Apartment in Lekki,Ikate,2,2,Peter,+234 906 251 1344
+For Sale,Terrace,"₦320,000,000",4-Bedroom Terrace Duplex +BQ in Osapa,Osapa,4,4,Esther,+234 814 640 1276
+For Rent,Penthouse,"₦97,200,000",Pent-Floor (9th Floor) Luxury Apartment- Ikoyi,Ikoyi,3,3,Olade,+234 810 875 5286
+For Sale,Detached Duplex,"₦380,000,000",5 Bedroom Fully Detached Smart Home in Lekki,Ikota,5,5,Peter,+234 906 251 1344
+For Rent,Apartment,"₦37,000,000",3-Bedroom Apartment– Ikoyi,Banana Island,3,3,Adaeze,+234 816 631 5298
+For Sale,Detached Duplex,"₦630,000,000",5 Bedroom Fully Detached House with BQ in Lekki,Ikota,5,5,Peter,+234 906 251 1344
+For Rent,Maisonette,"₦2,063,273,728",5 Bedroom Maisonettes- Ikoyi,Banana Island,5,5,Ifunanya,+234 706 399 0727
+For Rent,Apartment,"₦10,000,000",3 Bedroom Apartment,Ologolo,3,3,Esther,+234 814 640 1276
+For Sale,Apartment,"₦550,000,000",2-Bedroom Apartment + BQ – Ikoyi,Parkview,2,2,Ifunanya,+234 706 399 0727
+For Sale,Semi Detached,"₦2,800,000,000",Twin Duplexes,Victoria Island,5,5,Nadi,+2349062511345
+For Rent,Apartment,"₦6,500,000",2-Bedroom Apartment in Lekki,Ologolo,2,2,Esther,+234 814 640 1276
+For Sale,Apartment,"₦250,000,000",2-Bedroom Apartment +BQ in Victoria Island,Victoria Island,2,2,Wunmi,+234 908 807 2107
+For Sale,Terrace,"₦1,200,000,000",4 Bedroom Pent-Floor Maisonette in VI,Victoria Island,4,4,Sophia,+234 814 497 6677
+For Sale,Apartment,"₦400,000,000",2 Bedroom Apartment in Victoria Island,Victoria Island,2,2,Seun,+234 704 808 9360
+For Sale,Semi Detached,"₦220,000,000",4 Bedroom Semi-Detached Duplex in Lekki,Ikota,4,4,Peter,+234 906 251 1344
+For Rent,Apartment,"₦12,000,000",Fully Furnished 3 Bedroom Terrace Duplex Apartment,Osapa,3,3,Esther,+234 814 640 1276
+For Rent,Commercial,"₦35,000,000",Commercial Property –Victoria Island,Lekki Phase 1,,,Nadi,+2349062511345
+For Sale,Terrace,"₦350,000,000",4 Bedroom Terrace with BQ in Lekki,Osapa,4,4,Peter,+234 906 251 1344
+For Sale,Terrace,"₦250,000,000",3 Bedroom Terrace Duplex in Ikate,Ikate,3,3,Ebunoluwa,+234 704 808 9358
+For Rent,Terrace,"₦25,000,000",4-Bedroom Terrace with BQ – Victoria Island,Oniru,4,4,Wunmi,+234 908 807 2107
+For Rent,Terrace,"₦80,000,000",5-Bedroom Terrace Apartment – Ikoyi,Banana Island,5,5,Adaeze,+234 816 631 5298
+For Rent,Terrace,"₦7,000,000",4 Bedroom Terrace Duplex,Osapa,4,4,Esther,+234 814 640 1276
+For Rent,Apartment,"₦15,000,000",1-Bedroom Apartment- Ikoyi,Ikoyi,1,1,Olade,+234 810 875 5286
+For Sale,Detached Duplex,"₦500,000,000",5 Bedroom Fully Detached House in Lekki,Ikota,5,5,Peter,+234 906 251 1344
+For Sale,Terrace,"₦140,000,000",4 Bedroom Terrace Duplex in lekki,Ikota,4,4,Esther,+234 814 640 1276
+For Rent,Apartment,"₦25,000,000",1-Bedroom Apartment– Old Ikoyi,Old Ikoyi,1,1,Adaeze,+234 816 631 5298
+For Sale,Terrace,"₦280,000,000",4-Bedroom Terrace Duplex in Lekki,Lekki,4,4,Jennifer,+234 704 808 9361
+Land,Mixed-Use Land,"₦3,800,000",Land measuring 1440sqm- Ikoyi,Ikoyi,,,Rose,+234 814 922 6187
+For Rent,Apartment,"₦37,000,000",3-BEDROOM WATERFRONT APARTMENT + BQ – IKOYI,Banana Island,3,3,Ifunanya,+234 706 399 0727
+For Rent,Maisonette,"₦43,400,000",3 Bedroom Maisonette in Lekki,,3,3,Peter,+234 906 251 1344
+For Sale,Semi Detached,"₦400,000,000",4-Bedroom Semi-Detached Duplex in Lekki,Lekki Phase 1,4,4,Peter,+234 906 251 1344
+For Rent,Apartment,"₦42,000,000",3-Bedroom Apartment with BQ- VI,Victoria Island,3,3,Seun,+234 704 808 9360
+For Sale,Apartment,"₦200,000,000",2 Bedroom Furnished Apartment,Lekki,2,2,Faith,+234 702 602 4170
+For Rent,Apartment,"₦50,000,000",3-Bedroom Apartment + BQ –Ikoyi,Banana Island,3,3,Ifunanya,+234 706 399 0727
+For Rent,Apartment,"₦25,000,000",2-Bedroom Apartment (5th Floor)- VI,Oniru,2,2,Wunmi,+234 908 807 2107
+For Rent,Commercial,"₦85,000,000",Detached Commercial Property- VI,Victoria Island,,,Nadi,+2349062511345
+For Rent,Apartment,"₦30,000,000",Luxury 3 Bedroom Apartment + BQ in Lekki,Lekki Phase 1,3,3,Jennifer,+234 704 808 9361
+For Sale,Detached Duplex,"₦370,000,000",5 Bedroom Fully Detached House in Lekki,Orchid,5,5,Peter,+234 906 251 1344
+For Rent,Apartment,"₦6,000,000",2-Bedroom Apartment in Ikate,Ikate,2,2,Esther,+234 814 640 1276
+For Sale,Detached Duplex,"₦300,000,000",4 Bedroom Fully Detached Duplex in Lekki,Lekki,4,4,Peter,+234 906 251 1344
+For Sale,Detached Duplex,"₦100,000,000",5-Bedroom Detached+2 Bq in Lekki Phase 1,Lekki Phase 1,5,5,Jennifer,+234 704 808 9361
+For Sale,Terrace,"₦480,000,000",4 Bedroom Terrace Duplex with BQ in Lekki,Chevron,4,4,Peter,+234 906 251 1344
+For Rent,Apartment,"₦165,061,898",4-Bedroom Apartment – Old Ikoyi,Old Ikoyi,4,4,Adaeze,+234 816 631 5298
+For Sale,Apartment,"₦1,000,000,000",3-Bedroom Apartments in Victoria Island,Victoria Island,3,3,Seun,+234 704 808 9360
+For Rent,Penthouse,"₦40,000,000",3-Bedroom Penthouse –Ikoyi,Parkview,3,3,Adaeze,+234 816 631 5298
+For Rent,Apartment,"₦50,000,000",4-Bedroom Apartment +BQ in Ikoyi,Ikoyi,4,4,Titi,+234 707 886 6245
+For Sale,Detached Duplex,"₦480,000,000",5 Bedroom Fully Detached Duplex in Lekki,Chevron,5,5,Peter,+234 906 251 1344
+For Sale,Terrace,"₦600,000,000",3-Bedroom Terrace Duplex in Lekki,Lekki Phase 1,3,3,Jennifer,+234 704 808 9361
+For Rent,Detached Duplex,"₦40,000,000",5-Bedroom Detached Duplex in Osapa,Osapa,5,5,Teni,+234 704 816 4812
+For Rent,Commercial,"₦618,982",Grade A Office Space - Victoria Island,Victoria Island,,,Nadi,+2349062511345
+For Sale,Semi Detached,"₦500,000,000",5-Bedroom Semi-Detached Duplex +BQ in Osapa,Osapa,5,5,Esther,+234 814 640 1276
+For Sale,Apartment,"₦320,000,000",3-Bedroom Apartment in Lekki Phase I,Lekki Phase 1,3,3,Peter,+234 906 251 1344
+For Sale,Apartment,"₦200,000,000",2 Bedroom Apartment in Lekki,Ikate,2,2,Peter,+234 906 251 1344
+For Rent,Apartment,"₦25,000,000",2-Bedroom Apartment- Ikoyi,Ikoyi,2,2,Ifunanya,+234 706 399 0727
+For Sale,Detached Duplex,"₦300,000,000",4 Bedroom Fully Detached Duplex + BQ in Ajah,Ajah,4,4,Esther,+234 814 640 1276
+For Rent,Detached Duplex,"₦80,000,000",5-Bedroom Fully Detached House in Ikoyi,Ikoyi,5,5,Titi,+234 707 886 6245
+For Sale,Apartment,"₦350,000,000",4-Bedroom Apartment- Lekki,Ikate,4,4,Ebunoluwa,+234 704 808 9358
+For Rent,Apartment,"₦49,100,000",3 Bedroom Apartment in Lekki,Lekki Phase 1,3,3,Jennifer,+234 704 808 9361
+For Sale,Semi Detached,"₦1,000,000,000",5 Bedroom Semi-Detached Duplex in Ikate,Ikate,5,5,Ebunoluwa,+234 704 808 9358
+For Sale,Terrace,"₦125,000,000",1 & 2-Bedroom Terrace Duplex,Ologolo,2,2,Esther,+234 814 640 1276
+For Rent,Commercial,"₦130,000,000",Waterfront Commercial Development – Lekki Phase 1,Lekki Phase 1,,,Nadi,+2349062511345
+For Rent,Semi Detached,"₦35,000,000",5 Bedroom Semi-Detached Duplex +BQ in Lekki,Lekki Phase 1,5,5,Jennifer,+234 704 808 9361
+For Rent,Apartment,"₦75,000,000",3-Bedroom Apartment + BQ- Ikoyi,Old Ikoyi,3,3,Ifunanya,+234 706 399 0727
+For Rent,Commercial,"₦825,309",GRADE A COMMERCIAL BUILDING– IKOYI,Ikoyi,,,Nadi,+2349062511345
+For Rent,Commercial,"₦25,000,000",Upper-Floor Commercial Space in Lekki Phase 1,Lekki Phase 1,,,Nadi,+2349062511345

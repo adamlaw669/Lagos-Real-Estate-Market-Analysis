@@ -1,0 +1,654 @@
+type,kind,price,title,location,beds,baths,agent,contact,listing_url,district
+For Rent,Apartment,20000000.0,4 Units of 3 Bedroom Apartments in Lekki phase 1,Lekki Phase 1,3.0,3.0,Chinenye,+234 816 911 2079,https://cwlagos.com/property/4-units-of-3-bedroom-apartments-in-lekki-phase-1-cw08223,Lekki
+For Sale,Detached Duplex,1500000000.0,Luxury 5 Bedroom Fully Detached House in Lekki phase 1,Lekki Phase 1,5.0,5.0,Chinenye,+234 816 911 2079,https://cwlagos.com/property/luxury-5-bedroom-fully-detached-house-in-lekki-phase-1-cw08221,Lekki
+For Rent,Apartment,45000000.0,Furnished 3 Bedroom Apartment in Ikoyi,Banana Island,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/furnished-3-bedroom-apartment-in-ikoyi-cw08215,Ikoyi
+For Rent,Apartment,89408528.0,Luxury 3-Bedroom Apartment in Ikoyi,Banana Island,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/luxury-3-bedroom-apartment-in-ikoyi-cw08213,Ikoyi
+For Rent,Commercial,30000000.0,4 Bedroom Apartment for Commercial Use in VI,Victoria Island,,,Nadi,+2349062511345,https://cwlagos.com/property/4-bedroom-apartment-for-commercial-use-in-vi-cw08220,Victoria Island
+For Sale,Detached Duplex,370000000.0,5 Bedroom Detached Duplex with BQ in Lekki,Ikota,5.0,5.0,Teni,+234 704 816 4812,https://cwlagos.com/property/5-bedroom-detached-duplex-with-bq-in-lekki-cw08225,Lekki
+For Rent,Apartment,35000000.0,2-Bedroom Apartment in Ikoyi,Old Ikoyi,2.0,2.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/2-bedroom-apartment-in-ikoyi-cw08211,Ikoyi
+For Sale,Maisonette,930000000.0,4 Bedroom Townhouse with BQ in Ikoyi,Ikoyi,4.0,4.0,Titi,+234 707 886 6245,https://cwlagos.com/property/4-bedroom-townhouse-with-bq-in-ikoyi-cw08219,Ikoyi
+For Rent,Apartment,61500000.0,Luxury 3-Bedroom Apartment in Ikoyi,Old Ikoyi,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/luxury-3-bedroom-apartment-in-ikoyi-cw08209,Ikoyi
+For Rent,Maisonette,450000000.0,Furnished 3-Bedroom Maisonette in Lekki,Lekki Phase 1,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/furnished-3-bedroom-maisonette-in-lekki-cw08214,Lekki
+For Rent,Apartment,40000000.0,3 Bedroom Furnished Apartment in Ikoyi,Ikoyi,3.0,3.0,Titi,+234 707 886 6245,https://cwlagos.com/property/3-bedroom-furnished-apartment-in-ikoyi-cw08218,Ikoyi
+For Rent,Apartment,40000000.0,3-Bedroom Apartment in Ikoyi,Ikoyi,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/3-bedroom-apartment-in-ikoyi-cw08212,Ikoyi
+For Rent,Apartment,16000000.0,2-Bedroom Apartment in Ikoyi,Ikoyi,2.0,2.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/2-bedroom-apartment-in-ikoyi-cw08210,Ikoyi
+For Rent,Commercial,300000.0,Ground Floor Office Space (230 sqm)- Lekki phase 1,Lekki Phase 1,,,Nadi,+2349062511345,https://cwlagos.com/property/ground-floor-office-space-230-sqm-lekki-phase-1-cw08217,Lekki
+For Sale,Apartment,260000000.0,2 Bedroom Apartment with BQ in Lekki,Lekki Phase 1,2.0,2.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/2-bedroom-apartment-with-bq-in-lekki-cw08222,Lekki
+For Sale,Detached Duplex,400000000.0,5 Bedroom Fully Detached House with BQ in Lekki,Ikota,5.0,5.0,Teni,+234 704 816 4812,https://cwlagos.com/property/5-bedroom-fully-detached-house-with-bq-in-lekki-cw08224,Lekki
+For Sale,Apartment,140000000.0,2-Bedroom Apartment,Ikate,2.0,2.0,Peter,+234 906 251 1344,https://cwlagos.com/property/2-bedroom-apartment-cw08208,Lekki
+For Rent,Commercial,30000000.0,4 Bedroom Townhouse for Commercial Use in VI,Victoria Island,4.0,4.0,Nadi,+2349062511345,https://cwlagos.com/property/4-bedroom-townhouse-for-commercial-use-in-vi-cw08203,Victoria Island
+For Rent,Apartment,35000000.0,Fully Furnished 3 Bedroom Apartment with BQ in Ikoyi,Ikoyi,3.0,3.0,Titi,+234 707 886 6245,https://cwlagos.com/property/fully-furnished-3-bedroom-apartment-with-bq-in-ikoyi-cw08187,Ikoyi
+For Sale,Terrace,250000000.0,5-Bedroom Terrace Duplex,"Orchid, Lekki",5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-terrace-duplex-cw08190,Lekki
+For Sale,Maisonette,900000000.0,New Development Apartments in Ikoyi,Ikoyi,4.0,4.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/new-development-apartments-in-ikoyi-cw08195,Ikoyi
+For Sale,Detached Duplex,300000000.0,4 Bedroom Detached Duplex with BQ in Lekki,Ikota,4.0,4.0,Teni,+234 704 816 4812,https://cwlagos.com/property/4-bedroom-detached-duplex-with-bq-in-lekki-cw08197,Lekki
+For Sale,Detached Duplex,850000000.0,5 Bedroom Detached Duplex,Osapa,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-detached-duplex-cw08205,Lekki
+For Sale,Terrace,180000000.0,4 Bedroom Terrace Duplex with Bq in Chevron,Chevron,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/4-bedroom-terrace-duplex-with-bq-in-chevron-cw08200,Lekki
+For Sale,Apartment,2475928473.0,Luxury Development Rising in Ikoyi,Ikoyi,4.0,4.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/luxury-development-rising-in-ikoyi-cw08194,Ikoyi
+For Rent,Maisonette,45000000.0,Luxury 4 Bedroom Maisonette with BQ in Ikoyi,Ikoyi,4.0,4.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/luxury-4-bedroom-maisonette-with-bq-in-ikoyi-cw08193,Ikoyi
+For Rent,Apartment,40000000.0,4 Bedroom Apartment with BQ in Ikoyi,Ikoyi,4.0,4.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/4-bedroom-apartment-with-bq-in-ikoyi-cw08192,Ikoyi
+For Sale,Semi Detached,250000000.0,4 Bedroom Semi-Detached Duplex with BQ in Chevron,Chevron,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-with-bq-in-chevron-cw08198,Lekki
+For Sale,Detached Duplex,800000000.0,Contemporary 4-Bedroom Detached Duplex,Osapa,4.0,4.0,Peter,+234 906 251 1344,https://cwlagos.com/property/contemporary-4-bedroom-detached-duplex-cw08188,Lekki
+For Sale,Detached Duplex,320000000.0,5-Bedroom Fully Detached Duplex,Ologolo,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-cw08206,Lekki
+For Sale,Detached Duplex,1100000000.0,Luxury 5-Bedroom Fully Detached Duplex,Lekki,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/luxury-5-bedroom-fully-detached-duplex-cw08204,Lekki
+For Sale,Detached Duplex,800000000.0,Luxury 5-Bedroom Detached Duplex,Osapa,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/luxury-5-bedroom-detached-duplex-cw08189,Lekki
+For Rent,Semi Detached,40000000.0,5 Bedroom Semi-Detached House + 2 BQ in Lekki phase 1,Lekki Phase 1,5.0,5.0,Nadi,+2349062511345,https://cwlagos.com/property/5-bedroom-semi-detached-house-2-bq-in-lekki-phase-1-cw08199,Lekki
+For Sale,Detached Duplex,480000000.0,5 Bedroom Detached Duplex with BQ in Chevron,Chevron,5.0,5.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/5-bedroom-detached-duplex-with-bq-in-chevron-cw08202,Lekki
+For Sale,Detached Duplex,400000000.0,5-Bedroom Fully Detached Duplex,Lekki county,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-cw08207,
+For Sale,Terrace,180000000.0,3 Bedroom Terraced Duplex with Bq in Chevron,Chevron,3.0,3.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/3-bedroom-terraced-duplex-with-bq-in-chevron-cw08201,Lekki
+For Rent,Apartment,60000000.0,Luxury Furnished 4 Bedroom Apartment in Ikoyi,Ikoyi,4.0,4.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/luxury-furnished-4-bedroom-apartment-in-ikoyi-cw08191,Ikoyi
+For Rent,Commercial,100000000.0,Commercial Building with Warehouse In VI,Victoria Island,,,Nadi,+2349062511345,https://cwlagos.com/property/commercial-building-with-warehouse-in-vi-cw08170,Victoria Island
+For Sale,Detached Duplex,200000000.0,2 Bedroom Detached Duplex in Lekki Phase 1,Lekki Phase 1,2.0,2.0,Nadi,+2349062511345,https://cwlagos.com/property/2-bedroom-detached-duplex-in-lekki-phase-1-cw08169,Lekki
+For Sale,Detached Duplex,210000000.0,4 Bedroom Detached Duplex with BQ in Agungi,Lekki,4.0,4.0,Teni,+234 704 816 4812,https://cwlagos.com/property/4-bedroom-detached-duplex-with-bq-in-agungi-cw08179,Lekki
+For Rent,Apartment,70000000.0,Beautifully Furnished 3 Bedroom Apartment in Ikoyi,Ikoyi,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/beautifully-furnished-3-bedroom-apartment-in-ikoyi-cw08178,Ikoyi
+For Rent,Apartment,2500000.0,1 Room Studio Apartment in Chevron,Chevron,1.0,1.0,Teni,+234 704 816 4812,https://cwlagos.com/property/1-room-studio-apartment-in-chevron-cw08184,Lekki
+Land,Apartment,4000000.0,Prime Land in Ikoyi,Ikoyi,,,Rose,+234 814 922 6187,https://cwlagos.com/property/prime-land-in-ikoyi-cwl1424,Ikoyi
+For Rent,Detached Duplex,206327373.0,Luxury 6 Bedroom Fully Detached House in Ikoyi,Banana Island,6.0,6.0,Rose,+234 814 922 6187,https://cwlagos.com/property/luxury-6-bedroom-fully-detached-house-in-ikoyi-cw08186,Ikoyi
+For Rent,Terrace,50000000.0,4 Bedroom Terrace House in Ikoyi,Banana Island,4.0,4.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/4-bedroom-terrace-house-in-ikoyi-cw08176,Ikoyi
+For Rent,Apartment,40000000.0,Fully Furnished 3 Bedroom Apartment in Ikoyi,Old Ikoyi,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/fully-furnished-3-bedroom-apartment-in-ikoyi-cw08171,Ikoyi
+For Sale,Detached Duplex,3500000000.0,Luxury 5 Bedroom Fully Detached House in Ikoyi,Parkview,5.0,5.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/luxury-5-bedroom-fully-detached-house-in-ikoyi-cw08177,Ikoyi
+Land,Apartment,4700000.0,Land Measuring 4876sqm in Ikoyi,Ikoyi,,,Rose,+234 814 922 6187,https://cwlagos.com/property/land-measuring-4876sqm-in-ikoyi-cwl1421,Ikoyi
+For Sale,Semi Detached,1400000000.0,5 Bedroom Semi-Detached Duplex with BQ in Lekki,Lekki,5.0,5.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/5-bedroom-semi-detached-duplex-with-bq-in-lekki-cw08175,Lekki
+For Rent,Apartment,10000000.0,2 Bedroom Apartment in Ikate,Ikate,2.0,2.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/2-bedroom-apartment-in-ikate-cw08174,Lekki
+For Sale,Apartment,260000000.0,1 Unit of 3-Bedroom Apartment,Ikate,3.0,3.0,Chinenye,+234 816 911 2079,https://cwlagos.com/property/1-unit-of-3-bedroom-apartment-cw08182,Lekki
+For Sale,Apartment,550000000.0,Furnished 4 Bedroom Apartment in Ikate,Ikate,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/furnished-4-bedroom-apartment-in-ikate-cw08172,Lekki
+Land,Apartment,4000000.0,Prime Land in Ikoyi,Ikoyi,,,Rose,+234 814 922 6187,https://cwlagos.com/property/prime-land-in-ikoyi-cwl1423,Ikoyi
+For Sale,Detached Duplex,270000000.0,5 Bedroom Detached Duplex in Chevron,Chevron,5.0,5.0,Teni,+234 704 816 4812,https://cwlagos.com/property/5-bedroom-detached-duplex-in-chevron-cw08180,Lekki
+For Sale,Apartment,125000000.0,2 Bedroom Apartment in Lekki,Lekki,2.0,2.0,Teni,+234 704 816 4812,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw08181,Lekki
+For Rent,Detached Duplex,15000000.0,5 Bedroom Detached Duplex in Chevron,Chevron,5.0,5.0,Teni,+234 704 816 4812,https://cwlagos.com/property/5-bedroom-detached-duplex-in-chevron-cw08185,Lekki
+For Sale,Apartment,220000000.0,8 Units of 2-Bedroom Apartments,Ikate,2.0,2.0,Chinenye,+234 816 911 2079,https://cwlagos.com/property/8-units-of-2-bedroom-apartments-cw08183,Lekki
+For Rent,Apartment,6000000.0,2 Bedroom Apartment in Lekki,Ikate,2.0,2.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw08173,Lekki
+Land,Apartment,4500000.0,Direct Land – Ikoyi,Ikoyi,,,Rose,+234 814 922 6187,https://cwlagos.com/property/direct-land-ikoyi-cwl1422,Ikoyi
+For Rent,Terrace,50000000.0,4 Bedroom Terrace in Ikoyi,Banana Island,4.0,4.0,Sophia,+234 814 497 6677,https://cwlagos.com/property/4-bedroom-terrace-in-ikoyi-cw08164,Ikoyi
+For Sale,Commercial,4500000000.0,Premium Hotel for Sale in ikoyi,Ikoyi,49.0,49.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/premium-hotel-for-sale-in-ikoyi-cw08152,Ikoyi
+For Sale,Apartment,180000000.0,1-Bedroom Apartment,Lekki Phase 1,1.0,1.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/1-bedroom-apartment-cw08159,Lekki
+For Rent,Apartment,11000000.0,2 Bedroom Apartment in Lekki phase 1,Lekki Phase 1,2.0,2.0,Olade,+234 810 875 5286,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-phase-1-cw08160,Lekki
+For Sale,Detached Duplex,1500000000.0,Luxury 6 Bedroom Detached House in Lekki phase 1,Lekki Phase 1,6.0,6.0,Olade,+234 810 875 5286,https://cwlagos.com/property/luxury-6-bedroom-detached-house-in-lekki-phase-1-cw08158,Lekki
+For Sale,Apartment,180000000.0,2 Units of 2-Bedroom Apartments,Ikate,2.0,2.0,Chinenye,+234 816 911 2079,https://cwlagos.com/property/2-units-of-2-bedroom-apartments-cw08162,Lekki
+For Sale,Semi Detached,700000000.0,4 Bedroom Semi-Detached Duplex in Lekki,Lekki Phase 1,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-in-lekki-cw08150,Lekki
+For Sale,Apartment,220000000.0,2 Units of 2-Bedroom Apartments,Ikate,2.0,2.0,Chinenye,+234 816 911 2079,https://cwlagos.com/property/2-units-of-2-bedroom-apartments-cw08163,Lekki
+For Rent,Terrace,137551582.0,5 Bedroom Townhouse in Ikoyi,Banana Island,5.0,5.0,Sophia,+234 814 497 6677,https://cwlagos.com/property/5-bedroom-townhouse-in-ikoyi-cw08166,Ikoyi
+For Sale,Apartment,300000000.0,Modern 2 Bedroom Apartment,Lekki Phase 1,2.0,2.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/modern-2-bedroom-apartment-cw08153,Lekki
+For Rent,Apartment,55000000.0,Luxury 3 Bedroom Apartment in Ikoyi,Ikoyi,3.0,3.0,Olade,+234 810 875 5286,https://cwlagos.com/property/luxury-3-bedroom-apartment-in-ikoyi-cw08156,Ikoyi
+For Sale,Apartment,250000000.0,Cozy 1 Bedroom Apartment,Lekki Phase 1,1.0,1.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/cozy-1-bedroom-apartment-cw08155,Lekki
+For Rent,Apartment,4000000.0,2 Bedroom Apartment in Chevron,Chevron,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/2-bedroom-apartment-in-chevron-cw08161,Lekki
+For Sale,Detached Duplex,250000000.0,5 Bedroom Detached Duplex in Chevron,Chevron,5.0,5.0,Esther,+234 814 640 1276,https://cwlagos.com/property/5-bedroom-detached-duplex-in-chevron-cw08154,Lekki
+For Rent,Apartment,40000000.0,Luxury 3 Bedroom Apartment in Ikoyi,Ikoyi,3.0,3.0,Olade,+234 810 875 5286,https://cwlagos.com/property/luxury-3-bedroom-apartment-in-ikoyi-cw08149,Ikoyi
+For Sale,Apartment,280000000.0,1-Bedroom Apartment,Lekki Phase 1,1.0,1.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/1-bedroom-apartment-cw08157,Lekki
+For Rent,Apartment,40000000.0,3 Bedroom Apartment in Ikoyi,Old Ikoyi,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/3-bedroom-apartment-in-ikoyi-cw08165,Ikoyi
+For Rent,Apartment,55000000.0,Luxury 3 Bedroom Apartment in Ikoyi,Ikoyi,3.0,3.0,Olade,+234 810 875 5286,https://cwlagos.com/property/luxury-3-bedroom-apartment-in-ikoyi-cw08151,Ikoyi
+For Rent,Apartment,20000000.0,3 Bedroom Apartment in Lekki,Lekki Phase 1,3.0,3.0,Chinenye,+234 816 911 2079,https://cwlagos.com/property/3-bedroom-apartment-in-lekki-cw08147,Lekki
+For Sale,Apartment,250000000.0,2 Bedroom Apartment in Lekki,Lekki Phase 1,2.0,2.0,Chinenye,+234 816 911 2079,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw08145,Lekki
+For Sale,Maisonette,650000000.0,5 Bedroom Penthouse Maisonette in Lekki,Lekki Phase 1,5.0,5.0,Chinenye,+234 816 911 2079,https://cwlagos.com/property/5-bedroom-penthouse-maisonette-in-lekki-cw08146,Lekki
+For Rent,Apartment,23000000.0,3 Bedroom Apartment in Lekki,Lekki Phase 1,3.0,3.0,Chinenye,+234 816 911 2079,https://cwlagos.com/property/3-bedroom-apartment-in-lekki-cw08148,Lekki
+For Rent,Apartment,25000000.0,6 Units of 3 Bedroom Apartments in VI,Victoria Island,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/6-units-of-3-bedroom-apartments-in-vi-cw08138,Victoria Island
+For Rent,Penthouse,80000000.0,4 Bedroom Penthouse Apartment in VI,Victoria Island,4.0,4.0,Seun,+234 704 808 9360,https://cwlagos.com/property/4-bedroom-penthouse-apartment-in-vi-cw08142,Victoria Island
+For Rent,Commercial,7000000.0,Commercial Space in Victoria Island,Victoria Island,,,Jennifer,+234 704 808 9361,https://cwlagos.com/property/commercial-space-in-victoria-island-cw08139,Victoria Island
+For Rent,Maisonette,45000000.0,Fully Furnished 4 Bedroom Maisonette in Ikoyi,Ikoyi,4.0,4.0,Titi,+234 707 886 6245,https://cwlagos.com/property/fully-furnished-4-bedroom-maisonette-in-ikoyi-cw08127,Ikoyi
+Land,Mixed-Use Land,8500000000.0,Land Measuring 3334sqm in VI,Victoria Island,,,Seun,+234 704 808 9360,https://cwlagos.com/property/land-measuring-3334sqm-in-vi-cw08132,Victoria Island
+For Rent,Apartment,14000000.0,2 Bedroom Apartment in Lekki,Lekki Phase 1,2.0,2.0,Chinenye,+234 816 911 2079,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw08141,Lekki
+For Rent,Terrace,7500000.0,3 Bedroom Terrace with Bq Lekki,Lekki,3.0,3.0,Teni,+234 704 816 4812,https://cwlagos.com/property/3-bedroom-terrace-with-bq-lekki-cw08121,Lekki
+For Rent,Terrace,25000000.0,3 Bedroom Terrace in Lekki,Lekki Phase 1,3.0,3.0,Chinenye,+234 816 911 2079,https://cwlagos.com/property/3-bedroom-terrace-in-lekki-cw08144,Lekki
+For Rent,Detached Duplex,80000000.0,9 Bedroom Detached House with 3-Room Bq in Vi,Victoria Island,9.0,9.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/9-bedroom-detached-house-with-3-room-bq-in-vi-cw08133,Victoria Island
+For Sale,Terrace,650000000.0,4 Bedroom Townhouse in VI,Oniru,4.0,4.0,Seun,+234 704 808 9360,https://cwlagos.com/property/4-bedroom-townhouse-in-vi-cw08136,Victoria Island
+For Sale,Apartment,300000000.0,3 Bedroom Apartment in VI,Oniru,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/3-bedroom-apartment-in-vi-cw08131,Victoria Island
+For Rent,Detached Duplex,45000000.0,5 Bedroom Semi-Detached House with BQ in Lekki,Lekki Phase 1,5.0,5.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/5-bedroom-semi-detached-house-with-bq-in-lekki-cw08128,Lekki
+For Rent,Apartment,35000000.0,3 Bedroom Apartment in Ikoyi,Ikoyi,3.0,3.0,Olade,+234 810 875 5286,https://cwlagos.com/property/3-bedroom-apartment-in-ikoyi-cw08143,Ikoyi
+For Rent,Apartment,30000000.0,Fully Furnished 3 Bedroom Apartment in Ikoyi,Lekki,3.0,3.0,Titi,+234 707 886 6245,https://cwlagos.com/property/fully-furnished-3-bedroom-apartment-in-ikoyi-cw08125,Lekki
+For Sale,Apartment,290000000.0,2 Bedroom Apartment in Lekki phase 1,Lekki Phase 1,2.0,2.0,Titi,+234 707 886 6245,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-phase-1-cw08123,Lekki
+For Sale,Semi Detached,500000000.0,4 Bedroom Semi-Detached in Ikoyi,Ikoyi,4.0,4.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/4-bedroom-semi-detached-in-ikoyi-cw08135,Ikoyi
+For Rent,Apartment,5000000.0,1 Bedroom Apartment  in Lekki,Chevron,1.0,1.0,Teni,+234 704 816 4812,https://cwlagos.com/property/1-bedroom-apartment-in-lekki-cw08126,Lekki
+For Rent,Semi Detached,35000000.0,4 Bedroom Semi-Detached House in VI,Oniru,4.0,4.0,Seun,+234 704 808 9360,https://cwlagos.com/property/4-bedroom-semi-detached-house-in-vi-cw08137,Victoria Island
+For Sale,Apartment,120000000.0,2 Bedroom Apartment in Lekki,Lekki,2.0,2.0,Teni,+234 704 816 4812,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw08124,Lekki
+For Sale,Apartment,180000000.0,2 Bedroom Apartment with BQ in Ikate,Ikate,2.0,2.0,Teni,+234 704 816 4812,https://cwlagos.com/property/2-bedroom-apartment-with-bq-in-ikate-cw08120,Lekki
+For Sale,Apartment,350000000.0,Fully Furnished 2 Bedroom Apartment in Lekki phase 1,Lekki Phase 1,2.0,2.0,Titi,+234 707 886 6245,https://cwlagos.com/property/fully-furnished-2-bedroom-apartment-in-lekki-phase-1-cw08122,Lekki
+For Rent,Penthouse,150000000.0,6 Bedroom Furnished Penthouse in Victoria Island,Victoria Island,6.0,6.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/6-bedroom-furnished-penthouse-in-victoria-island-cw08134,Victoria Island
+For Rent,Detached Duplex,25000000.0,5 Bedroom Detached with 2 Room Bq in Lekki,Lekki Phase 1,5.0,5.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/5-bedroom-detached-with-2-room-bq-in-lekki-cw08140,Lekki
+For Sale,Apartment,280000000.0,2 Bedroom Apartment  in Lekki Phase 1,Lekki Phase 1,2.0,2.0,Titi,+234 707 886 6245,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-phase-1-cw08119,Lekki
+For Rent,Apartment,2200000000.0,3 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,3.0,3.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/3-bedroom-apartment-in-lekki-phase-1-cw08094,Lekki
+For Rent,Detached Duplex,660000000.0,"5 Bedroom Detached Duplex in Megamound Estate, Lekki",Lekki,6.0,6.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-detached-duplex-in-megamound-estate-lekki-cw08105,Lekki
+Land,Mixed-Use Land,300000000.0,"Prime Commercial Land in Ajah, Lekki",Ajah,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/prime-commercial-land-in-ajah-lekki-cwl1416,Ajah
+For Rent,Apartment,25000000.0,2 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,2.0,2.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-phase-1-cw08116,Lekki
+For Sale,Detached Duplex,4126547455.0,6 Bedroom Fully Detached Luxury Duplex with 2 BQs in Ikoyi,Ikoyi,6.0,6.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/6-bedroom-fully-detached-luxury-duplex-with-2-bqs-in-ikoyi-cw08108,Ikoyi
+For Rent,Detached Duplex,35000000.0,5 Bedroom Duplex with Gym in Oniru,Oniru,5.0,5.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/5-bedroom-duplex-with-gym-in-oniru-cw08110,Victoria Island
+For Rent,Apartment,130000000.0,"1 Bedroom Serviced Apartment in Freedom Way, Lekki",Lekki,1.0,1.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/1-bedroom-serviced-apartment-in-freedom-way-lekki-cw08096,Lekki
+For Rent,Apartment,15000000.0,3 Bedroom Apartment in Lekki,Lekki Phase 1,3.0,3.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/3-bedroom-apartment-in-lekki-cw08101,Lekki
+For Rent,Apartment,150000000.0,"2 Bedroom Fully Furnished Apartment in Ologolo, Lekki",Lekki,2.0,2.0,Teni,+234 704 816 4812,https://cwlagos.com/property/2-bedroom-fully-furnished-apartment-in-ologolo-lekki-cw08097,Lekki
+For Rent,Apartment,15000000.0,2 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,2.0,2.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-phase-1-cw08117,Lekki
+For Sale,Commercial,160000000.0,Commercial Space in Lekki Phase 1,Lekki Phase 1,,,Jennifer,+234 704 808 9361,https://cwlagos.com/property/commercial-space-in-lekki-phase-1-cw08088,Lekki
+For Sale,Detached Duplex,1375515818.0,5 Bedroom Detached Duplex in Lekki Phase 1,Lekki Phase 1,5.0,5.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/5-bedroom-detached-duplex-in-lekki-phase-1-cw08086,Lekki
+For Sale,Detached Duplex,530000000.0,"5 Bedroom Detached Duplex in Royal Garden Estate, Ajah",Ajah,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-detached-duplex-in-royal-garden-estate-ajah-cw08098,Ajah
+For Sale,Apartment,14000000.0,3 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,3.0,3.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/3-bedroom-apartment-in-lekki-phase-1-cw08092,Lekki
+For Sale,Detached Duplex,1375515818.0,5 Bedroom Detached House in Lekki Phase 1,Lekki Phase 1,5.0,5.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/5-bedroom-detached-house-in-lekki-phase-1-cw08084,Lekki
+Land,Mixed-Use Land,2800000.0,Prime Land in Victoria Island,Victoria Island,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/prime-land-in-victoria-island-cwl1415,Victoria Island
+For Sale,Apartment,380000000.0,3 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,3.0,3.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/3-bedroom-apartment-in-lekki-phase-1-cw08087,Lekki
+For Sale,Terrace,600000000.0,4 Bedroom Townhouse with BQ in Oniru,Oniru,4.0,4.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/4-bedroom-townhouse-with-bq-in-oniru-cw08113,Victoria Island
+For Sale,Apartment,550206327.0,Luxury Residences in Ikoyi,Ikoyi,2.0,2.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/luxury-residences-in-ikoyi-cw08112,Ikoyi
+For Sale,Apartment,500000000.0,2 Bedroom Luxury Apartment in Victoria Island,Victoria Island,2.0,2.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/2-bedroom-luxury-apartment-in-victoria-island-cw08111,Victoria Island
+For Rent,Detached Duplex,1500000000.0,5 Bedroom Detached Duplex in Lekki Phase 1,Lekki Phase 1,6.0,6.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/5-bedroom-detached-duplex-in-lekki-phase-1-cw08095,Lekki
+For Sale,Detached Duplex,660000000.0,"5 Bedroom Detached Duplex in Megamound Estate, Lekki",Lekki,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-detached-duplex-in-megamound-estate-lekki-cw08102,Lekki
+For Sale,Apartment,130000000.0,1 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,1.0,1.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/1-bedroom-apartment-in-lekki-phase-1-cw08089,Lekki
+Land,Mixed-Use Land,2500000000.0,Prime Land in Victoria Island,Victoria Island,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/prime-land-in-victoria-island-cwl1421,Victoria Island
+For Rent,Penthouse,20000000.0,4 Bedroom Penthouse in Lekki Phase 1,Lekki,4.0,4.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/4-bedroom-penthouse-in-lekki-phase-1-cw08115,Lekki
+For Rent,Apartment,300000000.0,2 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,5.0,5.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-phase-1-cw08091,Lekki
+For Rent,Detached Duplex,12000000.0,5 Bedroom Detached Duplex in Lekki Phase 1,Lekki,5.0,5.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/5-bedroom-detached-duplex-in-lekki-phase-1-cw08114,Lekki
+For Sale,Apartment,20000000.0,2 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,5.0,5.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-phase-1-cw08090,Lekki
+For Sale,Detached Duplex,650000000.0,"5 Bedroom Detached Duplex in Regional View Estate, Osapa",Osapa,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-detached-duplex-in-regional-view-estate-osapa-cw08099,Lekki
+For Rent,Penthouse,80000000.0,4-Bedroom Maisonette Penthouse in Victoria Island,Victoria Island,4.0,4.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/4-bedroom-maisonette-penthouse-in-victoria-island-cw08106,Victoria Island
+Land,Mixed-Use Land,250000000.0,"Prime Land in Ajah, Lekki",Ajah,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/prime-land-in-ajah-lekki-cwl1417,Ajah
+For Rent,Detached Duplex,950000000.0,5 Bedroom Detached Duplex in Lekki Phase 1,Lekki Phase 1,6.0,6.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/5-bedroom-detached-duplex-in-lekki-phase-1-cw08093,Lekki
+For Rent,Apartment,15000000.0,3 Bedroom Apartment with BQ in Oniru,Oniru,3.0,3.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/3-bedroom-apartment-with-bq-in-oniru-cw08109,Victoria Island
+For Sale,Detached Duplex,450000000.0,"5 Bedroom Detached Duplex in Hampton Lake Estate, Chevron",Chevron,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-detached-duplex-in-hampton-lake-estate-chevron-cw08100,Lekki
+Land,Mixed-Use Land,550000000.0,"Prime Land in Ajah, Lekki",Ajah,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/prime-land-in-ajah-lekki-cwl1418,Ajah
+Land,Mixed-Use Land,650000000.0,Prime Land in Ikate Lekki,Lekki,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/prime-land-in-ikate-lekki-cwl1420,Lekki
+Land,Mixed-Use Land,550000000.0,Prime Land in Lekki (Close to Expressway),Lekki,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/prime-land-in-lekki-close-to-expressway-cwl1419,Lekki
+For Sale,Detached Duplex,550000000.0,"5 Bedroom Detached Duplex in Megamound Estate, Ikota, Lekki",Ikota,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-detached-duplex-in-megamound-estate-ikota-lekki-cw08103,Lekki
+For Rent,Apartment,3000000.0,1 Bedroom Apartment in Lekki,Lekki,1.0,1.0,Teni,+234 704 816 4812,https://cwlagos.com/property/1-bedroom-apartment-in-lekki-cw08118,Lekki
+For Sale,Detached Duplex,1375515818.0,5 Bedroom Detached Duplex in Lekki Phase 1,Lekki Phase 1,5.0,5.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/5-bedroom-detached-duplex-in-lekki-phase-1-cw08085,Lekki
+For Sale,Apartment,550000000.0,Luxury Apartments in Ikoyi,Ikoyi,2.0,2.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/luxury-apartments-in-ikoyi-cw08107,Ikoyi
+For Sale,Semi Detached,550000000.0,5 Bedroom Semi-Detached Duplex with BQ in Lekki,Lekki,5.0,5.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/5-bedroom-semi-detached-duplex-with-bq-in-lekki-cw08077,Lekki
+For Sale,Detached Duplex,500000000.0,4 Bedroom Fully Detached Duplex with BQ in Lekki,Lekki,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/4-bedroom-fully-detached-duplex-with-bq-in-lekki-cw08081,Lekki
+For Sale,Detached Duplex,500000000.0,4 Bedroom Fully Detached Duplex with BQ in Lekki,Lekki,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/4-bedroom-fully-detached-duplex-with-bq-in-lekki-cw08078,Lekki
+For Sale,Penthouse,350000000.0,3 Bedroom Penthouse in Lekki,Ikate,3.0,3.0,Teni,+234 704 816 4812,https://cwlagos.com/property/3-bedroom-penthouse-in-lekki-cw08083,Lekki
+For Sale,Detached Duplex,480000000.0,5 Bedroom Fully Detached Duplex with BQ in Lekki,Lekki,5.0,5.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-with-bq-in-lekki-cw08082,Lekki
+For Rent,Penthouse,35000000.0,4 Bedroom Penthouse in Oniru,Oniru,4.0,4.0,Titi,+234 707 886 6245,https://cwlagos.com/property/4-bedroom-penthouse-in-oniru-cw08080,Victoria Island
+For Rent,Detached Duplex,120000000.0,5 Bedroom Detached House with Bq in VI,Victoria Island,5.0,5.0,Nadi,+2349062511345,https://cwlagos.com/property/5-bedroom-detached-house-with-bq-in-vi-cw08079,Victoria Island
+For Sale,Apartment,110000000.0,1-Bedroom Apartment in Ikate,Ikate,1.0,1.0,Teni,+234 704 816 4812,https://cwlagos.com/property/1-bedroom-apartment-in-ikate-cw08076,Lekki
+For Rent,Detached Duplex,16000000.0,"4 Bedroom Duplex in Regional View Residences, Lekki",Lekki,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/4-bedroom-duplex-in-regional-view-residences-lekki-cw08072,Lekki
+For Rent,Semi Detached,30000000.0,4-Bedroom Semi-Detached Duplex + BQ in Lekki,Lekki,4.0,4.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-bq-in-lekki-cw08074,Lekki
+For Rent,Semi Detached,35000000.0,5-Bedroom Semi-Detached Duplex with BQ in Lekki,Lekki Phase 1,5.0,5.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/5-bedroom-semi-detached-duplex-with-bq-in-lekki-cw08075,Lekki
+For Rent,Terrace,45000000.0,Luxury 4-Bedroom Terrace in  Ikoyi,Ikoyi,4.0,4.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/luxury-4-bedroom-terrace-in-ikoyi-cw08071,Ikoyi
+For Sale,Semi Detached,300000000.0,4 Bedroom Semi-Detached Duplex with BQ in Lekki,Lekki,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-with-bq-in-lekki-cw08070,Lekki
+For Sale,Apartment,650000000.0,Luxury 3-Bedroom Apartment in Ikoyi,Ikoyi,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/luxury-3-bedroom-apartment-in-ikoyi-cw08069,Ikoyi
+For Rent,Semi Detached,25000000.0,4-Bedroom Semi-Detached Duplex in Lekki,Lekki,4.0,4.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-in-lekki-cw08073,Lekki
+For Rent,Apartment,18000000.0,2 Bedroom Apartment with BQ in Victoria Island,Victoria Island,2.0,2.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/2-bedroom-apartment-with-bq-in-victoria-island-cw08068,Victoria Island
+For Sale,Semi Detached,150000000.0,4 Bedroom Semi Detached Duplex in Osapa,Osapa,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-in-osapa-cw08065,Lekki
+For Rent,Apartment,8500000.0,2 Bedroom Apartment in Ikate,Ikate,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/2-bedroom-apartment-in-ikate-cw08066,Lekki
+For Sale,Apartment,160000000.0,2 Bedroom Apartment in Ikate,Ikate,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/2-bedroom-apartment-in-ikate-cw08067,Lekki
+For Rent,Apartment,25000000.0,3-Bedroom Apartment- VI,Oniru,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/3-bedroom-apartment-vi-cw07942,Victoria Island
+For Rent,Terrace,40000000.0,4-Bedroom Terrace Duplex + BQ- VI,Victoria Island,4.0,4.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/4-bedroom-terrace-duplex-bq-vi-cw08023,Victoria Island
+For Rent,Apartment,20000000.0,2-BEDROOM APARTMENT – ONIRU VI,Oniru,2.0,2.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/2-bedroom-apartment-oniru-vi-cw07740,Victoria Island
+For Rent,Apartment,30000000.0,Fully Serviced 4-Bedroom Office Space in VI,Victoria Island,,,Jennifer,+234 704 808 9361,https://cwlagos.com/property/fully-serviced-4-bedroom-office-space-in-vi-cw07838,Victoria Island
+For Sale,Detached Duplex,450000000.0,5 Bedroom Fully Detached Duplex in Lekki,Ikate,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-in-lekki-cw07607,Lekki
+For Rent,Apartment,45000000.0,Furnished 3-Bedroom Apartment +BQ in Victoria Island,Victoria Island,3.0,3.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/furnished-3-bedroom-apartment-bq-in-victoria-island-cw07870,Victoria Island
+For Rent,Apartment,20000000.0,3-Bedroom Apartment- Ikoyi,Parkview,3.0,3.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/3-bedroom-apartment-ikoyi-cw07837,Ikoyi
+For Rent,Apartment,3500000.0,Modern 1-Bedroom Apartments In Ikate,Ikate,1.0,1.0,Esther,+234 814 640 1276,https://cwlagos.com/property/modern-1-bedroom-apartments-in-ikate-cw07848,Lekki
+For Rent,Apartment,7000000.0,Two Units of 2 Bedroom Apartments,Ologolo,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/two-units-of-2-bedroom-apartments-cw08001,Lekki
+For Sale,Detached Duplex,360000000.0,5-Bedroom Detached House + BQ- Lekki,Ikota,5.0,5.0,Teni,+234 704 816 4812,https://cwlagos.com/property/5-bedroom-detached-house-bq-lekki-cw07978,Lekki
+For Rent,Semi Detached,96286107.0,5-Bedroom Semi-Detached Houses- Ikoyi,Ikoyi,5.0,5.0,Rose,+234 814 922 6187,https://cwlagos.com/property/5-bedroom-semi-detached-houses-ikoyi-cw07803,Ikoyi
+For Rent,Commercial,412655.0,Premium Office Spaces in a 24-Hour Service Complex,Victoria Island,,,Jennifer,+234 704 808 9361,https://cwlagos.com/property/premium-office-spaces-in-a-24-hour-service-complex-cw07866,Victoria Island
+For Rent,Apartment,45000000.0,3-Bedroom Apartment – Ikoyi,Banana Island,3.0,3.0,Rose,+234 814 922 6187,https://cwlagos.com/property/3-bedroom-apartment-ikoyi-cw07920,Ikoyi
+For Sale,Apartment,850000000.0,5-Bedroom Duplex in Lekki Phase 1,Lekki Phase 1,5.0,5.0,Faith,+234 702 602 4170,https://cwlagos.com/property/5-bedroom-duplex-in-lekki-phase-1-cw07692,Lekki
+For Sale,Apartment,750000000.0,3-Bedroom Apartment + BQ- VI,Victoria Island,3.0,3.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/3-bedroom-apartment-bq-vi-cw07785,Victoria Island
+For Rent,Commercial,200000.0,340 sqm Office Space- VI,Victoria Island,,,Nadi,+2349062511345,https://cwlagos.com/property/340-sqm-office-space-vi-cw07768,Victoria Island
+For Sale,Apartment,400000000.0,2 Bedroom Luxury Apartment in Lekki,Lekki Phase 1,2.0,2.0,Peter,+234 906 251 1344,https://cwlagos.com/property/2-bedroom-luxury-apartment-in-lekki-cw07971,Lekki
+For Sale,Apartment,600000000.0,4-Bedroom Apartment – Old Ikoyi,Old Ikoyi,4.0,4.0,Rose,+234 814 922 6187,https://cwlagos.com/property/4-bedroom-apartment-old-ikoyi-cw07922,Ikoyi
+For Rent,Apartment,50000000.0,3-Bedroom Waterfront Apartment + BQ– Ikoyi,Banana Island,3.0,3.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/3-bedroom-waterfront-apartment-bq-ikoyi-cw07650,Ikoyi
+For Sale,Apartment,370000000.0,3 Bedroom Apartment with BQ,Lekki,3.0,3.0,Faith,+234 702 602 4170,https://cwlagos.com/property/3-bedroom-apartment-with-bq-cw07701,Lekki
+For Sale,Apartment,225000000.0,2-Bedroom Apartment – Ikoyi,Ikoyi,2.0,2.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/2-bedroom-apartment-ikoyi-cw07647,Ikoyi
+Land,Mixed-Use Land,4000000000.0,Land Measuring 2394sqm- Lekki phase 1,Lekki Phase 1,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-2394sqm-lekki-phase-1-cwl1401,Lekki
+For Rent,Terrace,20000000.0,Four-Bedroom Terrace – Lekki,Ikate,4.0,4.0,Titi,+234 707 886 6245,https://cwlagos.com/property/four-bedroom-terrace-lekki-cw07749,Lekki
+For Rent,Apartment,35000000.0,4-Bedroom Residence +Bq in Lekki,Lekki Phase 1,4.0,4.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/4-bedroom-residence-bq-in-lekki-cw07793,Lekki
+For Rent,Maisonette,80000000.0,4-Bedroom Maisonette in ikoyi,Banana Island,4.0,4.0,Titi,+234 707 886 6245,https://cwlagos.com/property/4-bedroom-maisonette-in-ikoyi-cw07797,Ikoyi
+For Sale,Apartment,280000000.0,fully serviced 2-bedroom apartment in Lekki,Lekki Phase 1,2.0,2.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/fully-serviced-2-bedroom-apartment-in-lekki-cw07911,Lekki
+For Sale,Terrace,630000000.0,5 Bedroom Fully Detached House in Lekki,Ikota,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-house-in-lekki-cw07965,Lekki
+For Rent,Semi Detached,8000000.0,4-Bedroom Semi-Detached House,Ologolo,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-semi-detached-house-cw07620,Lekki
+For Rent,Apartment,25000000.0,2-Bedroom Apartment- Ikoyi,Old Ikoyi,2.0,2.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/2-bedroom-apartment-ikoyi-cw07835,Ikoyi
+For Rent,Maisonette,35000000.0,4-Bedroom Maisonette + BQ- VI,Victoria Island,4.0,4.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/4-bedroom-maisonette-bq-vi-cw08018,Victoria Island
+For Rent,Detached Duplex,60000000.0,4-Bedroom Fully Detached House– Old Ikoyi,Old Ikoyi,4.0,4.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/4-bedroom-fully-detached-house-old-ikoyi-cw07693,Ikoyi
+For Sale,Detached Duplex,450000000.0,5-Bedroom Detached Duplex in Lekki,Osapa,5.0,5.0,Esther,+234 814 640 1276,https://cwlagos.com/property/5-bedroom-detached-duplex-in-lekki-cw07995,Lekki
+For Sale,Apartment,480000000.0,3 Bedroom Apartment +BQ in Ikoyi,Ikoyi,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/3-bedroom-apartment-bq-in-ikoyi-nd233,Ikoyi
+For Rent,Apartment,10000000.0,1 BEDROOM APARTMENT – LEKKI,Ikate,,,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/1-bedroom-apartment-lekki-cw07672,Lekki
+For Sale,Detached Duplex,270000000.0,4-Bedroom Detached House +BQ In Lekki,Orchid,4.0,4.0,Teni,+234 704 816 4812,https://cwlagos.com/property/4-bedroom-detached-house-bq-in-lekki-cw07891,Lekki
+For Sale,Detached Duplex,190000000.0,4 Bedroom Semi-Detached Duplex in Lekki,Ikota,4.0,4.0,Peter,+234 906 251 1344,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-in-lekki-cw07973,Lekki
+For Sale,Detached Duplex,480000000.0,5-Bedroom Fully Detached Duplex +BQ in Chevron,Chevron,5.0,5.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-bq-in-chevron-cw07915,Lekki
+For Rent,Apartment,7500000.0,2 BEDROOM APARTMENT –LEKKI,Osapa,2.0,2.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/2-bedroom-apartment-lekki-cw07669,Lekki
+For Sale,Detached Duplex,660000000.0,5 Bedroom Fully Detached Duplex with BQ in Lekki,Ikota,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-with-bq-in-lekki-cw07756,Lekki
+For Sale,Apartment,230000000.0,Fully Furnished 2 Bedroom Apartment,Ikate,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/fully-furnished-2-bedroom-apartment-cw07998,Lekki
+For Rent,Apartment,30000000.0,3-Bedroom Apartment- Ikoyi,Ikoyi,3.0,3.0,Olade,+234 810 875 5286,https://cwlagos.com/property/3-bedroom-apartment-ikoyi-cw07850,Ikoyi
+For Rent,Apartment,20000000.0,3-Bedroom Apartment with BQ - VI,Oniru,3.0,3.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/3-bedroom-apartment-with-bq-vi-cw07716,Victoria Island
+For Sale,Terrace,1700000000.0,4-Bedroom Terrace with Water View in Ikoyi,Ikoyi,4.0,4.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/4-bedroom-terrace-with-water-view-in-ikoyi-cw07880,Ikoyi
+For Sale,Detached Duplex,11004126547.0,5-Bedroom Waterfront Duplex in Ikoyi,Banana Island,5.0,5.0,Titi,+234 707 886 6245,https://cwlagos.com/property/5-bedroom-waterfront-duplex-in-ikoyi-cw07927,Ikoyi
+For Rent,Maisonette,3000000.0,5-Bedroom Penthouse Maisonette + 2BQ- Ikoyi,Ikoyi,5.0,5.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/5-bedroom-penthouse-maisonette-2bq-ikoyi-cw07827,Ikoyi
+For Rent,Commercial,2700000.0,Commercial Building in VI,Victoria Island,,,Nadi,+2349062511345,https://cwlagos.com/property/commercial-building-in-vi-cw07908,Victoria Island
+For Rent,Penthouse,80000000.0,4-Bedroom Penthouse- VI,Oniru,4.0,4.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/4-bedroom-penthouse-vi-cw08017,Victoria Island
+For Sale,Terrace,150000000.0,3 Bedroom Terrace Duplex in lekki,Ikota,3.0,3.0,Esther,+234 814 640 1276,https://cwlagos.com/property/3-bedroom-terrace-duplex-in-lekki-cw07780,Lekki
+For Rent,Penthouse,101250000.0,4-Bed Penthouse with BQ & Study– Victoria Island,Victoria Island,4.0,4.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/4-bed-penthouse-with-bq-and-study-victoria-island-cw07643,Victoria Island
+For Rent,Terrace,20000000.0,4-Bedroom Townhouse with Study & BQ – VI,Oniru,4.0,4.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/4-bedroom-townhouse-with-study-and-bq-vi-cw07644,Victoria Island
+For Sale,Semi Detached,520000000.0,5 Bedroom Semi-Detached House with 2 BQs in Lekki,Lekki,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-semi-detached-house-with-2-bqs-in-lekki-cw07649,Lekki
+For Rent,Detached Duplex,20000000.0,5 Bedroom Fully Detached Duplex,Osapa,5.0,5.0,Esther,+234 814 640 1276,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-cw08006,Lekki
+For Rent,Detached Duplex,13000000.0,4-Bedroom Duplex with BQ in Lekki,Ajah,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-duplex-with-bq-in-lekki-cw07743,Ajah
+For Sale,Detached Duplex,800000000.0,5 Bedroom Fully Detached House in Lekki,Lekki Phase 1,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-house-in-lekki-cw07962,Lekki
+For Sale,Detached Duplex,700000000.0,5 Bedroom Detached House in Lekki,Ikate,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-detached-house-in-lekki-cw07765,Lekki
+For Rent,Maisonette,25000000.0,3-Bedroom Maisonette Duplex- Ikoyi,Ikoyi,3.0,3.0,Rose,+234 814 922 6187,https://cwlagos.com/property/3-bedroom-maisonette-duplex-ikoyi-cw07798,Ikoyi
+For Sale,Detached Duplex,350000000.0,5-Bedroom Detached House + BQ- Lekki,Ikota,5.0,5.0,Teni,+234 704 816 4812,https://cwlagos.com/property/5-bedroom-detached-house-bq-lekki-cw07979,Lekki
+For Sale,Apartment,1685006878.0,4 Bedroom Apartment | Ikoyi,Ikoyi,4.0,4.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/4-bedroom-apartment-ikoyi-cw07907,Ikoyi
+For Rent,Commercial,20000000.0,5 Bed Semi-Detached Duplex with 2 Rooms BQ- Lekki phase 1,Lekki Phase 1,,,Nadi,+2349062511345,https://cwlagos.com/property/5-bed-semi-detached-duplex-with-2-rooms-bq-lekki-phase-1-cw07916,Lekki
+Land,Mixed-Use Land,3700000.0,Land Measuring 1000 sqm- Ikoyi,Banana Island,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-1000-sqm-ikoyi-cwl1388,Ikoyi
+For Sale,Terrace,1100000000.0,4-Bedroom Terrace – Old Ikoyi,Ikoyi,4.0,4.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/4-bedroom-terrace-old-ikoyi-cw07640,Ikoyi
+For Sale,Apartment,1300000000.0,Block of Apartments in Lekki Phase 1,Lekki Phase 1,2.0,2.0,Faith,+234 702 602 4170,https://cwlagos.com/property/block-of-apartments-in-lekki-phase-1-cw07697,Lekki
+For Sale,Apartment,350000000.0,3 Bedroom Apartment with BQ,Lekki Phase 1,3.0,3.0,Faith,+234 702 602 4170,https://cwlagos.com/property/3-bedroom-apartment-with-bq-cw07704,Lekki
+For Rent,Apartment,12000000.0,3-Bedroom Apartment- VI,Victoria Island,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/3-bedroom-apartment-vi-cw07939,Victoria Island
+For Rent,Apartment,30000000.0,4-Bedroom Apartment- VI,Oniru,4.0,4.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/4-bedroom-apartment-vi-cw07933,Victoria Island
+For Rent,Maisonette,450000000.0,2 Bedroom Maisonette- Ikoyi,Ikoyi,2.0,2.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/2-bedroom-maisonette-ikoyi-nd228,Ikoyi
+Land,Joint Venture,4000000.0,Joint Venture Opportunity – Ikoyi,Ikoyi,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/joint-venture-opportunity-ikoyi-cwl1396,Ikoyi
+For Rent,Apartment,30000000.0,3-Bedroom Apartment with BQ– Victoria Island,Victoria Island,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/3-bedroom-apartment-with-bq-victoria-island-cw07629,Victoria Island
+For Rent,Apartment,340000000.0,Off-Plan 2 Bedroom Apartment – Lekki Phase 1,Lekki Phase 1,2.0,2.0,Nadi,+2349062511345,https://cwlagos.com/property/off-plan-2-bedroom-apartment-lekki-phase-1-nd218,Lekki
+For Rent,Apartment,4500000.0,Mini Flat in Ikoyi,Ikoyi,1.0,1.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/mini-flat-in-ikoyi-cw07819,Ikoyi
+For Rent,Apartment,72902338.0,3 Bedroom Apartments | Ikoyi,Ikoyi,3.0,3.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/3-bedroom-apartments-ikoyi-cw07893,Ikoyi
+For Sale,Detached Duplex,1200000000.0,5-Bedroom Fully Detached Duplex + BQ In Osapa,Osapa,5.0,5.0,Teni,+234 704 816 4812,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-bq-in-osapa-cw07854,Lekki
+For Sale,Detached Duplex,580000000.0,5 Bedroom Fully Detached House in Lekki,Ikota,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-house-in-lekki-cw07654,Lekki
+For Rent,Detached Duplex,55000000.0,5-Bedroom Fully Detached Duplex +Bq in Lekki,Osapa,5.0,5.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-bq-in-lekki-cw07905,Lekki
+For Sale,Detached Duplex,720000000.0,5-Bedroom Fully Detached in Lekki,Chevron,5.0,5.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/5-bedroom-fully-detached-in-lekki-cw07600,Lekki
+For Rent,Terrace,15000000.0,4-Bedroom Townhouse in Ikate,Ikate,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/4-bedroom-townhouse-in-ikate-cw07801,Lekki
+Land,Commercial Land,1100000.0,Land Measuring 3376sqm- Ikoyi,Ikoyi,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-3376sqm-ikoyi-cwl1409,Ikoyi
+For Rent,Apartment,75653370.0,1-Bedroom Apartment with BQ- Ikoyi,Banana Island,1.0,1.0,Rose,+234 814 922 6187,https://cwlagos.com/property/1-bedroom-apartment-with-bq-ikoyi-cw07802,Ikoyi
+For Sale,Terrace,950000000.0,4-Bedroom Terrace in Osborne,Ikoyi,4.0,4.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/4-bedroom-terrace-in-osborne-cw07993,Ikoyi
+For Sale,Detached Duplex,1500000000.0,Luxury 5-Bedroom Detached House in Lekki,Lekki Phase 1,5.0,5.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/luxury-5-bedroom-detached-house-in-lekki-cw07901,Lekki
+For Sale,Apartment,850000.0,4-Bedroom Apartment in Victoria Island,Victoria Island,4.0,4.0,Seun,+234 704 808 9360,https://cwlagos.com/property/4-bedroom-apartment-in-victoria-island-cw07812,Victoria Island
+For Sale,Detached Duplex,1500000000.0,5-Bedroom Detached Duplex + BQ in Osapa,Osapa,5.0,5.0,Teni,+234 704 816 4812,https://cwlagos.com/property/5-bedroom-detached-duplex-bq-in-osapa-cw07855,Lekki
+For Sale,Apartment,650000000.0,3-Bedroom Apartments- VI,Victoria Island,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/3-bedroom-apartments-vi-cw07934,Victoria Island
+For Rent,Semi Detached,25000000.0,4 Bedroom Semi-Detached Duplex,Lekki Phase 1,4.0,4.0,Faith,+234 702 602 4170,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-cw07702,Lekki
+For Sale,Terrace,900000000.0,4-Bedroom Terrace Duplex- VI,Victoria Island,4.0,4.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/4-bedroom-terrace-duplex-vi-nd221,Victoria Island
+For Sale,Detached Duplex,350000000.0,5 Bedroom Fully Detached House with BQ in Lekki,Ikota,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-house-with-bq-in-lekki-cw07751,Lekki
+For Sale,Detached Duplex,320000000.0,5-Bedroom Fully Detached Duplex with BQ,Ologolo,5.0,5.0,Esther,+234 814 640 1276,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-with-bq-cw07636,Lekki
+For Rent,Apartment,70000000.0,3 Bedroom Apartment + BQ in Ikoyi,Banana Island,3.0,3.0,Sophia,+234 814 497 6677,https://cwlagos.com/property/3-bedroom-apartment-bq-in-ikoyi-cw07734,Ikoyi
+For Rent,Apartment,20000000.0,2 Bedroom Apartment,Lekki Phase 1,2.0,2.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/2-bedroom-apartment-cw07864,Lekki
+For Sale,Apartment,160000000.0,"Prime Multi-Unit Property in Chevron, Lekki",Chevron,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/prime-multi-unit-property-in-chevron-lekki-cw07980,Lekki
+For Sale,Apartment,1107290234.0,3 Bedroom Apartments | Ikoyi,Ikoyi,3.0,3.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/3-bedroom-apartments-ikoyi-cw07902,Ikoyi
+For Sale,Detached Duplex,400000000.0,5 Bedroom Fully Detached Duplex in Lekki,Idado,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-in-lekki-cw07608,
+Land,Mixed-Use Land,15000000.0,Land Measuring 700sqm- Lekki,Lekki,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-700sqm-lekki-cwl1397,Lekki
+For Sale,Terrace,720000000.0,6 Bedroom Detached Duplex in Lekki,Ikota,6.0,6.0,Peter,+234 906 251 1344,https://cwlagos.com/property/6-bedroom-detached-duplex-in-lekki-cw07658,Lekki
+For Sale,Terrace,490000000.0,3 Bedroom Terrace House in Lekki,Lekki Phase 1,3.0,3.0,Peter,+234 906 251 1344,https://cwlagos.com/property/3-bedroom-terrace-house-in-lekki-cw07970,Lekki
+Land,Mixed-Use Land,600000000.0,Land Measuring 3600sqm- in Ajah,Ajah,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-3600sqm-in-ajah-cwl1416,Ajah
+For Rent,Commercial,150000.0,Corporate Office Space in Victoria Island,Victoria Island,,,Jennifer,+234 704 808 9361,https://cwlagos.com/property/corporate-office-space-in-victoria-island-cw07710,Victoria Island
+For Rent,Detached Duplex,290000000.0,5-Bedroom Detached Duplex +BQ in Ajah,Ajah,5.0,5.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/5-bedroom-detached-duplex-bq-in-ajah-cw07748,Ajah
+For Rent,Apartment,60000000.0,3-Bedroom Apartment + BQ– Old Ikoyi,Old Ikoyi,3.0,3.0,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/3-bedroom-apartment-bq-old-ikoyi-cw07657,Ikoyi
+For Rent,Semi Detached,50000000.0,4 Bedroom Semi-Detached Duplex with BQ in Victoria Island,Oniru,4.0,4.0,Seun,+234 704 808 9360,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-with-bq-in-victoria-island-cw07683,Victoria Island
+For Rent,Apartment,20000000.0,Furnished 2-Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,2.0,2.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/furnished-2-bedroom-apartment-in-lekki-phase-1-cw07981,Lekki
+For Sale,Detached Duplex,260000000.0,5-Bedroom Detached Duplex +BQ & Pool in Lekki,Ajah,5.0,5.0,Esther,+234 814 640 1276,https://cwlagos.com/property/5-bedroom-detached-duplex-bq-and-pool-in-lekki-cw07744,Ajah
+For Rent,Apartment,18000000.0,4-Bedroom Semi-Detached Duplex in Lekki,Osapa,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-in-lekki-cw07729,Lekki
+Land,Residential Land,5400000000.0,Land Measuring 1200sqm- Ikoyi,Ikoyi,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-1200sqm-ikoyi-cwl1407,Ikoyi
+For Sale,Detached Duplex,450000000.0,4 Bedroom Detached Duplex + Bq in Ikate,Ikate,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/4-bedroom-detached-duplex-bq-in-ikate-cw07862,Lekki
+For Rent,Commercial,150000.0,Corporate Office Space in Vi,Victoria Island,,,Jennifer,+234 704 808 9361,https://cwlagos.com/property/corporate-office-space-in-vi-cw07785,Victoria Island
+For Sale,Apartment,300000000.0,2-Bedroom Apartments in Lekki Phase 1,Lekki Phase 1,2.0,2.0,Faith,+234 702 602 4170,https://cwlagos.com/property/2-bedroom-apartments-in-lekki-phase-1-cw07691,Lekki
+For Sale,Detached Duplex,420000000.0,5 Bedroom Fully Detached House with BQ in Lekki,Ikota,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-house-with-bq-in-lekki-cw07754,Lekki
+For Rent,Apartment,12000000.0,2-Bedroom Apartment,Ologolo,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/2-bedroom-apartment-cw07637,Lekki
+For Rent,Apartment,15000000.0,2-Bedroom Apartment- VI,Oniru,2.0,2.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/2-bedroom-apartment-vi-cw07784,Victoria Island
+For Rent,Commercial,40000000.0,Fully Detached Commercial Property+2BQ in VI,Victoria Island,,,Nadi,+2349062511345,https://cwlagos.com/property/fully-detached-commercial-property-2bq-in-vi-cw07988,Victoria Island
+For Sale,Detached Duplex,380000000.0,5 Bedroom Fully Detached House in Lekki,Ikota,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-house-in-lekki-cw07974,Lekki
+For Sale,Apartment,330000000.0,2-Bedroom Apartment in Lekki,Lekki Phase 1,2.0,2.0,Nadi,+2349062511345,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-nd232,Lekki
+For Sale,Detached Duplex,250000000.0,4-Bedroom Fully Detached House with BQ in Lekki,Orchid,4.0,4.0,Peter,+234 906 251 1344,https://cwlagos.com/property/4-bedroom-fully-detached-house-with-bq-in-lekki-cw07603,Lekki
+For Sale,Apartment,600000000.0,3 -Bedroom Apartment + BQ – Ikoyi,Parkview,3.0,3.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/3-bedroom-apartment-bq-ikoyi-cw07887,Ikoyi
+For Sale,Apartment,320000000.0,3-Bedroom Apartment- Lekki,Ikate,3.0,3.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/3-bedroom-apartment-lekki-cw07841,Lekki
+For Rent,Detached Duplex,7000000.0,4 Bedroom Detached Duplex +Bq in Ajah,Ajah,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/4-bedroom-detached-duplex-bq-in-ajah-cw07860,Ajah
+For Rent,Apartment,35000000.0,3-Bedroom Ocean-View Apartment- VI,Oniru,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/3-bedroom-ocean-view-apartment-vi-cw07777,Victoria Island
+For Rent,Maisonette,22000000.0,2 Bedroom Maisonette in Lekki,Lekki Phase 1,2.0,2.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/2-bedroom-maisonette-in-lekki-cw08021,Lekki
+For Rent,Apartment,30000000.0,3-Bedroom Apartment with Study & BQ- Ikoyi,Ikoyi,3.0,3.0,Titi,+234 707 886 6245,https://cwlagos.com/property/3-bedroom-apartment-with-study-and-bq-ikoyi-cw07725,Ikoyi
+For Sale,Penthouse,500000000.0,2 Bedroom Penthouse with BQ,Lekki Phase 1,2.0,2.0,Faith,+234 702 602 4170,https://cwlagos.com/property/2-bedroom-penthouse-with-bq-cw07698,Lekki
+For Sale,Apartment,260000000.0,3 Bedroom Apartment with BQ in Lekki,Lekki Phase 1,3.0,3.0,Peter,+234 906 251 1344,https://cwlagos.com/property/3-bedroom-apartment-with-bq-in-lekki-cw07752,Lekki
+For Sale,Apartment,850000000.0,3-Bedroom Apartments in Victoria Island,Victoria Island,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/3-bedroom-apartments-in-victoria-island-cw07688,Victoria Island
+For Rent,Semi Detached,65000000.0,4-Bedroom Semi-Detached House with Study- Ikoyi,Ikoyi,4.0,4.0,Titi,+234 707 886 6245,https://cwlagos.com/property/4-bedroom-semi-detached-house-with-study-ikoyi-cw07728,Ikoyi
+For Rent,Terrace,50000000.0,4-Bedroom Semi-Detached Terrace- Ikoyi,Ikoyi,4.0,4.0,Titi,+234 707 886 6245,https://cwlagos.com/property/4-bedroom-semi-detached-terrace-ikoyi-cw07724,Ikoyi
+For Rent,Semi Detached,60000000.0,Luxury 4-Bedroom Semi-Detached Duplex in Ikoyi,Osborne Foreshore,4.0,4.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/luxury-4-bedroom-semi-detached-duplex-in-ikoyi-cw07867,Ikoyi
+For Sale,Apartment,320000000.0,2 Bedroom Apartment with BQ,Lekki Phase 1,2.0,2.0,Faith,+234 702 602 4170,https://cwlagos.com/property/2-bedroom-apartment-with-bq-cw07708,Lekki
+For Sale,Semi Detached,280000000.0,4-Bedroom Semi-Detached Duplex,Ikota,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-cw07616,Lekki
+For Rent,Apartment,20000000.0,3-Bedroom Apartment with Bq- Ikoyi,Parkview,3.0,3.0,Titi,+234 707 886 6245,https://cwlagos.com/property/3-bedroom-apartment-with-bq-ikoyi-cw07718,Ikoyi
+For Sale,Penthouse,2500000000.0,4-Bedroom Penthouse- VI,Victoria Island,4.0,4.0,Seun,+234 704 808 9360,https://cwlagos.com/property/4-bedroom-penthouse-vi-cw07851,Victoria Island
+For Sale,Apartment,170000000.0,2-Bedroom Apartment in Lekki,Ikate,2.0,2.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw07594,Lekki
+For Sale,Apartment,550000000.0,2 Bedroom Apartment in Victoria Island,Victoria Island,2.0,2.0,Seun,+234 704 808 9360,https://cwlagos.com/property/2-bedroom-apartment-in-victoria-island-cw07732,Victoria Island
+Land,Mixed-Use Land,3600000.0,Land Measuring 1558 sqm- Ikoyi,Ikoyi,,,Rose,+234 814 922 6187,https://cwlagos.com/property/land-measuring-1558-sqm-ikoyi-cwl1384,Ikoyi
+For Rent,Maisonette,2200825309.0,Luxury Maisonette Development- Ikoyi,Ikoyi,4.0,4.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/luxury-maisonette-development-ikoyi-nd226,Ikoyi
+For Rent,Maisonette,60000000.0,4-Bedroom Maisonette Penthouse- VI,Oniru,4.0,4.0,Seun,+234 704 808 9360,https://cwlagos.com/property/4-bedroom-maisonette-penthouse-vi-cw07937,Victoria Island
+For Rent,Commercial,45000000.0,4-Bed Duplex+ 2 BQs – Commercial Use- Lekki phase 1,Lekki Phase 1,,,Nadi,+2349062511345,https://cwlagos.com/property/4-bed-duplex-2-bqs-commercial-use-lekki-phase-1-cw07622,Lekki
+For Sale,Detached Duplex,1800000000.0,6 Units of 6-Bed Detached Homes – Victoria Island,Victoria Island,6.0,6.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/6-units-of-6-bed-detached-homes-victoria-island-cw07642,Victoria Island
+For Rent,Maisonette,400000000.0,2-Bedroom Maisonette Apartment – Lekki Phase 1,Lekki Phase 1,2.0,2.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/2-bedroom-maisonette-apartment-lekki-phase-1-cw08016,Lekki
+For Rent,Maisonette,750000000.0,4-Bedroom Penthouse Maisonette in Victoria Island,Victoria Island,4.0,4.0,Seun,+234 704 808 9360,https://cwlagos.com/property/4-bedroom-penthouse-maisonette-in-victoria-island-cw07811,Victoria Island
+For Rent,Apartment,30000000.0,3-Bedroom Apartment with BQ- VI,Victoria Island,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/3-bedroom-apartment-with-bq-vi-cw07778,Victoria Island
+For Rent,Commercial,250000.0,Prime 250sqm Ground Floor Commercial Space,Victoria Island,,,Nadi,+2349062511345,https://cwlagos.com/property/prime-250sqm-ground-floor-commercial-space-cw07825,Victoria Island
+For Rent,Semi Detached,30000000.0,4-Bedroom Semi-Detached Duplex +Study & BQ in Oniru,Oniru,4.0,4.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-study-and-bq-in-oniru-cw07836,Victoria Island
+For Rent,Apartment,20000000.0,Luxury 3-Bedroom Apartment in Lekki,Lekki,3.0,3.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/luxury-3-bedroom-apartment-in-lekki-cw07814,Lekki
+For Rent,Apartment,8000000.0,2-Bedroom Apartment in Lekki,Ologolo,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw07821,Lekki
+For Sale,Apartment,750000000.0,3-Bedroom Apartment in Victoria Island,Victoria Island,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/3-bedroom-apartment-in-victoria-island-cw07630,Victoria Island
+For Rent,Detached Duplex,80000000.0,6-Bedroom Detached House in Ikoyi,Ikoyi,6.0,6.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/6-bedroom-detached-house-in-ikoyi-cw07809,Ikoyi
+For Rent,Apartment,40000000.0,3-Bedroom Apartment +BQ in Ikoyi,Ikoyi,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/3-bedroom-apartment-bq-in-ikoyi-cw07873,Ikoyi
+For Sale,Detached Duplex,380000000.0,5-Bedroom Detached House + BQ- Lekki,Ikota,5.0,5.0,Teni,+234 704 816 4812,https://cwlagos.com/property/5-bedroom-detached-house-bq-lekki-cw07977,Lekki
+For Rent,Apartment,18000000.0,3-Bedroom Apartment +BQ in Lekki,Lekki Phase 1,3.0,3.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/3-bedroom-apartment-bq-in-lekki-cw07817,Lekki
+For Rent,Apartment,18000000.0,2-Bedroom Apartment with BQ in VI,Victoria Island,2.0,2.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/2-bedroom-apartment-with-bq-in-vi-cw07808,Victoria Island
+For Sale,Penthouse,3000000000.0,6-Bedroom Penthouse +Private Pool in Osborne,Ikoyi,6.0,6.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/6-bedroom-penthouse-private-pool-in-osborne-cw07992,Ikoyi
+For Sale,Terrace,350000000.0,4-Bedroom Terrace Duplex with BQ in Osapa,Osapa,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-terrace-duplex-with-bq-in-osapa-nd220,Lekki
+Land,Mixed-Use Land,15000000000.0,Land Measuring 16300sqm- Ajah,Ajah,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-16300sqm-ajah-cwl1415,Ajah
+For Rent,Apartment,30000000.0,2-Bedroom Apartment +BQ in Victoria Island,Victoria Island,2.0,2.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/2-bedroom-apartment-bq-in-victoria-island-cw07813,Victoria Island
+For Rent,Apartment,20000000.0,3-Bedroom Apartment + BQ – Old Ikoyi,Old Ikoyi,3.0,3.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/3-bedroom-apartment-bq-old-ikoyi-cw07652,Ikoyi
+For Rent,Apartment,400000000.0,New Development Apartment- VI,Victoria Island,2.0,2.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/new-development-apartment-vi-nd225,Victoria Island
+For Sale,Apartment,150000000.0,2-Bedroom Apartment in Lekki,Ikate,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw07834,Lekki
+For Rent,Apartment,35000000.0,2 & 3 Bedroom Apartment in Victoria Island,Victoria Island,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/2-and-3-bedroom-apartment-in-victoria-island-cw07631,Victoria Island
+For Sale,Detached Duplex,300000000.0,5-Bedroom Detached Duplex +BQ in Ikate,Ikate,5.0,5.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/5-bedroom-detached-duplex-bq-in-ikate-cw07806,Lekki
+For Rent,Terrace,50000000.0,4-Bedroom Terrace –Ikoyi,Old Ikoyi,4.0,4.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/4-bedroom-terrace-ikoyi-cw07633,Ikoyi
+For Rent,Apartment,30000000.0,3 Bedroom Apartment in Lekki,Lekki Phase 1,3.0,3.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/3-bedroom-apartment-in-lekki-cw08022,Lekki
+For Sale,Apartment,750000000.0,2-Bedroom Apartment- VI,Eko Atlantic,2.0,2.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/2-bedroom-apartment-vi-cw07713,Victoria Island
+For Rent,Detached Duplex,60000000.0,6-Bedroom Fully Detached Duplex + 2 BQ in Osapa,Osapa,6.0,6.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/6-bedroom-fully-detached-duplex-2-bq-in-osapa-cw07931,Lekki
+For Rent,Apartment,11000000.0,3-Bedroom Apartment with BQ in Lekki,Ikate,3.0,3.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/3-bedroom-apartment-with-bq-in-lekki-cw07673,Lekki
+For Rent,Apartment,20000000.0,3-Bedroom Apartment with BQ –VI,Oniru,3.0,3.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/3-bedroom-apartment-with-bq-vi-cw07712,Victoria Island
+For Sale,Terrace,1000000000.0,4-Bedroom Terrace Houses- VI,Victoria Island,4.0,4.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/4-bedroom-terrace-houses-vi-cw07928,Victoria Island
+For Sale,Detached Duplex,450000000.0,5 Bedroom Fully Detached Duplex,Osapa,5.0,5.0,Esther,+234 814 640 1276,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-cw07999,Lekki
+For Sale,Semi Detached,300000000.0,4-Bedroom Semi-Detached Duplex with BQ,Ologolo,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-with-bq-cw07634,Lekki
+For Sale,Semi Detached,200000000.0,4-Bedroom Semi-Detached Duplex with BQ,Ologolo,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-with-bq-cw07621,Lekki
+Land,Joint Venture,3500000.0,JOINT VENTURE OPPORTUNITY – OLD IKOYI,Old Ikoyi,,,Rose,+234 814 922 6187,https://cwlagos.com/property/joint-venture-opportunity-old-ikoyi-cwl1386,Ikoyi
+For Sale,Apartment,1788170564.0,3-Bedroom Apartment in Ikoyi,Ikoyi,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/3-bedroom-apartment-in-ikoyi-cw07938,Ikoyi
+For Rent,Terrace,50000000.0,Luxury 4-Bedroom Terrace Duplex in Ikoyi,Ikoyi,4.0,4.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/luxury-4-bedroom-terrace-duplex-in-ikoyi-cw07868,Ikoyi
+For Rent,Apartment,32000000.0,3-Bedroom Apartment + BQ – Old Ikoyi,Old Ikoyi,3.0,3.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/3-bedroom-apartment-bq-old-ikoyi-cw07884,Ikoyi
+For Rent,Apartment,12000000.0,2 BEDROOM APARTMENT –LEKKI,Ikate,2.0,2.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/2-bedroom-apartment-lekki-cw07674,Lekki
+For Sale,Detached Duplex,4814305365.0,5-Bedroom Detached Duplex in Ikoyi,Banana Island,5.0,5.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/5-bedroom-detached-duplex-in-ikoyi-cw07945,Ikoyi
+For Rent,Apartment,8500000.0,2-Bedroom Apartment,Ologolo,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/2-bedroom-apartment-cw07619,Lekki
+For Sale,Terrace,500000000.0,4 Bedroom Fully Detached Duplex in Lekki,Ajah,4.0,4.0,Peter,+234 906 251 1344,https://cwlagos.com/property/4-bedroom-fully-detached-duplex-in-lekki-cw07664,Ajah
+For Rent,Apartment,15000000.0,3 Bedroom Apartment,Lekki Phase 1,3.0,3.0,Faith,+234 702 602 4170,https://cwlagos.com/property/3-bedroom-apartment-cw07703,Lekki
+For Rent,Penthouse,20000000.0,3-Bedroom Penthouse Terrace Detached Duplex in Lekki Phase 1,Lekki Phase 1,3.0,3.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/3-bedroom-penthouse-terrace-detached-duplex-in-lekki-phase-1-cw07677,Lekki
+For Sale,Apartment,120000000.0,2 Bedroom Apartment in Lekki,Ikate,2.0,2.0,Peter,+234 906 251 1344,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw07764,Lekki
+For Rent,Commercial,9000000.0,Commercial Space in Lekki Phase 1,Lekki Phase 1,,,Jennifer,+234 704 808 9361,https://cwlagos.com/property/commercial-space-in-lekki-phase-1-cw07984,Lekki
+For Rent,Apartment,7000000.0,1-Bedroom Mini Flat Apartment in Lekki,Lekki Phase 1,1.0,1.0,Esther,+234 814 640 1276,https://cwlagos.com/property/1-bedroom-mini-flat-apartment-in-lekki-cw07917,Lekki
+For Rent,Apartment,15000000.0,2 Bedroom Apartment in Victoria Island,Oniru,2.0,2.0,Seun,+234 704 808 9360,https://cwlagos.com/property/2-bedroom-apartment-in-victoria-island-cw07681,Victoria Island
+For Rent,Terrace,20000000.0,4-Bedroom Terrace Duplex +BQ in Osapa,Osapa,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/4-bedroom-terrace-duplex-bq-in-osapa-cw07747,Lekki
+For Rent,Terrace,35000000.0,4-Bedroom Terrace Duplex in Ikoyi,Ikoyi,4.0,4.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/4-bedroom-terrace-duplex-in-ikoyi-cw07869,Ikoyi
+For Rent,Apartment,30000000.0,3-Bedroom Apartment in Ikoyi,Banana Island,3.0,3.0,Sophia,+234 814 497 6677,https://cwlagos.com/property/3-bedroom-apartment-in-ikoyi-cw07829,Ikoyi
+For Sale,Detached Duplex,350000000.0,5 Bedroom Fully Detached Duplex + BQ in Ajah,Ajah,5.0,5.0,Esther,+234 814 640 1276,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-bq-in-ajah-cw07779,Ajah
+For Sale,Apartment,450000000.0,5-Bedroom Apartment +BQ in Ikate,Ikate,5.0,5.0,Esther,+234 814 640 1276,https://cwlagos.com/property/5-bedroom-apartment-bq-in-ikate-cw07876,Lekki
+For Sale,Apartment,400000000.0,"3-Bedroom Penthouse in, Lekki",Ikate,3.0,3.0,Peter,+234 906 251 1344,https://cwlagos.com/property/3-bedroom-penthouse-in-lekki-cw07601,Lekki
+For Rent,Commercial,150000000.0,5-Bedroom Duplex with 2-Room BQ- Victoria Island,Victoria Island,,,Jennifer,+234 704 808 9361,https://cwlagos.com/property/5-bedroom-duplex-with-2-room-bq-victoria-island-cw07954,Victoria Island
+For Sale,Apartment,150000000.0,2 Bedroom Apartment in Lekki,Ikate,2.0,2.0,Peter,+234 906 251 1344,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw07763,Lekki
+For Rent,Commercial,23000000.0,85sqm Lower Unit Commercial Space,Lekki Phase 1,,,Jennifer,+234 704 808 9361,https://cwlagos.com/property/85sqm-lower-unit-commercial-space-cw07859,Lekki
+For Rent,Apartment,45000000.0,Luxury 3-Bedroom Apartment +BQ in VI,Victoria Island,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/luxury-3-bedroom-apartment-bq-in-vi-cw07877,Victoria Island
+For Sale,Penthouse,650000000.0,3-Bedroom Penthouse – VI,Victoria Island,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/3-bedroom-penthouse-vi-cw07627,Victoria Island
+Land,Mixed-Use Land,2500000.0,Bare Land Measuring 4300sqm– Victoria Island,Victoria Island,,,Rose,+234 814 922 6187,https://cwlagos.com/property/bare-land-measuring-4300sqm-victoria-island-cwl1404,Victoria Island
+For Rent,Penthouse,25000000.0,2-Bedroom Penthouse- Ikoyi,Parkview,2.0,2.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/2-bedroom-penthouse-ikoyi-cw07831,Ikoyi
+Land,Residential Land,750000.0,Residential Bare Land – Lekki Phase 1,Lekki Phase 1,,,Rose,+234 814 922 6187,https://cwlagos.com/property/residential-bare-land-lekki-phase-1-cwl1390,Lekki
+For Rent,Apartment,35000000.0,2-Bedroom Apartment with BQ Living- VI,Victoria Island,2.0,2.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/2-bedroom-apartment-with-bq-living-vi-cw07791,Victoria Island
+Land,Joint Venture,4000000.0,JOINT VENTURE OPPORTUNITY – OLD IKOYI,Old Ikoyi,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/joint-venture-opportunity-old-ikoyi-cwl1387,Ikoyi
+Land,Mixed-Use Land,2200000.0,Prime Waterfront Land In Ikoyi,Ikoyi,,,Jennifer,+234 704 808 9361,https://cwlagos.com/property/prime-waterfront-land-in-ikoyi-cwl1386,Ikoyi
+For Rent,Apartment,1513067400.0,4 Bedroom Apartments- Ikoyi,Ikoyi,4.0,4.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/4-bedroom-apartments-ikoyi-nd227,Ikoyi
+For Sale,Apartment,17000000.0,1-Bedroom Apartment – Ikoyi,Ikoyi,1.0,1.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/1-bedroom-apartment-ikoyi-cw07746,Ikoyi
+For Rent,Apartment,12000000.0,2 Bedroom Apartment,Lekki Phase 1,2.0,2.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/2-bedroom-apartment-cw07815,Lekki
+For Sale,Terrace,130000000.0,4-Bedroom Terrace Duplex + BQ in Lekki,Orchid,4.0,4.0,Teni,+234 704 816 4812,https://cwlagos.com/property/4-bedroom-terrace-duplex-bq-in-lekki-cw07889,Lekki
+For Rent,Apartment,30000000.0,3 Bedroom Apartment with Bq in Victoria Island,Oniru,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/3-bedroom-apartment-with-bq-in-victoria-island-cw07682,Victoria Island
+Land,Commercial Land,2500000.0,Commercial Bare Land- Lekki Phase 1,Lekki Phase 1,,,Rose,+234 814 922 6187,https://cwlagos.com/property/commercial-bare-land-lekki-phase-1-cwl1383,Lekki
+For Rent,Apartment,25000000.0,4-Bedroom Residence +Bq in Ikate,Ikate,4.0,4.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/4-bedroom-residence-bq-in-ikate-cw07788,Lekki
+For Sale,Apartment,190000000.0,2 Bedroom Apartment in Lekki,,2.0,2.0,Peter,+234 906 251 1344,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw07975,
+For Sale,Detached Duplex,700000000.0,5 Bedroom Detached House in Lekki,Lekki,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-detached-house-in-lekki-cw07961,Lekki
+For Sale,Apartment,14000000.0,2-Bedroom Apartment- VI,Oniru,2.0,2.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/2-bedroom-apartment-vi-cw07714,Victoria Island
+For Rent,Commercial,800000000.0,PRIME COMMERCIAL BUILDING -LEKKI PHASE 1,Lekki Phase 1,,,Nadi,+2349062511345,https://cwlagos.com/property/prime-commercial-building-lekki-phase-1-cw07625,Lekki
+For Sale,Apartment,400000000.0,2-Bedroom Apartment in Victoria Island,Victoria Island,2.0,2.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/2-bedroom-apartment-in-victoria-island-cw07883,Victoria Island
+For Rent,Apartment,20000000.0,2 Bedroom Apartment- Lekki phase 1,Lekki Phase 1,2.0,2.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/2-bedroom-apartment-lekki-phase-1-cw07953,Lekki
+For Rent,Detached Duplex,195000000.0,4 Bedroom Semi-Detached House in Lekki,Chevron,4.0,4.0,Peter,+234 906 251 1344,https://cwlagos.com/property/4-bedroom-semi-detached-house-in-lekki-cw07759,Lekki
+For Sale,Apartment,270000000.0,2-Bedroom Apartments in Ikoyi,Ikoyi,2.0,2.0,Sophia,+234 814 497 6677,https://cwlagos.com/property/2-bedroom-apartments-in-ikoyi-cw07842,Ikoyi
+For Sale,Detached Duplex,4800000000.0,5-Bedroom Detached Residence- Ikoyi,Ikoyi,5.0,5.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/5-bedroom-detached-residence-ikoyi-cw07770,Ikoyi
+Land,Mixed-Use Land,2063274.0,Land Measuring 1203sqm- VI,Eko Atlantic,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-1203sqm-vi-cwl1412,Victoria Island
+For Rent,Apartment,16500000.0,3-Bedroom Apartment in Lekki,Lekki Phase 1,3.0,3.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/3-bedroom-apartment-in-lekki-cw08003,Lekki
+For Rent,Commercial,20000000.0,Office Space in Ikoyi,Ikoyi,,,Nadi,+2349062511345,https://cwlagos.com/property/office-space-in-ikoyi-cw07950,Ikoyi
+For Sale,Terrace,250000000.0,4 Bedroom Fully Detached House in Orchid Road,Orchid,4.0,4.0,Peter,+234 906 251 1344,https://cwlagos.com/property/4-bedroom-fully-detached-house-in-orchid-road-cw07604,Lekki
+For Rent,Commercial,85000000.0,Massive Commercial Property – Victoria Island,Victoria Island,,,Nadi,+2349062511345,https://cwlagos.com/property/massive-commercial-property-victoria-island-cw07914,Victoria Island
+For Rent,Apartment,40000000.0,Luxury 4 Bedroom Apartment in Ikoyi,Ikoyi,4.0,4.0,Titi,+234 707 886 6245,https://cwlagos.com/property/luxury-4-bedroom-apartment-in-ikoyi-cw07924,Ikoyi
+For Rent,Apartment,19500000.0,4 Bedroom Semi-Detached House with BQ in Lekki,Orchid,4.0,4.0,Peter,+234 906 251 1344,https://cwlagos.com/property/4-bedroom-semi-detached-house-with-bq-in-lekki-cw07666,Lekki
+For Sale,Detached Duplex,360000000.0,5 Bedroom Fully Detached House with BQ in Lekki,Lekki,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-house-with-bq-in-lekki-cw07753,Lekki
+For Rent,Apartment,6500000.0,Spacious 2 Bedroom Apartment in Osapa,Osapa,2.0,2.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/spacious-2-bedroom-apartment-in-osapa-cw08012,Lekki
+For Sale,Terrace,700000000.0,4-Bedroom Terrace –Victoria Island,Oniru,4.0,4.0,Seun,+234 704 808 9360,https://cwlagos.com/property/4-bedroom-terrace-victoria-island-cw07628,Victoria Island
+For Sale,Apartment,350000000.0,4-Bedroom Terrace in Ikate,Ikate,4.0,4.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/4-bedroom-terrace-in-ikate-cw07789,Lekki
+For Rent,Terrace,10000000.0,4 Bedroom Terrace Duplex,Ologolo,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-terrace-duplex-cw08005,Lekki
+For Rent,Apartment,50000000.0,4-Bedroom Apartment In Ikoyi,Ikoyi,4.0,4.0,Titi,+234 707 886 6245,https://cwlagos.com/property/4-bedroom-apartment-in-ikoyi-cw07846,Ikoyi
+For Rent,Apartment,68775791.0,2 Bedroom Apartment | Ikoyi,Ikoyi,2.0,2.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/2-bedroom-apartment-ikoyi-cw07892,Ikoyi
+For Rent,Commercial,5000000.0,Brand New 348sqm commercial Office Space,Victoria Island,,,Nadi,+2349062511345,https://cwlagos.com/property/brand-new-348sqm-commercial-office-space-cw07826,Victoria Island
+For Rent,Apartment,40000000.0,3 Bedroom En-Suite Apartment- Ikoyi,Ikoyi,3.0,3.0,Olade,+234 810 875 5286,https://cwlagos.com/property/3-bedroom-en-suite-apartment-ikoyi-cw07856,Ikoyi
+For Rent,Apartment,40000000.0,4-Bedroom Apartment- Ikoyi,Ikoyi,4.0,4.0,Olade,+234 810 875 5286,https://cwlagos.com/property/4-bedroom-apartment-ikoyi-cw07858,Ikoyi
+For Rent,Apartment,30000000.0,4 Bedroom Terrace Duplex with BQ in Ikoyi,Ikoyi,4.0,4.0,Sophia,+234 814 497 6677,https://cwlagos.com/property/4-bedroom-terrace-duplex-with-bq-in-ikoyi-cw07735,Ikoyi
+For Rent,Apartment,4500000.0,2-Bedroom Apartment- Lekki,Orchid,2.0,2.0,Teni,+234 704 816 4812,https://cwlagos.com/property/2-bedroom-apartment-lekki-cw07946,Lekki
+For Sale,Apartment,450000000.0,Ocean-View 2-Bedroom Apartment- VI,Oniru,2.0,2.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/ocean-view-2-bedroom-apartment-vi-cw07790,Victoria Island
+For Rent,Detached Duplex,50000000.0,5 Bedroom Detached Duplex in Lekki,Lekki Phase 1,5.0,5.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/5-bedroom-detached-duplex-in-lekki-cw07738,Lekki
+For Rent,Apartment,38000000.0,4-Bedroom Apartment- Ikoyi,Ikoyi,4.0,4.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/4-bedroom-apartment-ikoyi-cw07772,Ikoyi
+For Sale,Apartment,150000000.0,2-Bedroom Apartment in Lekki,Lekki,2.0,2.0,Teni,+234 704 816 4812,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw07906,Lekki
+For Rent,Apartment,4800000.0,2-Bedroom Apartment,Ikate,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/2-bedroom-apartment-cw07618,Lekki
+Land,Mixed-Use Land,2000000.0,Land Measuring 2500sqm- in VI,Victoria Island,,,Jennifer,+234 704 808 9361,https://cwlagos.com/property/land-measuring-2500sqm-in-vi-cwl1417,Victoria Island
+For Sale,Apartment,400000000.0,2-Bedroom Terrace Duplex + BQ in Lekki Phase 1,Lekki Phase 1,2.0,2.0,Faith,+234 702 602 4170,https://cwlagos.com/property/2-bedroom-terrace-duplex-bq-in-lekki-phase-1-cw07689,Lekki
+For Sale,Detached Duplex,385000000.0,5 Bedroom Fully Detached Duplex +Bq in Lekki,Orchid,5.0,5.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-bq-in-lekki-cw07913,Lekki
+Land,Residential Land,4200000.0,Bare Land Measuring 600sqm – Ikoyi,Ikoyi,,,Rose,+234 814 922 6187,https://cwlagos.com/property/bare-land-measuring-600sqm-ikoyi-cwl1405,Ikoyi
+Land,Mixed-Use Land,2500000000.0,Land Measuring 1340sqm- VI,Victoria Island,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-1340sqm-vi-cwl1402,Victoria Island
+For Rent,Apartment,10000000.0,1 Bedroom Apartment in Lekki,Lekki Phase 1,1.0,1.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/1-bedroom-apartment-in-lekki-cw07737,Lekki
+For Sale,Apartment,600000000.0,3-Bedroom Apartment- VI,Victoria Island,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/3-bedroom-apartment-vi-cw07940,Victoria Island
+For Sale,Detached Duplex,11004126547.0,5-bedroom detached mansion +2Bq in Ikoyi,Ikoyi,5.0,5.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/5-bedroom-detached-mansion-2bq-in-ikoyi-cw07941,Ikoyi
+For Rent,Maisonette,2063273728.0,Luxury Maisonettes & Penthouse- Ikoyi,Ikoyi,3.0,3.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/luxury-maisonettes-and-penthouse-ikoyi-cw07890,Ikoyi
+For Rent,Semi Detached,17000000.0,4-Bedroom Semi-Detached Duplex +BQ in Lekki,Ologolo,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-bq-in-lekki-cw07830,Lekki
+For Rent,Apartment,60000000.0,4-Bedroom Apartment +Bq in VI,Victoria Island,4.0,4.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/4-bedroom-apartment-bq-in-vi-cw07843,Victoria Island
+For Sale,Apartment,280000000.0,3 Bedroom Apartments +BQ in Lekki,Ikate,3.0,3.0,Esther,+234 814 640 1276,https://cwlagos.com/property/3-bedroom-apartments-bq-in-lekki-cw07903,Lekki
+For Rent,Apartment,18000000.0,1-Bedroom Apartment in Ikoyi,Ikoyi,1.0,1.0,Titi,+234 707 886 6245,https://cwlagos.com/property/1-bedroom-apartment-in-ikoyi-cw07925,Ikoyi
+For Sale,Detached Duplex,300000000.0,4 Bedroom Fully Detached Duplex +BQ in Ajah,Ajah,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-fully-detached-duplex-bq-in-ajah-cw07774,Ajah
+For Sale,Terrace,180000000.0,3 & 4 Bedroom Terrace Duplexes in Lekki,Chevron,3.0,3.0,Peter,+234 906 251 1344,https://cwlagos.com/property/3-and-4-bedroom-terrace-duplexes-in-lekki-cw07968,Lekki
+For Sale,Semi Detached,400000000.0,4-Bedroom Semi-Detached Duplex+BQ in Ikate,Ikate,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-bq-in-ikate-cw07807,Lekki
+For Rent,Apartment,14000000.0,2-Bedroom Maisonette - VI,Oniru,2.0,2.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/2-bedroom-maisonette-vi-cw07715,Victoria Island
+For Rent,Apartment,30000000.0,2-Bedroom Apartment in Ikoyi,Ikoyi,2.0,2.0,Sophia,+234 814 497 6677,https://cwlagos.com/property/2-bedroom-apartment-in-ikoyi-cw07721,Ikoyi
+For Sale,Terrace,180000000.0,4-Bedroom Terrace Duplex,Ikota,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-terrace-duplex-cw07612,Lekki
+For Sale,Terrace,5000000.0,Land Measuring 401sqm- Ikoyi,Old Ikoyi,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-401sqm-ikoyi-cwl1410,Ikoyi
+For Sale,Terrace,4500000000.0,Mixed-Use Commercial Building in Lekki,Ikate,1.0,1.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/mixed-use-commercial-building-in-lekki-cw07670,Lekki
+For Rent,Semi Detached,55000000.0,7-Bedroom Semi-Detached +BQ in Vi,Victoria Island,7.0,7.0,Nadi,+2349062511345,https://cwlagos.com/property/7-bedroom-semi-detached-bq-in-vi-cw08019,Victoria Island
+For Sale,Detached Duplex,4000000000.0,5-Bedroom Detached Duplex – Ikoyi,Banana Island,5.0,5.0,Rose,+234 814 922 6187,https://cwlagos.com/property/5-bedroom-detached-duplex-ikoyi-cw07919,Ikoyi
+For Rent,Apartment,38000000.0,4-Bedroom Apartment +BQ in Ikoyi,Ikoyi,4.0,4.0,Sophia,+234 814 497 6677,https://cwlagos.com/property/4-bedroom-apartment-bq-in-ikoyi-cw07935,Ikoyi
+Land,Commercial Land,800000.0,Land measuring 3275 sqm- Lekki,Lekki,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-3275-sqm-lekki-cwl1382,Lekki
+For Rent,Terrace,35000000.0,4 Bedroom Terrace Duplex in Oniru,Oniru,4.0,4.0,Nadi,+2349062511345,https://cwlagos.com/property/4-bedroom-terrace-duplex-in-oniru-cw08011,Victoria Island
+For Rent,Apartment,5500000.0,3 Bedroom Apartment- Lekki,Orchid,3.0,3.0,Teni,+234 704 816 4812,https://cwlagos.com/property/3-bedroom-apartment-lekki-cw07947,Lekki
+For Sale,Apartment,320000000.0,1 & 2 Bedroom Apartments,Lekki Phase 1,2.0,2.0,Faith,+234 702 602 4170,https://cwlagos.com/property/1-and-2-bedroom-apartments-cw07704,Lekki
+For Rent,Apartment,7500000.0,2-Bedroom Apartment in Lekki,Lekki,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw07726,Lekki
+For Sale,Detached Duplex,380000000.0,5 Bedroom Detached House in Lekki,Chevron,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-detached-house-in-lekki-cw07960,Lekki
+For Sale,Apartment,20000000.0,3-Bedroom Apartment with BQ in Ikoyi,Parkview,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/3-bedroom-apartment-with-bq-in-ikoyi-cw07991,Ikoyi
+For Rent,Apartment,8000000.0,1 Bedroom Apartment,Lekki Phase 1,1.0,1.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/1-bedroom-apartment-cw07816,Lekki
+For Rent,Apartment,300000000.0,Off-Plan 3 Bedroom Apartment– Lekki Phase 1,Lekki Phase 1,3.0,3.0,Nadi,+2349062511345,https://cwlagos.com/property/off-plan-3-bedroom-apartment-lekki-phase-1-nd219,Lekki
+For Rent,Apartment,70000000.0,3-Bedroom Furnished Apartment in Old Ikoyi,Old Ikoyi,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/3-bedroom-furnished-apartment-in-old-ikoyi-cw07694,Ikoyi
+For Rent,Apartment,550000000.0,3-Bedroom Penthouse Apartment + BQ- Ikoyi,Ikoyi,3.0,3.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/3-bedroom-penthouse-apartment-bq-ikoyi-nd217,Ikoyi
+For Sale,Detached Duplex,400000000.0,5-Bedroom Detached Duplex with BQ,Ikota,5.0,5.0,Esther,+234 814 640 1276,https://cwlagos.com/property/5-bedroom-detached-duplex-with-bq-cw07614,Lekki
+For Rent,Terrace,25000000.0,4-Bedroom Terrace In Oniru,Oniru,4.0,4.0,Titi,+234 707 886 6245,https://cwlagos.com/property/4-bedroom-terrace-in-oniru-cw07845,Victoria Island
+For Sale,Terrace,180000000.0,4-Bedroom Duplex,Ikota,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-duplex-cw07611,Lekki
+For Rent,Apartment,19000000.0,4 Bedroom Semi-Detached Duplex with BQ in Lekki,Ikate,4.0,4.0,Peter,+234 906 251 1344,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-with-bq-in-lekki-cw07668,Lekki
+For Rent,Apartment,15000000.0,3-Bedroom Apartment in Ikate,Ikate,3.0,3.0,Esther,+234 814 640 1276,https://cwlagos.com/property/3-bedroom-apartment-in-ikate-cw07847,Lekki
+Land,Residential Land,15000000.0,600SQM Land in an Estate- Ibeju Lekki,,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/600sqm-land-in-an-estate-ibeju-lekki-cwl1391,
+For Rent,Apartment,24000000.0,2 & 3 Bedroom Apartment with BQ,Lekki Phase 1,3.0,3.0,Faith,+234 702 602 4170,https://cwlagos.com/property/2-and-3-bedroom-apartment-with-bq-cw07700,Lekki
+For Rent,Apartment,8500000.0,1-Bedroom Apartment in Lekki,Lekki Phase 1,1.0,1.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/1-bedroom-apartment-in-lekki-cw07707,Lekki
+For Sale,Terrace,600000000.0,4-Bedroom Semi-Detached Townhouse –Victoria Island,Oniru,4.0,4.0,Rose,+234 814 922 6187,https://cwlagos.com/property/4-bedroom-semi-detached-townhouse-victoria-island-cw07661,Victoria Island
+For Sale,Apartment,180000000.0,2 Bedroom Apartment in Lekki,Ikate,2.0,2.0,Peter,+234 906 251 1344,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw07760,Lekki
+For Rent,Apartment,30000000.0,2 Bedroom Furnished Apartment in Lekki Phase 1,Lekki Phase 1,2.0,2.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/2-bedroom-furnished-apartment-in-lekki-phase-1-cw07685,Lekki
+For Sale,Detached Duplex,180000000.0,4 Bedroom Fully Detached Duplex +Bq in Lekki,Orchid,4.0,4.0,Teni,+234 704 816 4812,https://cwlagos.com/property/4-bedroom-fully-detached-duplex-bq-in-lekki-cw07909,Lekki
+For Sale,Detached Duplex,190000000.0,4 Bedroom Semi-Detached Duplex in Lekki,Ikota,4.0,4.0,Peter,+234 906 251 1344,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-in-lekki-cw07957,Lekki
+For Sale,Terrace,400000000.0,4-Bedroom Terrace Duplex with Bq in Ikate,Ikate,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/4-bedroom-terrace-duplex-with-bq-in-ikate-cw07865,Lekki
+For Sale,Terrace,1200000000.0,4-Bedroom Terrace +2 BQ  in VI,Victoria Island,4.0,4.0,Seun,+234 704 808 9360,https://cwlagos.com/property/4-bedroom-terrace-2-bq-in-vi-cw07810,Victoria Island
+For Sale,Apartment,1093535076.0,2 Bedroom Apartment | Ikoyi,Ikoyi,2.0,2.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/2-bedroom-apartment-ikoyi-cw07899,Ikoyi
+For Rent,Apartment,250000000.0,3 Bedroom Apartment in Lekki,Ikate,3.0,3.0,Peter,+234 906 251 1344,https://cwlagos.com/property/3-bedroom-apartment-in-lekki-cw07762,Lekki
+For Rent,Apartment,70000000.0,Waterfront 4-Bedroom Apartment in Ikoyi,Banana Island,4.0,4.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/waterfront-4-bedroom-apartment-in-ikoyi-cw07944,Ikoyi
+For Sale,Detached Duplex,760000000.0,5 Bedroom Fully Detached House in Lekki,Lekki Phase 1,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-house-in-lekki-cw07766,Lekki
+For Sale,Detached Duplex,1925722146.0,4-Bedroom Detached House in Old Ikoyi,Old Ikoyi,4.0,4.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/4-bedroom-detached-house-in-old-ikoyi-cw07943,Ikoyi
+For Sale,Apartment,290000000.0,2 Bedroom Apartment with BQ in Lekki,Lekki Phase 1,2.0,2.0,Peter,+234 906 251 1344,https://cwlagos.com/property/2-bedroom-apartment-with-bq-in-lekki-cw07651,Lekki
+For Rent,Apartment,40000000.0,3-Bedroom Apartment + BQ- Ikoyi,Banana Island,3.0,3.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/3-bedroom-apartment-bq-ikoyi-cw07824,Ikoyi
+For Sale,Detached Duplex,2132049519.0,6-Bedroom Fully Detached Mansion +2 BQ in Ikoyi,Ikoyi,6.0,6.0,Titi,+234 707 886 6245,https://cwlagos.com/property/6-bedroom-fully-detached-mansion-2-bq-in-ikoyi-cw07782,Ikoyi
+Land,Mixed-Use Land,3500000.0,Land Measuring 1609sqm- Ikoyi,Ikoyi,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-1609sqm-ikoyi-cwl1414,Ikoyi
+For Sale,Terrace,1100412655.0,4-Bedroom Townhouses + BQ- VI,Victoria Island,4.0,4.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/4-bedroom-townhouses-bq-vi-nd220,Victoria Island
+For Rent,Commercial,50000000.0,Premium Industrial Warehouse in Oniru,Oniru,,,Nadi,+2349062511345,https://cwlagos.com/property/premium-industrial-warehouse-in-oniru-cw07987,Victoria Island
+For Rent,Commercial,275103.0,Commercial Space in Victoria Island,Victoria Island,,,Nadi,+2349062511345,https://cwlagos.com/property/commercial-space-in-victoria-island-cw07989,Victoria Island
+For Rent,Apartment,89408528.0,Luxury 3-Bedroom Apartment in Ikoyi,Ikoyi,3.0,3.0,Titi,+234 707 886 6245,https://cwlagos.com/property/luxury-3-bedroom-apartment-in-ikoyi-cw07926,Ikoyi
+For Rent,Apartment,40000000.0,Furnished 3 Bedroom Apartment- Ikoyi,Ikoyi,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/furnished-3-bedroom-apartment-ikoyi-cw07771,Ikoyi
+For Rent,Apartment,30000000.0,3-Bedroom Apartment - Ikoyi,Ikoyi,3.0,3.0,Titi,+234 707 886 6245,https://cwlagos.com/property/3-bedroom-apartment-ikoyi-cw07723,Ikoyi
+For Rent,Commercial,45000000.0,4 BEDROOM TERRACE –FOR OFFICE USE- IKOYI,Ikoyi,4.0,4.0,Nadi,+2349062511345,https://cwlagos.com/property/4-bedroom-terrace-for-office-use-ikoyi-cw07686,Ikoyi
+For Rent,Commercial,25000000.0,Upper-Floor Commercial Space,Lekki Phase 1,,,Jennifer,+234 704 808 9361,https://cwlagos.com/property/upper-floor-commercial-space-cw07861,Lekki
+For Sale,Detached Duplex,550000000.0,5 Bedroom Fully Detached House in Lekki,Lekki,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-house-in-lekki-cw07609,Lekki
+Land,Mixed-Use Land,3600000.0,Land Measuring 1041sqm- Ikoyi,Ikoyi,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-1041sqm-ikoyi-cwl1394,Ikoyi
+For Sale,Apartment,500000000.0,Luxury 2-Bedroom Apartment in Ikoyi,Ikoyi,2.0,2.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/luxury-2-bedroom-apartment-in-ikoyi-cw07990,Ikoyi
+For Rent,Apartment,20000000.0,4-Bedroom Terrace Duplex in Lekki,Osapa,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-terrace-duplex-in-lekki-cw07727,Lekki
+For Rent,Apartment,20000000.0,2 Bedroom Apartment in Lekki,Lekki Phase 1,2.0,2.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw07736,Lekki
+For Sale,Apartment,150000000.0,1 & 2-Bedroom Apartments,Ologolo,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/1-and-2-bedroom-apartments-cw07638,Lekki
+For Rent,Apartment,25000000.0,3-Bedroom Apartment with Study & BQ– Victoria Island,Victoria Island,3.0,3.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/3-bedroom-apartment-with-study-and-bq-victoria-island-cw07645,Victoria Island
+For Rent,Terrace,25000000.0,4-Bedroom Terrace +BQ in Oniru,Oniru,4.0,4.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/4-bedroom-terrace-bq-in-oniru-cw07833,Victoria Island
+Land,Mixed-Use Land,4000000.0,Land Measuring 849sqm- Ikoyi,Ikoyi,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-849sqm-ikoyi-cwl1411,Ikoyi
+For Sale,Terrace,400000000.0,4 Bedroom Fully Detached Duplex in Lekki,Orchid,4.0,4.0,Peter,+234 906 251 1344,https://cwlagos.com/property/4-bedroom-fully-detached-duplex-in-lekki-cw07663,Lekki
+For Rent,Apartment,15000000.0,3 BEDROOM APARTMENT –LEKKI,Ikate,3.0,3.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/3-bedroom-apartment-lekki-cw07671,Lekki
+For Sale,Detached Duplex,550000000.0,5 Bedroom Detached House in Lekki,Chevron,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-detached-house-in-lekki-cw07959,Lekki
+For Rent,Semi Detached,50000000.0,4-Bedroom Semi-Detached Duplex with BQ- VI,Victoria Island,4.0,4.0,Seun,+234 704 808 9360,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-with-bq-vi-cw07717,Victoria Island
+For Sale,Terrace,650000000.0,5 Bedroom Fully Detached Duplex in Lekki,Ikota,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-in-lekki-cw07659,Lekki
+For Rent,Apartment,18000000.0,2-Bedroom Maisonette Apartment,Lekki,2.0,2.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/2-bedroom-maisonette-apartment-cw07792,Lekki
+For Rent,Apartment,12000000.0,Fully Furnished 2 Bedroom Flat,Ikate,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/fully-furnished-2-bedroom-flat-cw07996,Lekki
+For Rent,Apartment,14000000.0,Fully Furnished & Serviced 1-Bedroom Apartment in Lekki,Lekki Phase 1,1.0,1.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/fully-furnished-and-serviced-1-bedroom-apartment-in-lekki-cw07872,Lekki
+For Rent,Apartment,33000000.0,3-Bedroom Maisonette with Home Office in Victoria Island,Victoria Island,3.0,3.0,Sophia,+234 814 497 6677,https://cwlagos.com/property/3-bedroom-maisonette-with-home-office-in-victoria-island-cw07719,Victoria Island
+For Sale,Terrace,260000000.0,4-Bedroom Terrace Duplex with BQ in Ikate,Ikate,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-terrace-duplex-with-bq-in-ikate-cw07849,Lekki
+For Rent,Commercial,350000.0,Office Space in Lekki Phase 1,Lekki Phase 1,,,Jennifer,+234 704 808 9361,https://cwlagos.com/property/office-space-in-lekki-phase-1-cw08000,Lekki
+For Sale,Semi Detached,450000000.0,4 Bedroom Semi-Detached Duplex in Lekki Phase 1,Lekki Phase 1,4.0,4.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-in-lekki-phase-1-cw07741,Lekki
+For Sale,Detached Duplex,5000000.0,6 Bedroom Waterfront Mansion +2 BQs in Ikoyi,Banana Island,6.0,6.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/6-bedroom-waterfront-mansion-2-bqs-in-ikoyi-cw08009,Ikoyi
+For Rent,Detached Duplex,190000000.0,4-Bedroom Detached Duplex +BQ in Ajah,Ajah,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/4-bedroom-detached-duplex-bq-in-ajah-cw07750,Ajah
+For Sale,Apartment,550000000.0,3 Bedroom Apartment- Ikoyi,Ikoyi,3.0,3.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/3-bedroom-apartment-ikoyi-nd229,Ikoyi
+For Rent,Apartment,2063273728.0,4 Bedroom Apartments- Ikoyi,Banana Island,4.0,4.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/4-bedroom-apartments-ikoyi-nd231,Ikoyi
+For Sale,Detached Duplex,450000000.0,4-Bedroom Fully Detached Duplex in ikate,Ikate,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/4-bedroom-fully-detached-duplex-in-ikate-cw07804,Lekki
+For Sale,Apartment,350000000.0,1-Bedroom Loft Apartment- Lekki Right,Victoria Island,1.0,1.0,Seun,+234 704 808 9360,https://cwlagos.com/property/1-bedroom-loft-apartment-lekki-right-cw07936,Victoria Island
+For Rent,Apartment,40000000.0,3-Bedroom Apartment with BQ- Ikoyi,Ikoyi,3.0,3.0,Rose,+234 814 922 6187,https://cwlagos.com/property/3-bedroom-apartment-with-bq-ikoyi-cw07805,Ikoyi
+For Rent,Terrace,40000000.0,4-Bedroom Townhouse in Victoria Island,Victoria Island,4.0,4.0,Nadi,+2349062511345,https://cwlagos.com/property/4-bedroom-townhouse-in-victoria-island-cw07948,Victoria Island
+For Sale,Detached Duplex,400000000.0,5-Bedroom Detached Duplex with BQ,Ikota,5.0,5.0,Esther,+234 814 640 1276,https://cwlagos.com/property/5-bedroom-detached-duplex-with-bq-cw07615,Lekki
+For Rent,Apartment,110041265.0,3-Bedroom Apartment with BQ- Ikoyi,Banana Island,3.0,3.0,Rose,+234 814 922 6187,https://cwlagos.com/property/3-bedroom-apartment-with-bq-ikoyi-cw07799,Ikoyi
+For Sale,Apartment,950000000.0,3-Bedroom Apartment in Ikoyi,Banana Island,3.0,3.0,Sophia,+234 814 497 6677,https://cwlagos.com/property/3-bedroom-apartment-in-ikoyi-cw07828,Ikoyi
+For Rent,Apartment,25000000.0,1-Bedroom Apartments in Lekki Phase 1,Lekki Phase 1,1.0,1.0,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/1-bedroom-apartments-in-lekki-phase-1-cw07997,Lekki
+For Rent,Apartment,40000000.0,Furnished 3-Bedroom Apartment in VI,Victoria Island,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/furnished-3-bedroom-apartment-in-vi-cw07878,Victoria Island
+For Rent,Apartment,25000000.0,3 Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,3.0,3.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/3-bedroom-apartment-in-lekki-phase-1-cw07684,Lekki
+For Rent,Apartment,25000000.0,2-Bedroom Apartment- Ikoyi,Ikoyi,2.0,2.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/2-bedroom-apartment-ikoyi-cw07773,Ikoyi
+For Rent,Apartment,50000000.0,3-Bedroom Apartment with BQ Living- VI,Victoria Island,3.0,3.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/3-bedroom-apartment-with-bq-living-vi-cw07794,Victoria Island
+For Sale,Detached Duplex,410000000.0,5 Bedroom Fully Detached House in Lekki,Lekki,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-house-in-lekki-cw07967,Lekki
+For Rent,Apartment,9000000.0,"2-Bedroom Apartment in Ikate, Lekki",Ikate,2.0,2.0,Peter,+234 906 251 1344,https://cwlagos.com/property/2-bedroom-apartment-in-ikate-lekki-cw07597,Lekki
+For Sale,Apartment,1500000000.0,4-Bedroom Apartment with Bq in Vi,Victoria Island,,,Wunmi,+234 908 807 2107,https://cwlagos.com/property/4-bedroom-apartment-with-bq-in-vi-cw07844,Victoria Island
+For Sale,Terrace,680000000.0,5 Bedroom Fully Detached House in Lekki,Lekki,,,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-house-in-lekki-cw07662,Lekki
+For Sale,Terrace,350000000.0,5-Bedroom Detached Duplex in Lekki,Chevron,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-detached-duplex-in-lekki-cw07602,Lekki
+For Rent,Apartment,100412655.0,4 Bedroom Apartment | Ikoyi,Ikoyi,4.0,4.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/4-bedroom-apartment-ikoyi-cw07896,Ikoyi
+For Sale,Terrace,700000000.0,4-Bedroom Terrace +Bq in Vi,Oniru,4.0,4.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/4-bedroom-terrace-bq-in-vi-cw07796,Victoria Island
+For Sale,Apartment,450000000.0,2-Bedroom Apartment with BQ in Victoria Island,Victoria Island,2.0,2.0,Sophia,+234 814 497 6677,https://cwlagos.com/property/2-bedroom-apartment-with-bq-in-victoria-island-cw07722,Victoria Island
+For Rent,Apartment,35000000.0,3-Bedroom Apartment in Ikoyi,Ikoyi,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/3-bedroom-apartment-in-ikoyi-cw07952,Ikoyi
+For Rent,Commercial,55000000.0,250sqm Commercial Space with 60sqm Penthouse (Upper Floor),Lekki Phase 1,,,Jennifer,+234 704 808 9361,https://cwlagos.com/property/250sqm-commercial-space-with-60sqm-penthouse-upper-floor-cw07863,Lekki
+Land,Mixed-Use Land,4500000.0,Land Measuring 2025 sqm- Ikoyi,Banana Island,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-2025-sqm-ikoyi-cwl1389,Ikoyi
+For Rent,Maisonette,450000000.0,Two Units of 3-Bedroom Maisonettes with BQ- VI,Victoria Island,3.0,3.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/two-units-of-3-bedroom-maisonettes-with-bq-vi-cw07783,Victoria Island
+For Rent,Apartment,20000000.0,3-Bedroom Apartment +BQ in Oniru,Oniru,3.0,3.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/3-bedroom-apartment-bq-in-oniru-cw07895,Victoria Island
+For Sale,Detached Duplex,600000000.0,5-Bedroom Detached House + BQ- Lekki,Ikota,5.0,5.0,Teni,+234 704 816 4812,https://cwlagos.com/property/5-bedroom-detached-house-bq-lekki-cw07955,Lekki
+For Sale,Detached Duplex,1400000000.0,Luxury 5 Bedroom Detached Duplex in Lekki,Lekki Phase 1,5.0,5.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/luxury-5-bedroom-detached-duplex-in-lekki-cw08015,Lekki
+For Sale,Terrace,160000000.0,5 Bedroom Terrace Duplex,Ologolo,5.0,5.0,Esther,+234 814 640 1276,https://cwlagos.com/property/5-bedroom-terrace-duplex-cw08002,Lekki
+Land,Mixed-Use Land,650000000.0,Land Measuring 500sqm- Lekki phase 1,Lekki Phase 1,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-500sqm-lekki-phase-1-cwl1395,Lekki
+For Sale,Detached Duplex,350000000.0,5 Bedroom Fully Detached House with BQ in Lekki,Ikota,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-house-with-bq-in-lekki-cw07767,Lekki
+For Sale,Semi Detached,190000000.0,4 Bedroom Semi-Detached Duplex in Lekki,Ikota,4.0,4.0,Peter,+234 906 251 1344,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-in-lekki-cw07958,Lekki
+For Sale,Detached Duplex,850000000.0,7 Bedroom Detached House in Lekki,Pinnock Beach Estate,7.0,7.0,Peter,+234 906 251 1344,https://cwlagos.com/property/7-bedroom-detached-house-in-lekki-cw07605,Lekki
+For Sale,Detached Duplex,350000000.0,5 Bedroom Fully Detached Duplex in Lekki,Ikota,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-in-lekki-cw07964,Lekki
+For Sale,Terrace,1100000000.0,3 Bedroom Terrace Duplex +BQ Ikoyi,Ikoyi,3.0,3.0,Sophia,+234 814 497 6677,https://cwlagos.com/property/3-bedroom-terrace-duplex-bq-ikoyi-cw08013,Ikoyi
+For Sale,Apartment,250000000.0,2-Bedroom Apartments in Lekki Phase 1,Lekki Phase 1,2.0,2.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/2-bedroom-apartments-in-lekki-phase-1-cw07675,Lekki
+For Sale,Apartment,160000000.0,2-Bedroom Apartment in Lekki,Ikate,2.0,2.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw07595,Lekki
+Land,Residential Land,260000000.0,Land Measuring 1280sqm- Lekki,Ajah,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-1280sqm-lekki-cwl1408,Ajah
+For Rent,Detached Duplex,40000000.0,5 Bedroom Fully Detached Houses + BQ in Lekkki,Lekki Phase 1,5.0,5.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/5-bedroom-fully-detached-houses-bq-in-lekkki-cw07739,Lekki
+Land,Mixed-Use Land,1800000000.0,Land Measuring 1180sq- Lekki phase 1,Lekki Phase 1,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-1180sq-lekki-phase-1-cwl1393,Lekki
+For Sale,Detached Duplex,600000000.0,5 Bedroom Fully Detached House in Lekki,Ikota,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-house-in-lekki-cw07656,Lekki
+For Rent,Apartment,9500000.0,Studio Apartment in Lekki,Chevron,1.0,1.0,Esther,+234 814 640 1276,https://cwlagos.com/property/studio-apartment-in-lekki-cw07731,Lekki
+Land,Mixed-Use Land,1090000.0,Land Measuring 4600sqm- VI,Oniru,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-4600sqm-vi-cwl1400,Victoria Island
+For Sale,Detached Duplex,500000000.0,"5-Bedroom Duplex +BQ,Pool & Cinema in Lekki",Orchid,5.0,5.0,Teni,+234 704 816 4812,https://cwlagos.com/property/5-bedroom-duplex-bqpool-and-cinema-in-lekki-cw07894,Lekki
+For Rent,Terrace,35000000.0,4-Bedroom Terrace Duplex with BQ- VI,Oniru,4.0,4.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/4-bedroom-terrace-duplex-with-bq-vi-cw07930,Victoria Island
+For Sale,Terrace,125000000.0,4-Bedroom Terrace Duplex- Lekki,Orchid,4.0,4.0,Teni,+234 704 816 4812,https://cwlagos.com/property/4-bedroom-terrace-duplex-lekki-cw07949,Lekki
+For Sale,Semi Detached,1200000000.0,4 Bedroom Semi-Detached Duplex in Ikoyi,Parkview,4.0,4.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-in-ikoyi-cw08010,Ikoyi
+For Rent,Maisonette,35000000.0,4-Bedroom Maisonette in Lekki Phase 1,Lekki Phase 1,4.0,4.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/4-bedroom-maisonette-in-lekki-phase-1-cw07875,Lekki
+For Sale,Detached Duplex,450000000.0,6 Bedroom Fully Detached Duplex in Lekki,Ikota,6.0,6.0,Peter,+234 906 251 1344,https://cwlagos.com/property/6-bedroom-fully-detached-duplex-in-lekki-cw07969,Lekki
+For Rent,Apartment,8000000.0,2-Bedroom Apartment in Lekki,Ologolo,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw07823,Lekki
+For Sale,Terrace,1600000000.0,4-Bedroom Terrace Duplex with BQ – Ikoyi,Banana Island,4.0,4.0,Rose,+234 814 922 6187,https://cwlagos.com/property/4-bedroom-terrace-duplex-with-bq-ikoyi-cw07923,Ikoyi
+For Rent,Semi Detached,15000000.0,4-Bedroom Semi-Detached Duplex +Bq in Lekki,Osapa,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-bq-in-lekki-cw07994,Lekki
+For Sale,Terrace,200000000.0,4-Bedroom Terrace Duplex,Ologolo,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-terrace-duplex-cw07639,Lekki
+For Rent,Commercial,2000000000.0,Prime Commercial Property – Lekki Phase One,Lekki Phase 1,,,Nadi,+2349062511345,https://cwlagos.com/property/prime-commercial-property-lekki-phase-one-cw07912,Lekki
+For Rent,Apartment,20000000.0,2-Bedroom Apartment in Lekki,Lekki,2.0,2.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw07709,Lekki
+For Sale,Semi Detached,1600000000.0,4-Bedroom Semi-Detached Duplex +BQ in Ikoyi,Ikoyi,4.0,4.0,Titi,+234 707 886 6245,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-bq-in-ikoyi-cw07881,Ikoyi
+For Sale,Apartment,180000000.0,2-Bedroom Apartments +BQ in Lekki,Ikate,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/2-bedroom-apartments-bq-in-lekki-cw07904,Lekki
+For Rent,Terrace,40000000.0,4-Bedroom Terrace Duplex with BQ in Oniru,Oniru,4.0,4.0,Titi,+234 707 886 6245,https://cwlagos.com/property/4-bedroom-terrace-duplex-with-bq-in-oniru-cw07786,Victoria Island
+,Mixed-Use Land,3438790.0,2245sqm Development Land- VI,,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/2245sqm-development-land-vi-cwl1392,
+For Rent,Terrace,35000000.0,4-Bedroom Terrace with BQ- VI,Victoria Island,,,Wunmi,+234 908 807 2107,https://cwlagos.com/property/4-bedroom-terrace-with-bq-vi-cw07795,Victoria Island
+For Rent,Apartment,18500000.0,2 Bedroom Apartment for Rent in Lekki,Lekki,,,Peter,+234 906 251 1344,https://cwlagos.com/property/2-bedroom-apartment-for-rent-in-lekki-cw07665,Lekki
+For Rent,Detached Duplex,25000000.0,5-Bedroom Fully Detached Duplex with BQ & Pool in Lekki,Lekki,,,Esther,+234 814 640 1276,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-with-bq-and-pool-in-lekki-cw07730,Lekki
+For Sale,Terrace,850000000.0,4-Bedroom Terrace Duplex in Victoria Island,Victoria Island,4.0,4.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/4-bedroom-terrace-duplex-in-victoria-island-cw07871,Victoria Island
+For Sale,Apartment,1100412655.0,3-Bedroom Apartments - Ikoyi,Ikoyi,3.0,3.0,Rose,+234 814 922 6187,https://cwlagos.com/property/3-bedroom-apartments-ikoyi-cw07921,Ikoyi
+Land,Mixed-Use Land,5000000.0,Land Measuring 2245sqm- Ikoyi,Ikoyi,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-2245sqm-ikoyi-cwl1398,Ikoyi
+For Sale,Detached Duplex,460000000.0,5-Bedroom Detached Duplex with BQ,Ikota,5.0,5.0,Esther,+234 814 640 1276,https://cwlagos.com/property/5-bedroom-detached-duplex-with-bq-cw07613,Lekki
+For Rent,Apartment,10000000.0,2-Bedroom Apartment,Ologolo,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/2-bedroom-apartment-cw07617,Lekki
+For Rent,Apartment,15000000.0,3 BEDROOM MAISONETTE –LEKKI,Ikate,3.0,3.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/3-bedroom-maisonette-lekki-cw07676,Lekki
+For Sale,Detached Duplex,400000000.0,5 Bedroom Fully Detached House with BQ in Lekki,Ikota,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-house-with-bq-in-lekki-cw07758,Lekki
+For Sale,Apartment,285000000.0,2-Bedroom Apartment in Lekki Phase I,Lekki Phase 1,2.0,2.0,Peter,+234 906 251 1344,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-phase-i-cw07596,Lekki
+For Rent,Terrace,30000000.0,4 bedroom terrace with BQ Lekki Phase 1,Lekki Phase 1,4.0,4.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/4-bedroom-terrace-with-bq-lekki-phase-1-cw07680,Lekki
+Land,Mixed-Use Land,2500000.0,Land Measuring 7060sqm- VI,Victoria Island,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/land-measuring-7060sqm-vi-cwl1413,Victoria Island
+For Rent,Terrace,25000000.0,4-Bedroom Terrace with Bq in Old Ikoyi,Old Ikoyi,4.0,4.0,Sophia,+234 814 497 6677,https://cwlagos.com/property/4-bedroom-terrace-with-bq-in-old-ikoyi-cw07720,Ikoyi
+Land,Mixed-Use Land,2500000.0,Land Measuring 2000sqm- VI,Victoria Island,,,Rose,+234 814 922 6187,https://cwlagos.com/property/land-measuring-2000sqm-vi-cwl1403,Victoria Island
+For Rent,Apartment,150000000.0,5-Bedroom Fully Detached House -Ikoyi,Parkview,5.0,5.0,Rose,+234 814 922 6187,https://cwlagos.com/property/5-bedroom-fully-detached-house-ikoyi-cw07660,Ikoyi
+For Rent,Apartment,45000000.0,3-Bedroom Apartment in Victoria Island,Victoria Island,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/3-bedroom-apartment-in-victoria-island-cw07632,Victoria Island
+For Rent,Apartment,25000000.0,3-Bedroom Apartment in Lekki,Lekki Phase 1,3.0,3.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/3-bedroom-apartment-in-lekki-cw07897,Lekki
+For Rent,Apartment,20000000.0,3-Bedroom Apartment with BQ– Lekki (Right Side),Oniru,3.0,3.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/3-bedroom-apartment-with-bq-lekki-right-side-cw07646,Victoria Island
+For Sale,Apartment,195000000.0,New Development Apartment- VI,Victoria Island,1.0,1.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/new-development-apartment-vi-nd224,Victoria Island
+For Rent,Apartment,17000000.0,2-Bedroom Apartment in Lekki Phase 1,Lekki Phase 1,2.0,2.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-phase-1-cw07874,Lekki
+For Rent,Terrace,45000000.0,4- Bedroom Terrace Duplex in Ikoyi,Ikoyi,4.0,4.0,Titi,+234 707 886 6245,https://cwlagos.com/property/4-bedroom-terrace-duplex-in-ikoyi-cw07985,Ikoyi
+For Sale,Detached Duplex,950000000.0,5-Bedroom Detached Duplex +2 BQ in Lekki,Lekki Phase 1,5.0,5.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/5-bedroom-detached-duplex-2-bq-in-lekki-cw07900,Lekki
+For Rent,Penthouse,151306740.0,5 Bedroom Apartment | Ikoyi,Ikoyi,5.0,5.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/5-bedroom-apartment-ikoyi-cw07898,Ikoyi
+Land,Mixed-Use Land,3500000.0,Lands measuring 1000sqm and 2000sqm- Ikoyi,Banana Island,,,Emmanuel,+234 908 807 2106,https://cwlagos.com/property/lands-measuring-1000sqm-and-2000sqm-ikoyi-cwl1399,Ikoyi
+For Rent,Maisonette,1500000000.0,4-Bedroom Maisonette + BQ – Old Ikoyi,Ikoyi,4.0,4.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/4-bedroom-maisonette-bq-old-ikoyi-cw07882,Ikoyi
+Land,Residential Land,3500000000.0,Prime Land Measuring 850sqm – Ikoyi,Ikoyi,,,Rose,+234 814 922 6187,https://cwlagos.com/property/prime-land-measuring-850sqm-ikoyi-cwl1406,Ikoyi
+For Sale,Semi Detached,1300000000.0,5-Bedroom Semi-Detached in Ikoyi,Ikoyi,5.0,5.0,Titi,+234 707 886 6245,https://cwlagos.com/property/5-bedroom-semi-detached-in-ikoyi-cw07879,Ikoyi
+For Rent,Terrace,50000000.0,4-Bedroom Terrace with BQ- Ikoyi,Old Ikoyi,4.0,4.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/4-bedroom-terrace-with-bq-ikoyi-cw07745,Ikoyi
+For Sale,Detached Duplex,190000000.0,4-Bedroom Detached Duplex with Bq in Ajah,Ajah,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/4-bedroom-detached-duplex-with-bq-in-ajah-cw07755,Ajah
+For Sale,Terrace,150000000.0,4-Bedroom Terrace Duplex,Ikota,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-terrace-duplex-cw07610,Lekki
+For Sale,Apartment,260000000.0,2-Bedroom Apartment in Lekki,Ikate,2.0,2.0,Peter,+234 906 251 1344,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw07599,Lekki
+For Sale,Terrace,320000000.0,4-Bedroom Terrace Duplex +BQ in Osapa,Osapa,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-terrace-duplex-bq-in-osapa-nd223,Lekki
+For Rent,Penthouse,97200000.0,Pent-Floor (9th Floor) Luxury Apartment- Ikoyi,Ikoyi,3.0,3.0,Olade,+234 810 875 5286,https://cwlagos.com/property/pent-floor-9th-floor-luxury-apartment-ikoyi-cw07857,Ikoyi
+For Sale,Detached Duplex,380000000.0,5 Bedroom Fully Detached Smart Home in Lekki,Ikota,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-smart-home-in-lekki-cw07963,Lekki
+For Rent,Apartment,37000000.0,3-Bedroom Apartment– Ikoyi,Banana Island,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/3-bedroom-apartment-ikoyi-cw07696,Ikoyi
+For Sale,Detached Duplex,630000000.0,5 Bedroom Fully Detached House with BQ in Lekki,Ikota,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-house-with-bq-in-lekki-cw07757,Lekki
+For Rent,Maisonette,2063273728.0,5 Bedroom Maisonettes- Ikoyi,Banana Island,5.0,5.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/5-bedroom-maisonettes-ikoyi-nd230,Ikoyi
+For Rent,Apartment,10000000.0,3 Bedroom Apartment,Ologolo,3.0,3.0,Esther,+234 814 640 1276,https://cwlagos.com/property/3-bedroom-apartment-cw08004,Lekki
+For Sale,Apartment,550000000.0,2-Bedroom Apartment + BQ – Ikoyi,Parkview,2.0,2.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/2-bedroom-apartment-bq-ikoyi-cw07886,Ikoyi
+For Sale,Semi Detached,2800000000.0,Twin Duplexes,Victoria Island,5.0,5.0,Nadi,+2349062511345,https://cwlagos.com/property/twin-duplexes-cw07820,Victoria Island
+For Rent,Apartment,6500000.0,2-Bedroom Apartment in Lekki,Ologolo,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw07818,Lekki
+For Sale,Apartment,250000000.0,2-Bedroom Apartment +BQ in Victoria Island,Victoria Island,2.0,2.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/2-bedroom-apartment-bq-in-victoria-island-cw07885,Victoria Island
+For Sale,Terrace,1200000000.0,4 Bedroom Pent-Floor Maisonette in VI,Victoria Island,4.0,4.0,Sophia,+234 814 497 6677,https://cwlagos.com/property/4-bedroom-pent-floor-maisonette-in-vi-cw08014,Victoria Island
+For Sale,Apartment,400000000.0,2 Bedroom Apartment in Victoria Island,Victoria Island,2.0,2.0,Seun,+234 704 808 9360,https://cwlagos.com/property/2-bedroom-apartment-in-victoria-island-cw07733,Victoria Island
+For Sale,Semi Detached,220000000.0,4 Bedroom Semi-Detached Duplex in Lekki,Ikota,4.0,4.0,Peter,+234 906 251 1344,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-in-lekki-cw07606,Lekki
+For Rent,Apartment,12000000.0,Fully Furnished 3 Bedroom Terrace Duplex Apartment,Osapa,3.0,3.0,Esther,+234 814 640 1276,https://cwlagos.com/property/fully-furnished-3-bedroom-terrace-duplex-apartment-cw08007,Lekki
+For Rent,Commercial,35000000.0,Commercial Property –Victoria Island,Lekki Phase 1,,,Nadi,+2349062511345,https://cwlagos.com/property/commercial-property-victoria-island-cw07624,Lekki
+For Sale,Terrace,350000000.0,4 Bedroom Terrace with BQ in Lekki,Osapa,4.0,4.0,Peter,+234 906 251 1344,https://cwlagos.com/property/4-bedroom-terrace-with-bq-in-lekki-cw07667,Lekki
+For Sale,Terrace,250000000.0,3 Bedroom Terrace Duplex in Ikate,Ikate,3.0,3.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/3-bedroom-terrace-duplex-in-ikate-cw07932,Lekki
+For Rent,Terrace,25000000.0,4-Bedroom Terrace with BQ – Victoria Island,Oniru,4.0,4.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/4-bedroom-terrace-with-bq-victoria-island-cw07711,Victoria Island
+For Rent,Terrace,80000000.0,5-Bedroom Terrace Apartment – Ikoyi,Banana Island,5.0,5.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/5-bedroom-terrace-apartment-ikoyi-cw07769,Ikoyi
+For Rent,Terrace,7000000.0,4 Bedroom Terrace Duplex,Osapa,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-terrace-duplex-cw08008,Lekki
+For Rent,Apartment,15000000.0,1-Bedroom Apartment- Ikoyi,Ikoyi,1.0,1.0,Olade,+234 810 875 5286,https://cwlagos.com/property/1-bedroom-apartment-ikoyi-cw07853,Ikoyi
+For Sale,Detached Duplex,500000000.0,5 Bedroom Fully Detached House in Lekki,Ikota,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-house-in-lekki-cw07653,Lekki
+For Sale,Terrace,140000000.0,4 Bedroom Terrace Duplex in lekki,Ikota,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-terrace-duplex-in-lekki-cw07781,Lekki
+For Rent,Apartment,25000000.0,1-Bedroom Apartment– Old Ikoyi,Old Ikoyi,1.0,1.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/1-bedroom-apartment-old-ikoyi-cw07690,Ikoyi
+For Sale,Terrace,280000000.0,4-Bedroom Terrace Duplex in Lekki,Lekki,4.0,4.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/4-bedroom-terrace-duplex-in-lekki-cw07705,Lekki
+Land,Mixed-Use Land,3800000.0,Land measuring 1440sqm- Ikoyi,Ikoyi,,,Rose,+234 814 922 6187,https://cwlagos.com/property/land-measuring-1440sqm-ikoyi-cwl1385,Ikoyi
+For Rent,Apartment,37000000.0,3-BEDROOM WATERFRONT APARTMENT + BQ – IKOYI,Banana Island,3.0,3.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/3-bedroom-waterfront-apartment-bq-ikoyi-cw07742,Ikoyi
+For Rent,Maisonette,43400000.0,3 Bedroom Maisonette in Lekki,,3.0,3.0,Peter,+234 906 251 1344,https://cwlagos.com/property/3-bedroom-maisonette-in-lekki-cw07976,
+For Sale,Semi Detached,400000000.0,4-Bedroom Semi-Detached Duplex in Lekki,Lekki Phase 1,4.0,4.0,Peter,+234 906 251 1344,https://cwlagos.com/property/4-bedroom-semi-detached-duplex-in-lekki-cw07598,Lekki
+For Rent,Apartment,42000000.0,3-Bedroom Apartment with BQ- VI,Victoria Island,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/3-bedroom-apartment-with-bq-vi-cw07776,Victoria Island
+For Sale,Apartment,200000000.0,2 Bedroom Furnished Apartment,Lekki,2.0,2.0,Faith,+234 702 602 4170,https://cwlagos.com/property/2-bedroom-furnished-apartment-cw07699,Lekki
+For Rent,Apartment,50000000.0,3-Bedroom Apartment + BQ –Ikoyi,Banana Island,3.0,3.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/3-bedroom-apartment-bq-ikoyi-cw07648,Ikoyi
+For Rent,Apartment,25000000.0,2-Bedroom Apartment (5th Floor)- VI,Oniru,2.0,2.0,Wunmi,+234 908 807 2107,https://cwlagos.com/property/2-bedroom-apartment-5th-floor-vi-cw08025,Victoria Island
+For Rent,Commercial,85000000.0,Detached Commercial Property- VI,Victoria Island,,,Nadi,+2349062511345,https://cwlagos.com/property/detached-commercial-property-vi-cw07910,Victoria Island
+For Rent,Apartment,30000000.0,Luxury 3 Bedroom Apartment + BQ in Lekki,Lekki Phase 1,3.0,3.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/luxury-3-bedroom-apartment-bq-in-lekki-cw07983,Lekki
+For Sale,Detached Duplex,370000000.0,5 Bedroom Fully Detached House in Lekki,Orchid,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-house-in-lekki-cw07966,Lekki
+For Rent,Apartment,6000000.0,2-Bedroom Apartment in Ikate,Ikate,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/2-bedroom-apartment-in-ikate-cw07918,Lekki
+For Sale,Detached Duplex,300000000.0,4 Bedroom Fully Detached Duplex in Lekki,Lekki,4.0,4.0,Peter,+234 906 251 1344,https://cwlagos.com/property/4-bedroom-fully-detached-duplex-in-lekki-cw07655,Lekki
+For Sale,Detached Duplex,100000000.0,5-Bedroom Detached+2 Bq in Lekki Phase 1,Lekki Phase 1,5.0,5.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/5-bedroom-detached-2-bq-in-lekki-phase-1-cw07888,Lekki
+For Sale,Terrace,480000000.0,4 Bedroom Terrace Duplex with BQ in Lekki,Chevron,4.0,4.0,Peter,+234 906 251 1344,https://cwlagos.com/property/4-bedroom-terrace-duplex-with-bq-in-lekki-cw07956,Lekki
+For Rent,Apartment,165061898.0,4-Bedroom Apartment – Old Ikoyi,Old Ikoyi,4.0,4.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/4-bedroom-apartment-old-ikoyi-cw07695,Ikoyi
+For Sale,Apartment,1000000000.0,3-Bedroom Apartments in Victoria Island,Victoria Island,3.0,3.0,Seun,+234 704 808 9360,https://cwlagos.com/property/3-bedroom-apartments-in-victoria-island-cw07687,Victoria Island
+For Rent,Penthouse,40000000.0,3-Bedroom Penthouse –Ikoyi,Parkview,3.0,3.0,Adaeze,+234 816 631 5298,https://cwlagos.com/property/3-bedroom-penthouse-ikoyi-cw07641,Ikoyi
+For Rent,Apartment,50000000.0,4-Bedroom Apartment +BQ in Ikoyi,Ikoyi,4.0,4.0,Titi,+234 707 886 6245,https://cwlagos.com/property/4-bedroom-apartment-bq-in-ikoyi-cw07986,Ikoyi
+For Sale,Detached Duplex,480000000.0,5 Bedroom Fully Detached Duplex in Lekki,Chevron,5.0,5.0,Peter,+234 906 251 1344,https://cwlagos.com/property/5-bedroom-fully-detached-duplex-in-lekki-cw07972,Lekki
+For Sale,Terrace,600000000.0,3-Bedroom Terrace Duplex in Lekki,Lekki Phase 1,3.0,3.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/3-bedroom-terrace-duplex-in-lekki-cw07800,Lekki
+For Rent,Detached Duplex,40000000.0,5-Bedroom Detached Duplex in Osapa,Osapa,5.0,5.0,Teni,+234 704 816 4812,https://cwlagos.com/property/5-bedroom-detached-duplex-in-osapa-cw07852,Lekki
+For Rent,Commercial,618982.0,Grade A Office Space - Victoria Island,Victoria Island,,,Nadi,+2349062511345,https://cwlagos.com/property/grade-a-office-space-victoria-island-cw07678,Victoria Island
+For Sale,Semi Detached,500000000.0,5-Bedroom Semi-Detached Duplex +BQ in Osapa,Osapa,5.0,5.0,Esther,+234 814 640 1276,https://cwlagos.com/property/5-bedroom-semi-detached-duplex-bq-in-osapa-nd222,Lekki
+For Sale,Apartment,320000000.0,3-Bedroom Apartment in Lekki Phase I,Lekki Phase 1,3.0,3.0,Peter,+234 906 251 1344,https://cwlagos.com/property/3-bedroom-apartment-in-lekki-phase-i-cw07593,Lekki
+For Sale,Apartment,200000000.0,2 Bedroom Apartment in Lekki,Ikate,2.0,2.0,Peter,+234 906 251 1344,https://cwlagos.com/property/2-bedroom-apartment-in-lekki-cw07761,Lekki
+For Rent,Apartment,25000000.0,2-Bedroom Apartment- Ikoyi,Ikoyi,2.0,2.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/2-bedroom-apartment-ikoyi-cw07832,Ikoyi
+For Sale,Detached Duplex,300000000.0,4 Bedroom Fully Detached Duplex + BQ in Ajah,Ajah,4.0,4.0,Esther,+234 814 640 1276,https://cwlagos.com/property/4-bedroom-fully-detached-duplex-bq-in-ajah-cw07775,Ajah
+For Rent,Detached Duplex,80000000.0,5-Bedroom Fully Detached House in Ikoyi,Ikoyi,5.0,5.0,Titi,+234 707 886 6245,https://cwlagos.com/property/5-bedroom-fully-detached-house-in-ikoyi-cw07929,Ikoyi
+For Sale,Apartment,350000000.0,4-Bedroom Apartment- Lekki,Ikate,4.0,4.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/4-bedroom-apartment-lekki-cw07840,Lekki
+For Rent,Apartment,49100000.0,3 Bedroom Apartment in Lekki,Lekki Phase 1,3.0,3.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/3-bedroom-apartment-in-lekki-cw08024,Lekki
+For Sale,Semi Detached,1000000000.0,5 Bedroom Semi-Detached Duplex in Ikate,Ikate,5.0,5.0,Ebunoluwa,+234 704 808 9358,https://cwlagos.com/property/5-bedroom-semi-detached-duplex-in-ikate-cw08020,Lekki
+For Sale,Terrace,125000000.0,1 & 2-Bedroom Terrace Duplex,Ologolo,2.0,2.0,Esther,+234 814 640 1276,https://cwlagos.com/property/1-and-2-bedroom-terrace-duplex-cw07635,Lekki
+For Rent,Commercial,130000000.0,Waterfront Commercial Development – Lekki Phase 1,Lekki Phase 1,,,Nadi,+2349062511345,https://cwlagos.com/property/waterfront-commercial-development-lekki-phase-1-cw07623,Lekki
+For Rent,Semi Detached,35000000.0,5 Bedroom Semi-Detached Duplex +BQ in Lekki,Lekki Phase 1,5.0,5.0,Jennifer,+234 704 808 9361,https://cwlagos.com/property/5-bedroom-semi-detached-duplex-bq-in-lekki-cw07982,Lekki
+For Rent,Apartment,75000000.0,3-Bedroom Apartment + BQ- Ikoyi,Old Ikoyi,3.0,3.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/3-bedroom-apartment-bq-ikoyi-cw07839,Ikoyi
+For Rent,Commercial,825309.0,GRADE A COMMERCIAL BUILDING– IKOYI,Ikoyi,,,Nadi,+2349062511345,https://cwlagos.com/property/grade-a-commercial-building-ikoyi-cw07679,Ikoyi
+For Rent,Commercial,25000000.0,Upper-Floor Commercial Space in Lekki Phase 1,Lekki Phase 1,,,Nadi,+2349062511345,https://cwlagos.com/property/upper-floor-commercial-space-in-lekki-phase-1-cw07951,Lekki
+For Sale,Maisonette,1500000000.0,5 Bedroom Penthouse Maisonette,Oniru,5.0,5.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/4-bedroom-flat-and-5-bedroom-penthouse-maisonette-in-oniru-victoria-island-cw08104,Victoria Island
+For Sale,Apartment,650000000.0,"4 Bedroom Flat (235sqm) new development at Oniru, Victoria Island",Oniru,4.0,4.0,Ifunanya,+234 706 399 0727,https://cwlagos.com/property/4-bedroom-flat-and-5-bedroom-penthouse-maisonette-in-oniru-victoria-island-cw08104,Victoria Island
