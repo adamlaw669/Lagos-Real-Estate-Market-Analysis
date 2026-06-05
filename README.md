@@ -25,6 +25,7 @@ This project explores the Lagos residential market from raw listings through to 
 
 - `data/raw/` — scraped raw CSV files
 - `data/processed/lagos_real_estate_market_data_cleaned.csv` — cleaned dataset used for analysis
+- Published and reusable on [Kaggle]([url](https://www.kaggle.com/datasets/adamlawal/lagos-state-real-estate-data-cw))
 
 ## Setup
 
@@ -44,3 +45,4 @@ pip install -r requirements.txt
 
 - The report folder contains the polished write-up and the supporting figures.
 - If you rerun the report generation, the figures in `reports/figures/` will be recreated automatically.
+- The detailed report is available on [Medium]([url](https://adamlawal.medium.com/exploratory-data-analysis-on-alx-nigeria-learner-outcomes-ae47cf46a96d))
