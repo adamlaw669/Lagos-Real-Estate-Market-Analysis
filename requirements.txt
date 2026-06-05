@@ -1,0 +1,6 @@
+pandas>=2.2
+numpy>=2.0
+matplotlib>=3.9
+selenium>=4.20
+jupyter>=1.1
+ipykernel>=6.29
